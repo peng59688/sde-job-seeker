@@ -1,0 +1,36 @@
+name: daily-job-refresh
+
+on:
+  schedule:
+    # 每天 16:00 UTC = 09:00 PDT（PST 为 08:00），自动刷新岗位快照
+    - cron: '0 16 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Refresh job snapshot
+        run: python3 scripts/refresh_jobs.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "sde-job-seeker-bot"
+          git config user.email "sde-job-seeker-bot@users.noreply.github.com"
+          git add data/jobs.json data/meta.json
+          if git diff --cached --quiet; then
+            echo "no changes to commit"
+          else
+            git commit -m "chore: daily job snapshot $(date -u +%Y-%m-%d)"
+            git push
+          fi
