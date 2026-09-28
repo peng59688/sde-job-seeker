@@ -95,7 +95,7 @@ function estimateExperience(text){
 }
 function suggestLevel(years){if(years==null)return 'all';if(years<2)return 'entry';if(years<6)return 'mid';if(years<9)return 'senior';return 'staff'}
 function targetLevel(){const choice=document.querySelector('#level').value;return choice==='auto'?(resumeLoaded?inferredLevel:'all'):choice}
-function levelKey(level){if(level==='Entry')return 'entry';if(level==='Mid-level')return 'mid';if(level==='Senior')return 'senior';if(level==='Staff+')return 'staff';return 'all'}
+function levelKey(level){if(level==='Entry'||level==='entry')return 'entry';if(level==='Mid-level'||level==='SDE2/mid'||level==='mid')return 'mid';if(level==='Senior'||level==='senior')return 'senior';if(level==='Staff+'||level==='staff')return 'staff';return 'all'}
 function levelFit(job){
  const target=targetLevel(),key=levelKey(job.level);
  if(target==='all')return {match:false,boost:0,label:'不限级别'};
@@ -202,12 +202,12 @@ async function parseResume(file){
 async function handleFile(file){
  const box=document.querySelector('#resumeResult'),scoreFilter=document.querySelector('#minScore');box.classList.add('show');box.textContent=`正在解析 ${file.name}…`;
  try{
-  const text=await parseResume(file);resumeKeywords=extractKeywords(text);experienceYears=estimateExperience(text);inferredLevel=suggestLevel(experienceYears);resumeLoaded=true;scoreFilter.disabled=false;visibleLimit=40;
+  const text=await parseResume(file);resumeKeywords=extractKeywords(text);experienceYears=estimateExperience(text);inferredLevel=suggestLevel(experienceYears);resumeLoaded=true;scoreFilter.disabled=false;scoreFilter.options[0].textContent='不过滤';visibleLimit=40;
   const levelText=experienceYears==null?'未从日期范围估算出年限，请手动选择目标级别':`从简历日期粗估 ${experienceYears} 年，建议 ${LEVEL_LABELS[inferredLevel]}；可在筛选栏手动改`;
   box.innerHTML=`<b>已读取 ${esc(file.name)}</b><br>${resumeKeywords.length?`识别到 ${resumeKeywords.length} 个技术关键词。岗位分数 = 简历覆盖的 JD 技能词 ÷ JD 技能词总数（≥80% 非常适合投递，60–79% 建议投递，<60% 自行判断）。`:'没有识别到词表中的技术关键词，匹配分会为 0。'}<div class="estimate">${esc(levelText)}</div><div class="skill-list">${resumeKeywords.slice(0,24).map(s=>`<span class="skill">${esc(s)}</span>`).join('')}</div>`;render();
  }catch(e){resumeKeywords=[];resumeLoaded=false;experienceYears=null;inferredLevel='all';scoreFilter.disabled=true;box.innerHTML=`<b>无法解析这份文件</b><br>${esc(e.message)}`;render()}
 }
-const dz=document.querySelector('#dropzone'),fi=document.querySelector('#fileInput');fi.addEventListener('change',()=>fi.files[0]&&handleFile(fi.files[0]));['dragenter','dragover'].forEach(x=>dz.addEventListener(x,e=>{e.preventDefault();dz.classList.add('drag')}));['dragleave','drop'].forEach(x=>dz.addEventListener(x,e=>{e.preventDefault();dz.classList.remove('drag')}));dz.addEventListener('drop',e=>e.dataTransfer.files[0]&&handleFile(e.dataTransfer.files[0]));
+const dz=document.querySelector('#dropzone'),fi=document.querySelector('#fileInput');fi.addEventListener('change',()=>{const f=fi.files[0];fi.value='';if(f)handleFile(f)});['dragenter','dragover'].forEach(x=>dz.addEventListener(x,e=>{e.preventDefault();dz.classList.add('drag')}));['dragleave','drop'].forEach(x=>dz.addEventListener(x,e=>{e.preventDefault();dz.classList.remove('drag')}));dz.addEventListener('drop',e=>e.dataTransfer.files[0]&&handleFile(e.dataTransfer.files[0]));
 document.querySelectorAll('.toolbar input,.toolbar select').forEach(el=>el.addEventListener('input',()=>{visibleLimit=40;render()}));document.querySelectorAll('.tab').forEach(btn=>btn.addEventListener('click',()=>{view=btn.dataset.view;document.querySelectorAll('.tab').forEach(b=>{b.classList.toggle('active',b===btn);b.setAttribute('aria-selected',b===btn)});document.querySelector('#jobsView').classList.toggle('hide',view!=='jobs');document.querySelector('#companiesView').classList.toggle('hide',view!=='companies');render()}));document.querySelector('#loadMore').addEventListener('click',()=>{visibleLimit+=40;renderJobs()});document.querySelector('#downloadBtn').addEventListener('click',()=>{const blob=new Blob(['<!doctype html>\n'+document.documentElement.outerHTML],{type:'text/html'}),a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='job-seeker-share.html';a.click();setTimeout(()=>URL.revokeObjectURL(a.href),1000)});
 render();
 </script>
