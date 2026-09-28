@@ -1,0 +1,9 @@
+{
+ "updated_at": "2026-09-28",
+ "jobs": 415,
+ "companies": 81,
+ "companies_with_jobs": 47,
+ "carried_over": 5,
+ "errors": [],
+ "note": "refreshed daily by .github/workflows/refresh.yml"
+}
