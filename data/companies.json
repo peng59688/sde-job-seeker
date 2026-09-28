@@ -1,0 +1,2411 @@
+[
+ {
+  "name": "CockroachDB",
+  "domain": "Cloud-native Distributed SQL Engine",
+  "work_model": "Remote US",
+  "work_type": "remote",
+  "wlb": 4,
+  "tc_raw": "Mid: ~$250K-$290K | Senior: ~$360K-$440K",
+  "tc_mid_mid_k": 270,
+  "tc_senior_mid_k": 400,
+  "careers_url": "https://www.cockroachlabs.com/careers/",
+  "tags": [
+   "Infra/数据"
+  ],
+  "score": 430,
+  "tc_band": "Mid: ~$250K-$290K | Senior: ~$360K-$440K",
+  "hq": "New York City, NY",
+  "policy": "Remote US",
+  "domains": [
+   "Infra/数据"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "Official careers page (cockroachlabs.com/careers/jobs) is live but no specific backend/platform/data/full-stack opening was exposed on 2026-09-18; no current relevant role could be verified.",
+  "flags": [
+   "Trading name for Cockroach Labs; product (CockroachDB) vs company naming ambiguity."
+  ],
+  "tc_confidence": "原始名单估算",
+  "ats": "greenhouse",
+  "slug": "cockroachlabs"
+ },
+ {
+  "name": "Confluent",
+  "domain": "Managed Kafka/Flink & Real-time Event Streaming",
+  "work_model": "100% Remote US",
+  "work_type": "remote",
+  "wlb": 4,
+  "tc_raw": "Mid: ~$240K-$280K | Senior: ~$360K-$430K",
+  "tc_mid_mid_k": 260,
+  "tc_senior_mid_k": 395,
+  "careers_url": "https://www.confluent.io/careers/",
+  "tags": [
+   "Infra/数据"
+  ],
+  "score": 420,
+  "tc_band": "Mid: ~$240K-$280K | Senior: ~$360K-$430K",
+  "hq": "Mountain View, CA",
+  "policy": "100% Remote US",
+  "domains": [
+   "Infra/数据"
+  ],
+  "hiring": "borderline",
+  "hiring_evidence": "Official Confluent careers search results showed backend/distributed-systems and full-stack/internal-app roles, but page recency metadata was old or unclear; open status not reconfirmed within ~30 days.",
+  "flags": [
+   "Global HQ in Mountain View, CA confirmed via official Confluent press release."
+  ],
+  "tc_confidence": "原始名单估算",
+  "ats": "ashby",
+  "slug": "confluent"
+ },
+ {
+  "name": "MongoDB",
+  "domain": "Document DB & Atlas Vector Search Engine",
+  "work_model": "Remote US / Seattle",
+  "work_type": "remote",
+  "wlb": 4,
+  "tc_raw": "IC3: ~$240K-$280K | IC4: ~$350K-$420K",
+  "tc_mid_mid_k": 260,
+  "tc_senior_mid_k": 385,
+  "careers_url": "https://www.mongodb.com/careers",
+  "tags": [
+   "Infra/数据",
+   "AI/ML"
+  ],
+  "score": 420,
+  "tc_band": "IC3: ~$240K-$280K | IC4: ~$350K-$420K",
+  "hq": "New York City, NY",
+  "policy": "Remote US / Seattle",
+  "domains": [
+   "Infra/数据",
+   "AI/ML"
+  ],
+  "hiring": "borderline",
+  "hiring_evidence": "Fresh Built In backend/search/ETL roles seen, but no official MongoDB careers page was captured to confirm a live posting within ~30 days.",
+  "flags": [
+   "HQ confirmed via 2026-09-11 company description."
+  ],
+  "tc_confidence": "原始名单估算",
+  "ats": "greenhouse",
+  "slug": "mongodb"
+ },
+ {
+  "name": "HashiCorp",
+  "domain": "Multi-Cloud IaC (Terraform/Vault) & Security Gateways",
+  "work_model": "100% Remote US",
+  "work_type": "remote",
+  "wlb": 5,
+  "tc_raw": "Mid: ~$220K-$260K | Senior: ~$320K-$380K",
+  "tc_mid_mid_k": 240,
+  "tc_senior_mid_k": 350,
+  "careers_url": "https://www.hashicorp.com/careers",
+  "tags": [
+   "Infra/数据",
+   "DevTools"
+  ],
+  "score": 440,
+  "tc_band": "Mid: ~$220K-$260K | Senior: ~$320K-$380K",
+  "hq": "San Francisco, CA",
+  "policy": "100% Remote US",
+  "domains": [
+   "Infra/数据",
+   "DevTools"
+  ],
+  "hiring": "borderline",
+  "hiring_evidence": "Fresh Built In/Startup.jobs backend roles seen, but no official IBM/HashiCorp careers page was captured to confirm a live posting within ~30 days.",
+  "flags": [
+   "Subsidiary of IBM since 2025; distributed workforce; HQ shown as San Francisco, CA."
+  ],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "Elastic",
+  "domain": "Vector Database (Vector Search) & RAG Infra",
+  "work_model": "100% Distributed",
+  "work_type": "remote",
+  "wlb": 5,
+  "tc_raw": "SE II: ~$210K-$240K | Senior: ~$290K-$350K",
+  "tc_mid_mid_k": 225,
+  "tc_senior_mid_k": 320,
+  "careers_url": "https://www.elastic.co/careers/",
+  "tags": [
+   "Infra/数据",
+   "AI/ML"
+  ],
+  "score": 425,
+  "tc_band": "SE II: ~$210K-$240K | Senior: ~$290K-$350K",
+  "hq": "Amsterdam, NL / San Francisco, CA (ambiguous)",
+  "policy": "100% Distributed",
+  "domains": [
+   "Infra/数据",
+   "AI/ML"
+  ],
+  "hiring": "stale",
+  "hiring_evidence": "Only old third-party backend/distributed-systems results with implausible age metadata; no current official posting verified.",
+  "flags": [
+   "Ambiguous dual legal-operational presentation: SEC 2026 filing lists Amsterdam, Netherlands business address and San Francisco, California mailing address; LinkedIn lists San Francisco."
+  ],
+  "tc_confidence": "原始名单估算",
+  "ats": "greenhouse",
+  "slug": "elastic"
+ },
+ {
+  "name": "Snowflake",
+  "domain": "Data Cloud, Streaming Tables & Cortex AI",
+  "work_model": "Seattle / Bellevue (Hybrid)",
+  "work_type": "hybrid",
+  "wlb": 4,
+  "tc_raw": "IC3: ~$270K-$320K | IC4: ~$380K-$450K",
+  "tc_mid_mid_k": 295,
+  "tc_senior_mid_k": 415,
+  "careers_url": "https://careers.snowflake.com/",
+  "tags": [
+   "Infra/数据",
+   "AI/ML"
+  ],
+  "score": 455,
+  "tc_band": "IC3: ~$270K-$320K | IC4: ~$380K-$450K",
+  "hq": "Bozeman, MT (no formal HQ; principal executive office)",
+  "policy": "Seattle / Bellevue (Hybrid)",
+  "domains": [
+   "Infra/数据",
+   "AI/ML"
+  ],
+  "hiring": "verified",
+  "hiring_evidence": "Official Snowflake careers posting 'Software Engineer - Backend', updated 4 days before 2026-09-18. Source: https://careers.snowflake.com/us/en/job/SNCOUSDD524B932E4E4E3B84B44684A46E9148EXTERNALENUS3EB872AF0AB149868F72E7321FCD1538/Software-Engineer-Backend (index).",
+  "flags": [
+   "Snowflake states it has no formal headquarters; SEC filings list Bozeman, Montana as principal executive office; major offices in Bellevue and Menlo Park."
+  ],
+  "tc_confidence": "原始名单估算",
+  "ats": "ashby",
+  "slug": "snowflake"
+ },
+ {
+  "name": "Google Cloud",
+  "domain": "GCP Core Infrastructure, Vertex AI & Data Platforms",
+  "work_model": "Seattle (SLU) / Kirkland (3 days onsite)",
+  "work_type": "hybrid",
+  "wlb": 4,
+  "tc_raw": "L4: ~$270K-$320K | L5: ~$380K-$440K+",
+  "tc_mid_mid_k": 295,
+  "tc_senior_mid_k": 410,
+  "careers_url": "https://www.google.com/about/careers/applications/",
+  "tags": [
+   "云",
+   "AI/ML"
+  ],
+  "score": 455,
+  "tc_band": "L4: ~$270K-$320K | L5: ~$380K-$440K+",
+  "hq": "Mountain View, CA (Alphabet/Google HQ)",
+  "policy": "Seattle (SLU) / Kirkland (3 days onsite)",
+  "domains": [
+   "云",
+   "AI/ML"
+  ],
+  "hiring": "borderline",
+  "hiring_evidence": "Official Google Careers results showed backend/full-stack/infrastructure roles, but recency metadata was unclear and no specific posting was confirmed current within ~30 days.",
+  "flags": [
+   "Google Cloud is a business unit of Alphabet/Google, not a standalone corporate entity; HQ reported as the Google/Alphabet HQ."
+  ],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "Stripe",
+  "domain": "Developer Payment APIs, Ledgers & Fraud Detection",
+  "work_model": "Remote US / Seattle Hub",
+  "work_type": "remote",
+  "wlb": 4,
+  "tc_raw": "L3: ~$300K-$350K | L4: ~$420K-$480K",
+  "tc_mid_mid_k": 325,
+  "tc_senior_mid_k": 450,
+  "careers_url": "https://stripe.com/jobs",
+  "tags": [
+   "Fintech"
+  ],
+  "score": 485,
+  "tc_band": "L3: ~$300K-$350K | L4: ~$420K-$480K",
+  "hq": "South San Francisco, CA and Dublin, Ireland (dual HQ)",
+  "policy": "Remote US / Seattle Hub",
+  "domains": [
+   "Fintech"
+  ],
+  "hiring": "verified",
+  "hiring_evidence": "Multiple official stripe.com/careers backend/API postings crawled 1 hour to 2 days before 2026-09-18. Source: https://stripe.com/careers/listing/backend-api-engineer-money-as-a-service/6176758 (index).",
+  "flags": [
+   "Dual headquarters: South San Francisco, California and Dublin, Ireland."
+  ],
+  "tc_confidence": "原始名单估算",
+  "ats": "greenhouse",
+  "slug": "stripe"
+ },
+ {
+  "name": "Airbnb",
+  "domain": "Travel Platform, Distributed Microservices & AI Experiences",
+  "work_model": "100% Remote US",
+  "work_type": "remote",
+  "wlb": 4,
+  "tc_raw": "L4: ~$270K-$320K | L5: ~$400K-$460K",
+  "tc_mid_mid_k": 295,
+  "tc_senior_mid_k": 430,
+  "careers_url": "https://careers.airbnb.com/",
+  "tags": [
+   "出行/本地生活"
+  ],
+  "score": 455,
+  "tc_band": "L4: ~$270K-$320K | L5: ~$400K-$460K",
+  "hq": "San Francisco, CA",
+  "policy": "100% Remote US",
+  "domains": [
+   "出行/本地生活"
+  ],
+  "hiring": "verified",
+  "hiring_evidence": "Official Airbnb careers posting 'Staff Software Engineer, Event Logging', updated 16 days / crawled 15 days before 2026-09-18, requiring backend/internal-infrastructure expertise. Source: https://careers.airbnb.com/positions/8029497/ (index).",
+  "flags": [
+   "Official Airbnb news confirms long-term HQ at 888 Brannan St, San Francisco (lease through 2037). Source: https://news.airbnb.com/our-commitment-to-our-hometown-san-francisco/ (index)."
+  ],
+  "tc_confidence": "原始名单估算",
+  "ats": "greenhouse",
+  "slug": "airbnb"
+ },
+ {
+  "name": "Notion",
+  "domain": "Collaborative Docs & Workflow AI Agents",
+  "work_model": "Remote US",
+  "work_type": "remote",
+  "wlb": 4,
+  "tc_raw": "Mid: ~$260K-$300K | Senior: ~$380K-$460K",
+  "tc_mid_mid_k": 280,
+  "tc_senior_mid_k": 420,
+  "careers_url": "https://www.notion.so/careers",
+  "tags": [
+   "SaaS",
+   "AI/ML"
+  ],
+  "score": 440,
+  "tc_band": "Mid: ~$260K-$300K | Senior: ~$380K-$460K",
+  "hq": "San Francisco, CA",
+  "policy": "Remote US",
+  "domains": [
+   "SaaS",
+   "AI/ML"
+  ],
+  "hiring": "stale",
+  "hiring_evidence": "Mostly old third-party results with 'Last Updated: 3548 days ago'; one fresh Notion-hosted result belonged to 'Perceptron', not clearly Notion itself. No current relevant Notion posting verified.",
+  "flags": [
+   "Global HQ: 685 Market St, San Francisco (JLL investment summary). Source: https://res.cloudinary.com/jll-global-cmg/image/upload/v1770407207/Prod/DealX/Doc/51a65188-c14d-4f66-b4d0-3bbc80d5d63b/685_Market_JLL_Investment_Summary.pdf (index)."
+  ],
+  "tc_confidence": "原始名单估算",
+  "ats": "ashby",
+  "slug": "notion"
+ },
+ {
+  "name": "Reddit",
+  "domain": "Community Feeds, High-throughput Recommenders & LLM Corpus",
+  "work_model": "100% Remote US / Seattle",
+  "work_type": "remote",
+  "wlb": 5,
+  "tc_raw": "L4: ~$250K-$300K | L5: ~$380K-$450K+",
+  "tc_mid_mid_k": 275,
+  "tc_senior_mid_k": 415,
+  "careers_url": "https://boards.greenhouse.io/reddit",
+  "tags": [
+   "社交/社区",
+   "AI/ML"
+  ],
+  "score": 475,
+  "tc_band": "L4: ~$250K-$300K | L5: ~$380K-$450K+",
+  "hq": "San Francisco, CA",
+  "policy": "100% Remote US / Seattle",
+  "domains": [
+   "社交/社区",
+   "AI/ML"
+  ],
+  "hiring": "verified",
+  "hiring_evidence": "Official Reddit Greenhouse posting 'Backend Software Engineer, PDP Experience', crawled 1 day before 2026-09-18. Source: https://job-boards.greenhouse.io/reddit/jobs/8148431?ref=dailyremote&utm_source=dailyremote.com&utm_campaign=dailyremote.com&utm_medium=dailyremote.com (index).",
+  "flags": [
+   "Current principal executive office listed at 303 2nd Street, San Francisco."
+  ],
+  "tc_confidence": "原始名单估算",
+  "ats": "greenhouse",
+  "slug": "reddit"
+ },
+ {
+  "name": "Discord",
+  "domain": "Real-time Messaging, Low-latency Audio & AI Communities",
+  "work_model": "100% Remote US",
+  "work_type": "remote",
+  "wlb": 5,
+  "tc_raw": "L3: ~$260K-$320K | L4: ~$380K-$450K+",
+  "tc_mid_mid_k": 290,
+  "tc_senior_mid_k": 415,
+  "careers_url": "https://discord.com/careers",
+  "tags": [
+   "社交/社区",
+   "AI/ML"
+  ],
+  "score": 490,
+  "tc_band": "L3: ~$260K-$320K | L4: ~$380K-$450K+",
+  "hq": "San Francisco, CA",
+  "policy": "100% Remote US",
+  "domains": [
+   "社交/社区",
+   "AI/ML"
+  ],
+  "hiring": "borderline",
+  "hiring_evidence": "Fresh BITKRAFT-board infrastructure/backend/platform roles seen, but no official Discord listing was captured to confirm a live posting within ~30 days.",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "greenhouse",
+  "slug": "discord"
+ },
+ {
+  "name": "Robinhood",
+  "domain": "Retail Trading, Crypto & High-concurrency Gateways",
+  "work_model": "100% Remote US",
+  "work_type": "remote",
+  "wlb": 4,
+  "tc_raw": "L2: ~$260K-$310K | L3: ~$380K-$450K",
+  "tc_mid_mid_k": 285,
+  "tc_senior_mid_k": 415,
+  "careers_url": "https://robinhood.com/us/en/careers/",
+  "tags": [
+   "Fintech"
+  ],
+  "score": 445,
+  "tc_band": "L2: ~$260K-$310K | L3: ~$380K-$450K",
+  "hq": "Menlo Park, CA",
+  "policy": "100% Remote US",
+  "domains": [
+   "Fintech"
+  ],
+  "hiring": "verified",
+  "hiring_evidence": "Official Robinhood Greenhouse board showed backend roles crawled 1 and 16 days before 2026-09-18. Source: https://job-boards.greenhouse.io/robinhood/jobs/7264931 (index).",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "greenhouse",
+  "slug": "robinhood"
+ },
+ {
+  "name": "Pinterest",
+  "domain": "Visual Search, Multimodal AI & Recommenders",
+  "work_model": "Remote US / Seattle Hub",
+  "work_type": "remote",
+  "wlb": 5,
+  "tc_raw": "L4: ~$260K-$300K | L5: ~$380K-$430K",
+  "tc_mid_mid_k": 280,
+  "tc_senior_mid_k": 405,
+  "careers_url": "https://www.pinterestcareers.com/",
+  "tags": [
+   "社交/社区",
+   "AI/ML"
+  ],
+  "score": 480,
+  "tc_band": "L4: ~$260K-$300K | L5: ~$380K-$430K",
+  "hq": "San Francisco, CA",
+  "policy": "Remote US / Seattle Hub",
+  "domains": [
+   "社交/社区",
+   "AI/ML"
+  ],
+  "hiring": "borderline",
+  "hiring_evidence": "Startup.jobs full-stack/Ads Infrastructure/Content Quality roles crawled 4 hours to 7 days before 2026-09-18, but no official Pinterest listing was captured to confirm a live posting within ~30 days.",
+  "flags": [
+   "HQ: 651 Brannan St, San Francisco (SEC EDGAR)."
+  ],
+  "tc_confidence": "原始名单估算",
+  "ats": "greenhouse",
+  "slug": "pinterest"
+ },
+ {
+  "name": "Datadog",
+  "domain": "Cloud Observability, High-throughput Telemetry & LLM Ops",
+  "work_model": "Remote US / Seattle Hub",
+  "work_type": "remote",
+  "wlb": 3,
+  "tc_raw": "SE II: ~$250K-$300K | Senior: ~$370K-$440K",
+  "tc_mid_mid_k": 275,
+  "tc_senior_mid_k": 405,
+  "careers_url": "https://www.datadoghq.com/careers/",
+  "tags": [
+   "Infra/数据",
+   "DevTools",
+   "AI/ML"
+  ],
+  "score": 395,
+  "tc_band": "SE II: ~$250K-$300K | Senior: ~$370K-$440K",
+  "hq": "New York, NY",
+  "policy": "Remote US / Seattle Hub",
+  "domains": [
+   "Infra/数据",
+   "DevTools",
+   "AI/ML"
+  ],
+  "hiring": "borderline",
+  "hiring_evidence": "Third-party Senior Software Engineer, Backend & Scalability and Product Analytics Backend roles crawled 12 hours before 2026-09-18, but no official Datadog listing was captured to confirm a live posting within ~30 days. Sources: http://startup.jobs/senior-software-engineer-backend-scalability-datadog-7805525 (index); https://indexventures.getro.com/companies/datadog/jobs/58193794-senior-backend-software-engineer-product-analytics (index).",
+  "flags": [
+   "HQ: 620 8th Avenue, Floor 45, New York, NY (official privacy notice; SEC). Source: https://www.datadoghq.com/legal/applicant-candidate-privacy/2020-09-09/ (index)."
+  ],
+  "tc_confidence": "原始名单估算",
+  "ats": "greenhouse",
+  "slug": "datadog"
+ },
+ {
+  "name": "Brex",
+  "domain": "Corporate Cards & Automated Spend Management",
+  "work_model": "100% Remote US",
+  "work_type": "remote",
+  "wlb": 4,
+  "tc_raw": "Mid: ~$250K-$290K | Senior: ~$370K-$440K",
+  "tc_mid_mid_k": 270,
+  "tc_senior_mid_k": 405,
+  "careers_url": "https://www.brex.com/careers",
+  "tags": [
+   "Fintech"
+  ],
+  "score": 430,
+  "tc_band": "Mid: ~$250K-$290K | Senior: ~$370K-$440K",
+  "hq": "San Francisco, CA",
+  "policy": "100% Remote US",
+  "domains": [
+   "Fintech"
+  ],
+  "hiring": "verified",
+  "hiring_evidence": "Official Brex careers page 'Senior Software Engineer, Backend', crawled 5 days before 2026-09-18. Source: https://www.brex.com/careers/8603330002 (index).",
+  "flags": [
+   "Brex LLC is a wholly owned subsidiary of Capital One, N.A.; HQ San Francisco, CA."
+  ],
+  "tc_confidence": "原始名单估算",
+  "ats": "greenhouse",
+  "slug": "brex"
+ },
+ {
+  "name": "Block (Cash App)",
+  "domain": "Payment Ecosystem, Distributed Transactions & Reconciliation",
+  "work_model": "Remote US / Seattle Flexible",
+  "work_type": "remote",
+  "wlb": 4,
+  "tc_raw": "L5: ~$250K-$280K | L6: ~$360K-$430K",
+  "tc_mid_mid_k": 265,
+  "tc_senior_mid_k": 395,
+  "careers_url": "https://block.xyz/careers",
+  "tags": [
+   "Fintech"
+  ],
+  "score": 425,
+  "tc_band": "L5: ~$250K-$280K | L6: ~$360K-$430K",
+  "hq": "No designated HQ; principal executive office Oakland, CA",
+  "policy": "Remote US / Seattle Flexible",
+  "domains": [
+   "Fintech"
+  ],
+  "hiring": "borderline",
+  "hiring_evidence": "Official careers page block.xyz/careers loads but listings are JS-rendered (unreadable on 2026-09-18); fresh third-party backend role 'Software Engineer, Cash App Taxes' (backend systems for Cash App Taxes) crawled 2 hours before 2026-09-18. Source: https://builtin.com/job/software-engineer-cash-app-taxes/10971491 (index).",
+  "flags": [
+   "No designated headquarters; distributed work model since 2021; SEC principal executive office: 1955 Broadway, Suite 600, Oakland, CA 94612. Cash App is a brand/business unit of Block, Inc. Source: Block 10-K via https://s29.q4cdn.com/628966176/files/doc_financials/2023/q4/BLOCK-10K-20242202.pdf (index)."
+  ],
+  "tc_confidence": "原始名单估算",
+  "ats": "greenhouse",
+  "slug": "block"
+ },
+ {
+  "name": "Dropbox",
+  "domain": "Enterprise Knowledge Base & Unified AI Search (Dash)",
+  "work_model": "100% Virtual First",
+  "work_type": "remote",
+  "wlb": 5,
+  "tc_raw": "IC3: ~$240K-$280K | IC4: ~$360K-$420K",
+  "tc_mid_mid_k": 260,
+  "tc_senior_mid_k": 390,
+  "careers_url": "https://jobs.dropbox.com/",
+  "tags": [
+   "SaaS",
+   "AI/ML"
+  ],
+  "score": 460,
+  "tc_band": "IC3: ~$240K-$280K | IC4: ~$360K-$420K",
+  "hq": "San Francisco, CA",
+  "policy": "100% Virtual First",
+  "domains": [
+   "SaaS",
+   "AI/ML"
+  ],
+  "hiring": "borderline",
+  "hiring_evidence": "Accel-board backend roles crawled within 1 day before 2026-09-18, but no official Dropbox listing was captured to confirm a live posting within ~30 days.",
+  "flags": [
+   "Current HQ lease: entire 64,000 sq ft building at 50 Hawthorne, San Francisco (May 2026 CRE Market Beat). Source: https://cremarketbeat.com/dropbox-decagon-sign-headquarters-leases-at-bxps-san-francisco-offices/ (index)."
+  ],
+  "tc_confidence": "原始名单估算",
+  "ats": "greenhouse",
+  "slug": "dropbox"
+ },
+ {
+  "name": "Affirm",
+  "domain": "BNPL Core Ledgers, Settlement & Fraud Detection",
+  "work_model": "100% Remote US",
+  "work_type": "remote",
+  "wlb": 4,
+  "tc_raw": "Mid: ~$240K-$280K | Senior: ~$350K-$400K",
+  "tc_mid_mid_k": 260,
+  "tc_senior_mid_k": 375,
+  "careers_url": "https://www.affirm.com/careers",
+  "tags": [
+   "Fintech"
+  ],
+  "score": 420,
+  "tc_band": "Mid: ~$240K-$280K | Senior: ~$350K-$400K",
+  "hq": "San Francisco, CA",
+  "policy": "100% Remote US",
+  "domains": [
+   "Fintech"
+  ],
+  "hiring": "verified",
+  "hiring_evidence": "Official Affirm Greenhouse posting 'Software Engineer I, Backend (Collections)', crawled 1 day before 2026-09-18. Source: https://job-boards.greenhouse.io/affirm/jobs/7807506003 (index).",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "greenhouse",
+  "slug": "affirm"
+ },
+ {
+  "name": "Quora (Poe)",
+  "domain": "Q&A Platform & Multi-LLM Aggregator (Poe)",
+  "work_model": "100% Remote US",
+  "work_type": "remote",
+  "wlb": 4,
+  "tc_raw": "Mid: ~$220K-$260K | Senior: ~$330K-$400K",
+  "tc_mid_mid_k": 240,
+  "tc_senior_mid_k": 365,
+  "careers_url": "https://www.quora.com/careers",
+  "tags": [
+   "AI/ML",
+   "社交/社区"
+  ],
+  "score": 400,
+  "tc_band": "Mid: ~$220K-$260K | Senior: ~$330K-$400K",
+  "hq": "Mountain View, CA",
+  "policy": "100% Remote US",
+  "domains": [
+   "AI/ML",
+   "社交/社区"
+  ],
+  "hiring": "borderline",
+  "hiring_evidence": "Working Nomads Staff/Senior Full-Stack (Poe) roles updated 15 hours to 3 days before 2026-09-18, but no official Quora role URL was captured to confirm live posting.",
+  "flags": [
+   "Poe is Quora's AI product; roles relate to Quora's Poe team."
+  ],
+  "tc_confidence": "原始名单估算",
+  "ats": "ashby",
+  "slug": "quora"
+ },
+ {
+  "name": "Zillow",
+  "domain": "Real Estate Search, Valuation & Agentic AI",
+  "work_model": "100% Remote US / Seattle HQ",
+  "work_type": "remote",
+  "wlb": 5,
+  "tc_raw": "P3: ~$220K-$260K | P4: ~$320K-$380K",
+  "tc_mid_mid_k": 240,
+  "tc_senior_mid_k": 350,
+  "careers_url": "https://www.zillow.com/careers/",
+  "tags": [
+   "房地产",
+   "AI/ML"
+  ],
+  "score": 440,
+  "tc_band": "P3: ~$220K-$260K | P4: ~$320K-$380K",
+  "hq": "Seattle, WA",
+  "policy": "100% Remote US / Seattle HQ",
+  "domains": [
+   "房地产",
+   "AI/ML"
+  ],
+  "hiring": "borderline",
+  "hiring_evidence": "Fresh third-party US-remote platform/backend/full-stack roles seen, but no official Zillow listing was captured to confirm a live posting within ~30 days.",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "Niantic",
+  "domain": "AR Spatial Systems, Geospatial Indexing & Game Services",
+  "work_model": "SF / Seattle (Select Remote)",
+  "work_type": "remote",
+  "wlb": 4,
+  "tc_raw": "L4: ~$230K-$260K | L5: ~$320K-$380K",
+  "tc_mid_mid_k": 245,
+  "tc_senior_mid_k": 350,
+  "careers_url": "https://careers.nianticlabs.com/",
+  "tags": [
+   "游戏/AR"
+  ],
+  "score": 405,
+  "tc_band": "L4: ~$230K-$260K | L5: ~$320K-$380K",
+  "hq": "San Francisco, CA (historical; entity ambiguity)",
+  "policy": "SF / Seattle (Select Remote)",
+  "domains": [
+   "游戏/AR"
+  ],
+  "hiring": "borderline",
+  "hiring_evidence": "Recent third-party backend/data/full-stack roles seen, but no official posting was captured to confirm a live posting within ~30 days.",
+  "flags": [
+   "Corporate transition: 2025 Scopely transaction creates current-entity ambiguity; reported HQ is historical San Francisco."
+  ],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "Atlassian",
+  "domain": "Collaborative SaaS (Jira/Confluence) & AI Agents",
+  "work_model": "100% Remote US",
+  "work_type": "remote",
+  "wlb": 5,
+  "tc_raw": "P3: ~$210K-$250K | P4: ~$310K-$360K",
+  "tc_mid_mid_k": 230,
+  "tc_senior_mid_k": 335,
+  "careers_url": "https://www.atlassian.com/company/careers",
+  "tags": [
+   "SaaS",
+   "DevTools",
+   "AI/ML"
+  ],
+  "score": 430,
+  "tc_band": "P3: ~$210K-$250K | P4: ~$310K-$360K",
+  "hq": "Sydney, NSW, Australia",
+  "policy": "100% Remote US",
+  "domains": [
+   "SaaS",
+   "DevTools",
+   "AI/ML"
+  ],
+  "hiring": "borderline",
+  "hiring_evidence": "Accel-board backend roles crawled 2 to 10 days before 2026-09-18, but no official Atlassian listing was captured to confirm a live posting within ~30 days.",
+  "flags": [
+   "Global HQ in Sydney, Australia."
+  ],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "GitLab",
+  "domain": "DevOps Platform & AI Assistant (GitLab Duo)",
+  "work_model": "100% All-Remote",
+  "work_type": "remote",
+  "wlb": 5,
+  "tc_raw": "Int: ~$190K-$220K | Senior: ~$280K-$340K",
+  "tc_mid_mid_k": 205,
+  "tc_senior_mid_k": 310,
+  "careers_url": "https://about.gitlab.com/careers/",
+  "tags": [
+   "DevTools",
+   "AI/ML"
+  ],
+  "score": 405,
+  "tc_band": "Int: ~$190K-$220K | Senior: ~$280K-$340K",
+  "hq": "All-remote (no physical HQ)",
+  "policy": "100% All-Remote",
+  "domains": [
+   "DevTools",
+   "AI/ML"
+  ],
+  "hiring": "borderline",
+  "hiring_evidence": "Fresh ecosystem-board remote Go, Python, Ruby/database, delivery, and analytics backend roles seen, but no official GitLab careers URL was captured to confirm live posting. Source: https://portfoliojobs.tcv.com/companies/gitlab-com/jobs/62333477-intermediate-backend-engineer-go-verify-runner-core (index).",
+  "flags": [
+   "No physical headquarters; all-remote company (postal/legal HQ conventions only)."
+  ],
+  "tc_confidence": "原始名单估算",
+  "ats": "greenhouse",
+  "slug": "gitlab"
+ },
+ {
+  "name": "Salesforce",
+  "domain": "Enterprise CRM/SaaS & Agentforce Platform",
+  "work_model": "Seattle (Bellevue) / Flexible Remote",
+  "work_type": "remote",
+  "wlb": 5,
+  "tc_raw": "MTS: ~$200K-$240K | SMTS: ~$280K-$340K",
+  "tc_mid_mid_k": 220,
+  "tc_senior_mid_k": 310,
+  "careers_url": "https://www.salesforce.com/company/careers/",
+  "tags": [
+   "SaaS",
+   "AI/ML"
+  ],
+  "score": 420,
+  "tc_band": "MTS: ~$200K-$240K | SMTS: ~$280K-$340K",
+  "hq": "San Francisco, CA",
+  "policy": "Seattle (Bellevue) / Flexible Remote",
+  "domains": [
+   "SaaS",
+   "AI/ML"
+  ],
+  "hiring": "borderline",
+  "hiring_evidence": "Fresh The Muse backend role seen, but no official Salesforce listing was captured to confirm a live posting within ~30 days.",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "Zapier",
+  "domain": "API Integration Connectors & AI Action Orchestration",
+  "work_model": "100% All-Remote",
+  "work_type": "remote",
+  "wlb": 5,
+  "tc_raw": "Mid: ~$190K-$230K | Senior: ~$260K-$320K (High Base)",
+  "tc_mid_mid_k": 210,
+  "tc_senior_mid_k": 290,
+  "careers_url": "https://zapier.com/jobs",
+  "tags": [
+   "SaaS",
+   "AI/ML"
+  ],
+  "score": 410,
+  "tc_band": "Mid: ~$190K-$230K | Senior: ~$260K-$320K (High Base)",
+  "hq": "Remote-first/distributed (no physical HQ)",
+  "policy": "100% All-Remote",
+  "domains": [
+   "SaaS",
+   "AI/ML"
+  ],
+  "hiring": "borderline",
+  "hiring_evidence": "Working Nomads backend roles crawled 4 to 17 hours before 2026-09-18, but no official Zapier listing was captured to confirm a live posting within ~30 days.",
+  "flags": [
+   "Fully remote/distributed; San Francisco mailing/legal address appears on official site."
+  ],
+  "tc_confidence": "原始名单估算",
+  "ats": "ashby",
+  "slug": "zapier"
+ },
+ {
+  "name": "Plaid",
+  "domain": "Financial Data APIs & Banking Microservices",
+  "work_model": "Hybrid (Seattle/SF) or Partial Remote",
+  "work_type": "hybrid",
+  "wlb": 4,
+  "tc_raw": "E4: ~$260K-$310K | E5: ~$400K-$460K",
+  "tc_mid_mid_k": 285,
+  "tc_senior_mid_k": 430,
+  "careers_url": "https://plaid.com/careers/",
+  "tags": [
+   "Fintech"
+  ],
+  "score": 445,
+  "tc_band": "E4: ~$260K-$310K | E5: ~$400K-$460K",
+  "hq": "San Francisco, CA",
+  "policy": "Hybrid (Seattle/SF) or Partial Remote",
+  "domains": [
+   "Fintech"
+  ],
+  "hiring": "borderline",
+  "hiring_evidence": "Official Plaid roles appeared in AI applications, data infrastructure, backend, and full-stack with live recent crawls, but the official page carried an anomalous 'Last Updated: 4644 days ago' metadata; fresh third-party Network Platform/Storage roles exist. Live posting status not cleanly confirmed.",
+  "flags": [
+   "Anomalous recency metadata ('Last Updated: 4644 days ago') on official role pages."
+  ],
+  "tc_confidence": "原始名单估算",
+  "ats": "ashby",
+  "slug": "plaid"
+ },
+ {
+  "name": "LinkedIn",
+  "domain": "Professional Network, Distributed Graph & AI Feed",
+  "work_model": "Seattle (Bellevue) / Hybrid",
+  "work_type": "hybrid",
+  "wlb": 5,
+  "tc_raw": "Senior: ~$340K-$400K",
+  "tc_mid_mid_k": 370,
+  "tc_senior_mid_k": 370,
+  "careers_url": "https://careers.linkedin.com/",
+  "tags": [
+   "社交/社区",
+   "AI/ML"
+  ],
+  "score": 570,
+  "tc_band": "Senior: ~$340K-$400K",
+  "hq": "Sunnyvale, CA",
+  "policy": "Seattle (Bellevue) / Hybrid",
+  "domains": [
+   "社交/社区",
+   "AI/ML"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "Search results returned LinkedIn marketplace listings for other employers, not LinkedIn corporate engineering roles; no current relevant LinkedIn posting could be verified.",
+  "flags": [
+   "Subsidiary of Microsoft; HQ Sunnyvale, CA (1000 W. Maude Ave).",
+   "TC来源仅列 Senior 档，非严格 Mid-level 口径，不宜直接横向比较"
+  ],
+  "tc_confidence": "原始名单估算",
+  "ats": "greenhouse",
+  "slug": "linkedin"
+ },
+ {
+  "name": "Remitly",
+  "domain": "Cross-border Remittance & Document AI Verification",
+  "work_model": "Seattle Downtown (Hybrid)",
+  "work_type": "hybrid",
+  "wlb": 4,
+  "tc_raw": "SDE II: ~$210K-$250K | Senior: ~$300K-$360K",
+  "tc_mid_mid_k": 230,
+  "tc_senior_mid_k": 330,
+  "careers_url": "https://www.remitly.com/us/en/careers",
+  "tags": [
+   "Fintech"
+  ],
+  "score": 390,
+  "tc_band": "SDE II: ~$210K-$250K | Senior: ~$300K-$360K",
+  "hq": "Seattle, WA",
+  "policy": "Seattle Downtown (Hybrid)",
+  "domains": [
+   "Fintech"
+  ],
+  "hiring": "borderline",
+  "hiring_evidence": "Built In backend roles crawled 1 to 6 hours before 2026-09-18, but no official Remitly listing was captured to confirm a live posting within ~30 days.",
+  "flags": [
+   "HQ confirmed: new Seattle headquarters at Rainier Square (GeekWire 2025). Source: https://www.geekwire.com/2025/a-world-away-in-the-heart-of-seattle-remitlys-new-hq-provides-more-room-to-collaborate-and-grow/ (index)."
+  ],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "eBay",
+  "domain": "E-commerce Marketplace & High-scale Seller Services",
+  "work_model": "Seattle / Bellevue (Hybrid 2-3 days)",
+  "work_type": "hybrid",
+  "wlb": 5,
+  "tc_raw": "SE 2: ~$190K-$230K | Senior: ~$270K-$330K",
+  "tc_mid_mid_k": 210,
+  "tc_senior_mid_k": 300,
+  "careers_url": "https://jobs.ebayinc.com/",
+  "tags": [
+   "消费/电商"
+  ],
+  "score": 410,
+  "tc_band": "SE 2: ~$190K-$230K | Senior: ~$270K-$330K",
+  "hq": "San Jose, CA",
+  "policy": "Seattle / Bellevue (Hybrid 2-3 days)",
+  "domains": [
+   "消费/电商"
+  ],
+  "hiring": "stale",
+  "hiring_evidence": "Backend role mirrors exist but the strongest crawl was ~49 days before 2026-09-18 and no official listing was captured; evidence is aging.",
+  "flags": [
+   "HQ: 2025 Hamilton Avenue, San Jose (eBay impact report; SEC). Recently completed acquisition of Depop (Q3 2026)."
+  ],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "Visa",
+  "domain": "Global Clearing & Card Network Infrastructure",
+  "work_model": "Seattle / Bellevue (Hybrid 2-3 days)",
+  "work_type": "hybrid",
+  "wlb": 5,
+  "tc_raw": "Senior: ~$190K-$230K | Staff: ~$240K-$290K",
+  "tc_mid_mid_k": 210,
+  "tc_senior_mid_k": 265,
+  "careers_url": "https://corporate.visa.com/en/careers.html",
+  "tags": [
+   "Fintech"
+  ],
+  "score": 410,
+  "tc_band": "Senior: ~$190K-$230K | Staff: ~$240K-$290K",
+  "hq": "San Francisco, CA",
+  "policy": "Seattle / Bellevue (Hybrid 2-3 days)",
+  "domains": [
+   "Fintech"
+  ],
+  "hiring": "verified",
+  "hiring_evidence": "Official Visa SmartRecruiters postings (Senior Software Engineer - Backend, hybrid onsite) crawled 1 hour to 1 day before 2026-09-18. Source: https://jobs.smartrecruiters.com/Visa/744000036800505-senior-software-engineer-backend-hybrid-onsite- (index).",
+  "flags": [
+   "Current global HQ is San Francisco, CA; older/current directory profiles may still show Foster City, which remains a major Product/Technology campus."
+  ],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "Coinbase",
+  "domain": "Crypto Custody & High-throughput Trading Engines",
+  "work_model": "100% Remote US",
+  "work_type": "remote",
+  "wlb": 3,
+  "tc_raw": "IC4: ~$280K-$340K | IC5: ~$400K-$480K+",
+  "tc_mid_mid_k": 310,
+  "tc_senior_mid_k": 440,
+  "careers_url": "https://www.coinbase.com/careers",
+  "tags": [
+   "Fintech"
+  ],
+  "score": 430,
+  "tc_band": "IC4: ~$280K-$340K | IC5: ~$400K-$480K+",
+  "hq": "Remote-first/distributed (no formal HQ)",
+  "policy": "100% Remote US",
+  "domains": [
+   "Fintech"
+  ],
+  "hiring": "borderline",
+  "hiring_evidence": "Official coinbase.com/careers Blockchain Platform backend role exists, but the official result was crawled ~216 days before 2026-09-18 while newer third-party mirrors were hours old; official live status not reconfirmed. Source: https://www.coinbase.com/careers/positions/7551868?gh_jid=7551868 (index).",
+  "flags": [
+   "No formal headquarters; officially remote-first/distributed."
+  ],
+  "tc_confidence": "原始名单估算",
+  "ats": "greenhouse",
+  "slug": "coinbase"
+ },
+ {
+  "name": "OpenAI",
+  "domain": "GPT Frontier Models & Large-scale Inference Gateways",
+  "work_model": "SF / Select Remote & Seattle Hub",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid参考: ~$450K（原区间 $450K-$700K+ 含Senior）",
+  "tc_mid_mid_k": 575,
+  "tc_senior_mid_k": 575,
+  "careers_url": "https://openai.com/careers/",
+  "tags": [
+   "AI/ML"
+  ],
+  "score": 695,
+  "tc_band": "Mid参考: ~$450K（原区间 $450K-$700K+ 含Senior）",
+  "hq": "San Francisco, CA",
+  "policy": "SF / Select Remote & Seattle Hub",
+  "domains": [
+   "AI/ML"
+  ],
+  "hiring": "verified",
+  "hiring_evidence": "Official openai.com/careers backend postings (API Multicloud, Applied Foundations backend, Consumer Devices backend, Core Services) crawled 1 day before 2026-09-18. Source: https://openai.com/careers/software-engineer-api-multicloud-san-francisco/ (index).",
+  "flags": [
+   "原 TC 区间混合 Mid/Senior，非严格 Mid-level 口径，不宜直接横向比较"
+  ],
+  "tc_confidence": "estimate",
+  "ats": "ashby",
+  "slug": "openai"
+ },
+ {
+  "name": "Anthropic",
+  "domain": "Frontier LLM Alignment & Distributed Training Infra",
+  "work_model": "Seattle / SF (Hybrid or Select Remote)",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid参考: ~$450K（原区间 $450K-$650K+ 含Senior）",
+  "tc_mid_mid_k": 550,
+  "tc_senior_mid_k": 550,
+  "careers_url": "https://www.anthropic.com/careers",
+  "tags": [
+   "AI/ML"
+  ],
+  "score": 670,
+  "tc_band": "Mid参考: ~$450K（原区间 $450K-$650K+ 含Senior）",
+  "hq": "San Francisco, CA",
+  "policy": "Seattle / SF (Hybrid or Select Remote)",
+  "domains": [
+   "AI/ML"
+  ],
+  "hiring": "verified",
+  "hiring_evidence": "Official Anthropic Greenhouse postings (Staff+ Claude Managed Agents backend/distributed-systems; full-stack/backend security) crawled 1 day before 2026-09-18. Source: https://job-boards.greenhouse.io/anthropic/jobs/5395767008 (index).",
+  "flags": [
+   "HQ: 500 Howard St, San Francisco (CA Statement of Information).",
+   "原 TC 区间混合 Mid/Senior，非严格 Mid-level 口径，不宜直接横向比较"
+  ],
+  "tc_confidence": "estimate",
+  "ats": "greenhouse",
+  "slug": "anthropic"
+ },
+ {
+  "name": "DoorDash",
+  "domain": "Logistics Dispatch, Real-time Matching & Retail Ops",
+  "work_model": "Seattle Hub / Flexible Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "E4: ~$270K-$300K | E5: ~$370K-$420K",
+  "tc_mid_mid_k": 285,
+  "tc_senior_mid_k": 395,
+  "careers_url": "https://careers.doordash.com/",
+  "tags": [
+   "出行/本地生活"
+  ],
+  "score": 405,
+  "tc_band": "E4: ~$270K-$300K | E5: ~$370K-$420K",
+  "hq": "San Francisco, CA",
+  "policy": "Seattle Hub / Flexible Hybrid",
+  "domains": [
+   "出行/本地生活"
+  ],
+  "hiring": "verified",
+  "hiring_evidence": "Official careersatdoordash.com Staff/backend/all-levels/Unified Gateway backend roles crawled 1 hour to 10 days before 2026-09-18. Source: https://careersatdoordash.com/jobs/software-engineer-backend-all-levels-all-teams/5704481/ (index).",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "Apple",
+  "domain": "Services Engineering (ASE), Siri AIML & Cloud Storage",
+  "work_model": "Seattle (SLU) (Strict 3 days onsite)",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "ICT3: ~$230K-$260K | ICT4: ~$350K-$420K",
+  "tc_mid_mid_k": 245,
+  "tc_senior_mid_k": 385,
+  "careers_url": "https://jobs.apple.com/",
+  "tags": [
+   "消费/硬件",
+   "AI/ML"
+  ],
+  "score": 365,
+  "tc_band": "ICT3: ~$230K-$260K | ICT4: ~$350K-$420K",
+  "hq": "Cupertino, CA",
+  "policy": "Seattle (SLU) (Strict 3 days onsite)",
+  "domains": [
+   "消费/硬件",
+   "AI/ML"
+  ],
+  "hiring": "borderline",
+  "hiring_evidence": "A third-party backend result was crawled 2 days before 2026-09-18, but a targeted search found no fresh official relevant professional role (only fresh internships); professional backend hiring could not be confirmed. Source: https://www.thestreet.com/investing/stocks/where-is-apple-headquarters (index, HQ).",
+  "flags": [
+   "HQ: Apple Park, Cupertino, CA."
+  ],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "ai_related": false,
+  "domains": [
+   "design tools",
+   "dev platform"
+  ],
+  "flags": [],
+  "hiring": "verified",
+  "hiring_evidence": "Remote Security Engineer published 9/18; Remote SWE Data Infrastructure US (5+ YOE)",
+  "hq": "San Francisco, CA",
+  "name": "Figma",
+  "policy": "remote-US",
+  "score": 475,
+  "tc_band": "290-330",
+  "tc_confidence": "levels.fyi",
+  "tc_mid_k": 311,
+  "wlb": 4.1,
+  "wlb_note": "Glassdoor",
+  "careers_url": "https://www.figma.com/careers/",
+  "domain": "design tools / dev platform",
+  "work_model": "remote-US",
+  "work_type": "remote",
+  "tc_mid_mid_k": 311,
+  "tags": [
+   "design tools",
+   "dev platform"
+  ],
+  "ats": "greenhouse",
+  "slug": "figma"
+ },
+ {
+  "ai_related": true,
+  "domains": [
+   "AI infra (Ray)"
+  ],
+  "flags": [],
+  "hiring": "unverified",
+  "hiring_evidence": "近30天招聘动态待确认，请查看官网 careers 页",
+  "hq": "San Francisco, CA",
+  "name": "Anyscale",
+  "policy": "remote",
+  "score": 451,
+  "tc_band": "250-300",
+  "tc_confidence": "levels.fyi",
+  "tc_mid_k": 275,
+  "wlb": 4.4,
+  "wlb_note": "Glassdoor",
+  "careers_url": "https://www.anyscale.com/careers",
+  "domain": "AI infra (Ray)",
+  "work_model": "remote",
+  "work_type": "remote",
+  "tc_mid_mid_k": 275,
+  "tags": [
+   "AI infra (Ray)",
+   "AI/ML"
+  ],
+  "ats": "ashby",
+  "slug": "anyscale"
+ },
+ {
+  "ai_related": true,
+  "domains": [
+   "AI inference cloud"
+  ],
+  "flags": [],
+  "hiring": "unverified",
+  "hiring_evidence": "近30天招聘动态待确认，请查看官网 careers 页",
+  "hq": "San Francisco, CA",
+  "name": "Together AI",
+  "policy": "remote",
+  "score": 433,
+  "tc_band": "230-300",
+  "tc_confidence": "levels.fyi (senior-skewed)",
+  "tc_mid_k": 265,
+  "wlb": 4.2,
+  "wlb_note": "Glassdoor",
+  "careers_url": "https://job-boards.greenhouse.io/togetherai/jobs/5213322007",
+  "domain": "AI inference cloud",
+  "work_model": "remote",
+  "work_type": "remote",
+  "tc_mid_mid_k": 265,
+  "tags": [
+   "AI inference cloud",
+   "AI/ML"
+  ],
+  "ats": "greenhouse",
+  "slug": "togetherai"
+ },
+ {
+  "ai_related": false,
+  "domains": [
+   "internal tools",
+   "dev platform"
+  ],
+  "flags": [],
+  "hiring": "verified",
+  "hiring_evidence": "SWE Enterprise Expansion $163-306K（3周前发布）",
+  "hq": "San Francisco, CA",
+  "name": "Retool",
+  "policy": "remote-friendly",
+  "score": 433,
+  "tc_band": "230-300",
+  "tc_confidence": "posted+levels.fyi",
+  "tc_mid_k": 265,
+  "wlb": 4.2,
+  "wlb_note": "Glassdoor",
+  "careers_url": "https://retool.com/careers",
+  "domain": "internal tools / dev platform",
+  "work_model": "remote-friendly",
+  "work_type": "remote",
+  "tc_mid_mid_k": 265,
+  "tags": [
+   "internal tools",
+   "dev platform"
+  ],
+  "ats": null,
+  "slug": null
+ },
+ {
+  "ai_related": true,
+  "domains": [
+   "serverless AI compute"
+  ],
+  "flags": [
+   "TC为估算值"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "近30天招聘动态待确认，请查看官网 careers 页",
+  "hq": "New York, NY",
+  "name": "Modal",
+  "policy": "remote-US",
+  "score": 421,
+  "tc_band": "220-270",
+  "tc_confidence": "estimate",
+  "tc_mid_k": 245,
+  "wlb": 4.4,
+  "wlb_note": "Glassdoor",
+  "careers_url": "https://modal.com/careers",
+  "domain": "serverless AI compute",
+  "work_model": "remote-US",
+  "work_type": "remote",
+  "tc_mid_mid_k": 245,
+  "tags": [
+   "serverless AI compute",
+   "AI/ML"
+  ],
+  "ats": "ashby",
+  "slug": "modal"
+ },
+ {
+  "ai_related": false,
+  "domains": [
+   "workflow orchestration"
+  ],
+  "flags": [
+   "TC为估算值",
+   "WLB样本弱"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "近30天招聘动态待确认，请查看官网 careers 页",
+  "hq": "Bellevue, WA",
+  "name": "Temporal",
+  "policy": "remote-friendly",
+  "score": 416,
+  "tc_band": "220-260",
+  "tc_confidence": "estimate",
+  "tc_mid_k": 240,
+  "wlb": 4.4,
+  "wlb_note": "Blind（仅9条评价，样本弱）",
+  "careers_url": "https://temporal.io/careers",
+  "domain": "workflow orchestration",
+  "work_model": "remote-friendly",
+  "work_type": "remote",
+  "tc_mid_mid_k": 240,
+  "tags": [
+   "workflow orchestration"
+  ],
+  "ats": "ashby",
+  "slug": "temporal"
+ },
+ {
+  "ai_related": true,
+  "domains": [
+   "data workspace",
+   "AI"
+  ],
+  "flags": [],
+  "hiring": "verified",
+  "hiring_evidence": "Software Engineer, Foundations（base $198,750-265,000）",
+  "hq": "San Francisco, CA",
+  "name": "Hex",
+  "policy": "remote-friendly",
+  "posting_url": "https://hex.tech/careers/software-engineer-foundations/",
+  "score": 416,
+  "tc_band": "200-265",
+  "tc_confidence": "posted",
+  "tc_mid_k": 232,
+  "wlb": 4.6,
+  "wlb_note": "Glassdoor",
+  "careers_url": "https://hex.tech/careers/software-engineer-foundations/",
+  "domain": "data workspace / AI",
+  "work_model": "remote-friendly",
+  "work_type": "remote",
+  "tc_mid_mid_k": 232,
+  "tags": [
+   "data workspace",
+   "AI",
+   "AI/ML"
+  ],
+  "ats": "ashby",
+  "slug": "hex"
+ },
+ {
+  "ai_related": false,
+  "domains": [
+   "observability",
+   "data pipeline"
+  ],
+  "flags": [],
+  "hiring": "verified",
+  "hiring_evidence": "Sr SWE Stream Integrations, remote（6天前，$220K）",
+  "hq": "San Francisco, CA",
+  "name": "Cribl",
+  "policy": "remote-US",
+  "score": 404,
+  "tc_band": "220-260",
+  "tc_confidence": "levels.fyi",
+  "tc_mid_k": 240,
+  "wlb": 4.1,
+  "wlb_note": "Glassdoor",
+  "careers_url": "https://cribl.io/careers/",
+  "domain": "observability / data pipeline",
+  "work_model": "remote-US",
+  "work_type": "remote",
+  "tc_mid_mid_k": 240,
+  "tags": [
+   "observability",
+   "data pipeline"
+  ],
+  "ats": "greenhouse",
+  "slug": "cribl"
+ },
+ {
+  "ai_related": false,
+  "domains": [
+   "payroll/HR fintech"
+  ],
+  "flags": [],
+  "hiring": "verified",
+  "hiring_evidence": "SWE Payments $222-245K；Staff SWE remote含西雅图（1天前）",
+  "hq": "Denver / SF / NYC",
+  "name": "Gusto",
+  "policy": "hybrid + approved remote",
+  "score": 402,
+  "tc_band": "210-250",
+  "tc_confidence": "posted",
+  "tc_mid_k": 230,
+  "wlb": 4.3,
+  "wlb_note": "Glassdoor",
+  "careers_url": "https://gusto.com/about/careers/join-the-team",
+  "domain": "payroll/HR fintech",
+  "work_model": "hybrid + approved remote",
+  "work_type": "remote",
+  "tc_mid_mid_k": 230,
+  "tags": [
+   "payroll/HR fintech"
+  ],
+  "ats": "greenhouse",
+  "slug": "gusto"
+ },
+ {
+  "ai_related": false,
+  "domains": [
+   "observability"
+  ],
+  "flags": [],
+  "hiring": "unverified",
+  "hiring_evidence": "近30天招聘动态待确认，请查看官网 careers 页",
+  "hq": "New York, NY",
+  "name": "Chronosphere",
+  "policy": "remote",
+  "score": 401,
+  "tc_band": "210-240",
+  "tc_confidence": "levels.fyi",
+  "tc_mid_k": 225,
+  "wlb": 4.4,
+  "wlb_note": "Glassdoor",
+  "careers_url": "https://chronosphere.io/careers",
+  "domain": "observability",
+  "work_model": "remote",
+  "work_type": "remote",
+  "tc_mid_mid_k": 225,
+  "tags": [
+   "observability"
+  ],
+  "ats": "ashby",
+  "slug": "chronospherejobs"
+ },
+ {
+  "ai_related": false,
+  "domains": [
+   "fintech banking"
+  ],
+  "flags": [],
+  "hiring": "verified",
+  "hiring_evidence": "Sr Full-stack Wires；Sr Backend Personal Banking（1天前）",
+  "hq": "San Francisco, CA",
+  "name": "Mercury",
+  "policy": "remote-US",
+  "score": 399,
+  "tc_band": "210-260",
+  "tc_confidence": "posted",
+  "tc_mid_k": 235,
+  "wlb": 4.1,
+  "wlb_note": "Glassdoor",
+  "careers_url": "https://mercury.com/careers",
+  "domain": "fintech banking",
+  "work_model": "remote-US",
+  "work_type": "remote",
+  "tc_mid_mid_k": 235,
+  "tags": [
+   "fintech banking"
+  ],
+  "ats": "greenhouse",
+  "slug": "mercury"
+ },
+ {
+  "ai_related": false,
+  "domains": [
+   "experience mgmt SaaS"
+  ],
+  "flags": [],
+  "hiring": "verified",
+  "hiring_evidence": "SWE Data Network Platform（7天前，5+ YOE）",
+  "hq": "Provo, UT（西雅图有办公室）",
+  "name": "Qualtrics",
+  "policy": "hybrid/remote",
+  "score": 396,
+  "tc_band": "230-250",
+  "tc_confidence": "levels.fyi",
+  "tc_mid_k": 244,
+  "wlb": 3.8,
+  "wlb_note": "Glassdoor",
+  "careers_url": "https://www.qualtrics.com/careers",
+  "domain": "experience mgmt SaaS",
+  "work_model": "hybrid/remote",
+  "work_type": "remote",
+  "tc_mid_mid_k": 244,
+  "tags": [
+   "experience mgmt SaaS"
+  ],
+  "ats": "greenhouse",
+  "slug": "qualtrics"
+ },
+ {
+  "ai_related": false,
+  "domains": [
+   "frontend cloud",
+   "devtools"
+  ],
+  "flags": [],
+  "hiring": "unverified",
+  "hiring_evidence": "聚合站见过backend岗位，日期未确认",
+  "hq": "San Francisco, CA",
+  "name": "Vercel",
+  "policy": "remote-US",
+  "score": 392,
+  "tc_band": "220-260",
+  "tc_confidence": "levels.fyi",
+  "tc_mid_k": 240,
+  "wlb": 3.8,
+  "wlb_note": "Glassdoor",
+  "careers_url": "https://vercel.com/careers",
+  "domain": "frontend cloud / devtools",
+  "work_model": "remote-US",
+  "work_type": "remote",
+  "tc_mid_mid_k": 240,
+  "tags": [
+   "frontend cloud",
+   "devtools"
+  ],
+  "ats": "greenhouse",
+  "slug": "vercel"
+ },
+ {
+  "ai_related": false,
+  "domains": [
+   "OLAP database"
+  ],
+  "flags": [
+   "TC为估算值"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "近30天招聘动态待确认，请查看官网 careers 页",
+  "hq": "San Francisco, CA",
+  "name": "ClickHouse",
+  "policy": "remote",
+  "score": 391,
+  "tc_band": "210-260",
+  "tc_confidence": "estimate",
+  "tc_mid_k": 235,
+  "wlb": 3.9,
+  "wlb_note": "Glassdoor",
+  "careers_url": "https://clickhouse.com/company/careers",
+  "domain": "OLAP database",
+  "work_model": "remote",
+  "work_type": "remote",
+  "tc_mid_mid_k": 235,
+  "tags": [
+   "OLAP database"
+  ],
+  "ats": "ashby",
+  "slug": "clickhouse"
+ },
+ {
+  "ai_related": false,
+  "domains": [
+   "endpoint security"
+  ],
+  "flags": [],
+  "hiring": "verified",
+  "hiring_evidence": "Software Engineer II, Full Stack（6天前，base $95-290K）",
+  "hq": "Kirkland, WA",
+  "name": "Tanium",
+  "policy": "hybrid",
+  "score": 385,
+  "tc_band": "230-250",
+  "tc_confidence": "levels.fyi",
+  "tc_mid_k": 241,
+  "wlb": 3.6,
+  "wlb_note": "Glassdoor",
+  "careers_url": "https://www.tanium.com/careers",
+  "domain": "endpoint security",
+  "work_model": "hybrid",
+  "work_type": "hybrid",
+  "tc_mid_mid_k": 241,
+  "tags": [
+   "endpoint security"
+  ],
+  "ats": "greenhouse",
+  "slug": "tanium"
+ },
+ {
+  "ai_related": false,
+  "domains": [
+   "auth/API devtools"
+  ],
+  "flags": [],
+  "hiring": "unverified",
+  "hiring_evidence": "近30天招聘动态待确认，请查看官网 careers 页",
+  "hq": "San Francisco, CA",
+  "name": "WorkOS",
+  "policy": "remote-friendly",
+  "score": 384,
+  "tc_band": "175-225",
+  "tc_confidence": "levels.fyi",
+  "tc_mid_k": 200,
+  "wlb": 4.6,
+  "wlb_note": "Glassdoor",
+  "careers_url": "https://workos.com/careers",
+  "domain": "auth/API devtools",
+  "work_model": "remote-friendly",
+  "work_type": "remote",
+  "tc_mid_mid_k": 200,
+  "tags": [
+   "auth/API devtools"
+  ],
+  "ats": "ashby",
+  "slug": "workos"
+ },
+ {
+  "ai_related": false,
+  "domains": [
+   "dev project tooling"
+  ],
+  "flags": [],
+  "hiring": "unverified",
+  "hiring_evidence": "近30天招聘动态待确认，请查看官网 careers 页",
+  "hq": "San Francisco, CA",
+  "name": "Linear",
+  "policy": "remote-friendly",
+  "score": 382,
+  "tc_band": "190-230",
+  "tc_confidence": "levels.fyi",
+  "tc_mid_k": 210,
+  "wlb": 4.3,
+  "wlb_note": "Blind",
+  "careers_url": "https://linear.app/careers/069c4628-88d7-4e4d-b393-c996fc7f3076",
+  "domain": "dev project tooling",
+  "work_model": "remote-friendly",
+  "work_type": "remote",
+  "tc_mid_mid_k": 210,
+  "tags": [
+   "dev project tooling"
+  ],
+  "ats": "ashby",
+  "slug": "linear"
+ },
+ {
+  "ai_related": false,
+  "domains": [
+   "feature flags",
+   "devtools"
+  ],
+  "flags": [],
+  "hiring": "unverified",
+  "hiring_evidence": "历史见过Backend岗位（2025年11月，已过期），当前未确认",
+  "hq": "Bay Area, CA",
+  "name": "LaunchDarkly",
+  "policy": "remote-first",
+  "score": 380,
+  "tc_band": "185-230",
+  "tc_confidence": "posted",
+  "tc_mid_k": 208,
+  "wlb": 4.3,
+  "wlb_note": "Glassdoor（162条）",
+  "careers_url": "https://launchdarkly.com/careers/",
+  "domain": "feature flags / devtools",
+  "work_model": "remote-first",
+  "work_type": "remote",
+  "tc_mid_mid_k": 208,
+  "tags": [
+   "feature flags",
+   "devtools"
+  ],
+  "ats": "greenhouse",
+  "slug": "launchdarkly"
+ },
+ {
+  "ai_related": false,
+  "domains": [
+   "observability"
+  ],
+  "flags": [
+   "JD含on-call要求"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "见过mid-level JD（历史），新岗位未确认",
+  "hq": "San Francisco, CA",
+  "name": "Honeycomb",
+  "policy": "remote-first",
+  "score": 380,
+  "tc_band": "185-215",
+  "tc_confidence": "levels.fyi",
+  "tc_mid_k": 200,
+  "wlb": 4.5,
+  "wlb_note": "Glassdoor",
+  "careers_url": "https://www.honeycomb.io/careers/open-roles",
+  "domain": "observability",
+  "work_model": "remote-first",
+  "work_type": "remote",
+  "tc_mid_mid_k": 200,
+  "tags": [
+   "observability"
+  ],
+  "ats": "greenhouse",
+  "slug": "honeycomb"
+ },
+ {
+  "ai_related": false,
+  "domains": [
+   "streaming infra"
+  ],
+  "flags": [],
+  "hiring": "verified",
+  "hiring_evidence": "Sr SWE Cloud remote（约1个月前，边缘）",
+  "hq": "San Francisco, CA",
+  "name": "Redpanda",
+  "policy": "remote-US",
+  "score": 377,
+  "tc_band": "190-220",
+  "tc_confidence": "levels.fyi",
+  "tc_mid_k": 205,
+  "wlb": 4.3,
+  "wlb_note": "Glassdoor",
+  "careers_url": null,
+  "domain": "streaming infra",
+  "work_model": "remote-US",
+  "work_type": "remote",
+  "tc_mid_mid_k": 205,
+  "tags": [
+   "streaming infra"
+  ],
+  "ats": null,
+  "slug": null
+ },
+ {
+  "ai_related": false,
+  "domains": [
+   "serverless Postgres"
+  ],
+  "flags": [
+   "TC为估算值",
+   "收购后招聘路径待确认"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2025年被Databricks收购，招聘是否独立未确认",
+  "hq": "Berlin + SF",
+  "name": "Neon",
+  "policy": "remote-first",
+  "score": 377,
+  "tc_band": "185-225",
+  "tc_confidence": "estimate",
+  "tc_mid_k": 205,
+  "wlb": 4.3,
+  "wlb_note": "Glassdoor",
+  "careers_url": "https://neon.tech/careers",
+  "domain": "serverless Postgres",
+  "work_model": "remote-first",
+  "work_type": "remote",
+  "tc_mid_mid_k": 205,
+  "tags": [
+   "serverless Postgres"
+  ],
+  "ats": "ashby",
+  "slug": "neon"
+ },
+ {
+  "ai_related": false,
+  "domains": [
+   "data orchestration"
+  ],
+  "flags": [
+   "TC为估算值"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "近30天招聘动态待确认，请查看官网 careers 页",
+  "hq": "San Francisco, CA",
+  "name": "Dagster",
+  "policy": "remote",
+  "score": 374,
+  "tc_band": "170-210",
+  "tc_confidence": "estimate",
+  "tc_mid_k": 190,
+  "wlb": 4.6,
+  "wlb_note": "Glassdoor",
+  "careers_url": "https://dagster.io/careers",
+  "domain": "data orchestration",
+  "work_model": "remote",
+  "work_type": "remote",
+  "tc_mid_mid_k": 190,
+  "tags": [
+   "data orchestration"
+  ],
+  "ats": null,
+  "slug": null
+ },
+ {
+  "ai_related": false,
+  "domains": [
+   "DuckDB cloud analytics"
+  ],
+  "flags": [
+   "TC为估算值",
+   "WLB样本弱"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "只见到非SWE岗位（市场、售前）",
+  "hq": "Seattle, WA",
+  "name": "MotherDuck",
+  "policy": "remote-friendly",
+  "score": 370,
+  "tc_band": "190-230",
+  "tc_confidence": "estimate",
+  "tc_mid_k": 210,
+  "wlb": 4.0,
+  "wlb_note": "Glassdoor（仅3条评价，样本弱）",
+  "careers_url": "https://motherduck.com/careers/",
+  "domain": "DuckDB cloud analytics",
+  "work_model": "remote-friendly",
+  "work_type": "remote",
+  "tc_mid_mid_k": 210,
+  "tags": [
+   "DuckDB cloud analytics"
+  ],
+  "ats": "ashby",
+  "slug": "motherduck"
+ },
+ {
+  "ai_related": false,
+  "domains": [
+   "data transformation"
+  ],
+  "flags": [],
+  "hiring": "unverified",
+  "hiring_evidence": "近30天招聘动态待确认（历史Sr SWE $154-234K）",
+  "hq": "Philadelphia, PA",
+  "name": "dbt Labs",
+  "policy": "remote-first",
+  "score": 363,
+  "tc_band": "175-215",
+  "tc_confidence": "levels.fyi",
+  "tc_mid_k": 195,
+  "wlb": 4.2,
+  "wlb_note": "Glassdoor",
+  "careers_url": "https://getdbt.com/about-us/careers",
+  "domain": "data transformation",
+  "work_model": "remote-first",
+  "work_type": "remote",
+  "tc_mid_mid_k": 195,
+  "tags": [
+   "data transformation"
+  ],
+  "ats": null,
+  "slug": null
+ },
+ {
+  "ai_related": false,
+  "domains": [
+   "backend-as-a-service",
+   "Postgres"
+  ],
+  "flags": [
+   "TC为估算值"
+  ],
+  "hiring": "verified",
+  "hiring_evidence": "Remote Software Engineer - Auth（2天前）",
+  "hq": "San Francisco, CA",
+  "name": "Supabase",
+  "policy": "remote-first",
+  "score": 358,
+  "tc_band": "170-210",
+  "tc_confidence": "estimate",
+  "tc_mid_k": 190,
+  "wlb": 4.2,
+  "wlb_note": "Glassdoor",
+  "careers_url": "https://supabase.com/careers",
+  "domain": "backend-as-a-service / Postgres",
+  "work_model": "remote-first",
+  "work_type": "remote",
+  "tc_mid_mid_k": 190,
+  "tags": [
+   "backend-as-a-service",
+   "Postgres"
+  ],
+  "ats": "ashby",
+  "slug": "supabase"
+ },
+ {
+  "ai_related": false,
+  "domains": [
+   "error monitoring",
+   "devtools"
+  ],
+  "flags": [],
+  "hiring": "unverified",
+  "hiring_evidence": "近30天招聘动态待确认，请查看官网 careers 页",
+  "hq": "San Francisco, CA",
+  "name": "Sentry",
+  "policy": "remote-friendly",
+  "score": 356,
+  "tc_band": "175-210",
+  "tc_confidence": "levels.fyi",
+  "tc_mid_k": 192,
+  "wlb": 4.1,
+  "wlb_note": "Glassdoor",
+  "careers_url": "https://sentry.io/careers/",
+  "domain": "error monitoring / devtools",
+  "work_model": "remote-friendly",
+  "work_type": "remote",
+  "tc_mid_mid_k": 192,
+  "tags": [
+   "error monitoring",
+   "devtools"
+  ],
+  "ats": "ashby",
+  "slug": "sentry"
+ },
+ {
+  "ai_related": false,
+  "domains": [
+   "cloud",
+   "devtools"
+  ],
+  "flags": [],
+  "hiring": "verified",
+  "hiring_evidence": "Redmond SWE岗位（1-2天前）",
+  "hq": "Redmond, WA",
+  "name": "Microsoft",
+  "policy": "hybrid",
+  "score": 355,
+  "tc_band": "190-208",
+  "tc_confidence": "levels.fyi",
+  "tc_mid_k": 199,
+  "wlb": 3.9,
+  "wlb_note": "Glassdoor",
+  "careers_url": "https://careers.microsoft.com/v2/global/en/home.html",
+  "domain": "cloud / devtools",
+  "work_model": "hybrid",
+  "work_type": "hybrid",
+  "tc_mid_mid_k": 199,
+  "tags": [
+   "cloud",
+   "devtools"
+  ],
+  "ats": null,
+  "slug": null
+ },
+ {
+  "ai_related": false,
+  "domains": [
+   "sales enablement SaaS"
+  ],
+  "flags": [],
+  "hiring": "unverified",
+  "hiring_evidence": "近30天招聘动态待确认，请查看官网 careers 页",
+  "hq": "Seattle, WA",
+  "name": "Highspot",
+  "policy": "hybrid",
+  "score": 355,
+  "tc_band": "185-200",
+  "tc_confidence": "levels.fyi",
+  "tc_mid_k": 191,
+  "wlb": 4.1,
+  "wlb_note": "Glassdoor",
+  "careers_url": "https://www.highspot.com/careers",
+  "domain": "sales enablement SaaS",
+  "work_model": "hybrid",
+  "work_type": "hybrid",
+  "tc_mid_mid_k": 191,
+  "tags": [
+   "sales enablement SaaS"
+  ],
+  "ats": null,
+  "slug": null
+ },
+ {
+  "ai_related": false,
+  "domains": [
+   "observability"
+  ],
+  "flags": [
+   "Alloy/OTel岗位含on-call"
+  ],
+  "hiring": "verified",
+  "hiring_evidence": "Sr SWE Partner Datasources & Alloy/OpenTelemetry, US remote（1-4天前）",
+  "hq": "New York, NY",
+  "name": "Grafana Labs",
+  "policy": "remote-first",
+  "score": 353,
+  "tc_band": "165-190",
+  "tc_confidence": "levels.fyi",
+  "tc_mid_k": 177,
+  "wlb": 4.4,
+  "wlb_note": "Glassdoor",
+  "careers_url": "https://grafana.com/careers/",
+  "domain": "observability",
+  "work_model": "remote-first",
+  "work_type": "remote",
+  "tc_mid_mid_k": 177,
+  "tags": [
+   "observability"
+  ],
+  "ats": "greenhouse",
+  "slug": "grafanalabs"
+ },
+ {
+  "ai_related": false,
+  "domains": [
+   "edge network",
+   "security"
+  ],
+  "flags": [
+   "评价提到crunch/on-call与裁员"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "招聘页2026年7月更新过，未抓到单个新backend岗位",
+  "hq": "San Francisco, CA",
+  "name": "Cloudflare",
+  "policy": "remote-US",
+  "score": 346,
+  "tc_band": "200-220",
+  "tc_confidence": "levels.fyi",
+  "tc_mid_k": 210,
+  "wlb": 3.4,
+  "wlb_note": "Glassdoor",
+  "careers_url": "https://www.cloudflare.com/careers/",
+  "domain": "edge network / security",
+  "work_model": "remote-US",
+  "work_type": "remote",
+  "tc_mid_mid_k": 210,
+  "tags": [
+   "edge network",
+   "security"
+  ],
+  "ats": "greenhouse",
+  "slug": "cloudflare"
+ },
+ {
+  "ai_related": false,
+  "domains": [
+   "streaming SQL DB"
+  ],
+  "flags": [],
+  "hiring": "verified",
+  "hiring_evidence": "Sr/Staff SWE (Database) $170-230K（约1个月前，边缘）",
+  "hq": "New York, NY",
+  "name": "Materialize",
+  "policy": "remote",
+  "score": 344,
+  "tc_band": "160-200",
+  "tc_confidence": "levels.fyi",
+  "tc_mid_k": 180,
+  "wlb": 4.1,
+  "wlb_note": "Glassdoor",
+  "careers_url": "https://materialize.com/careers/",
+  "domain": "streaming SQL DB",
+  "work_model": "remote",
+  "work_type": "remote",
+  "tc_mid_mid_k": 180,
+  "tags": [
+   "streaming SQL DB"
+  ],
+  "ats": "ashby",
+  "slug": "materialize"
+ },
+ {
+  "ai_related": true,
+  "domains": [
+   "sales AI"
+  ],
+  "flags": [
+   "近期多为senior岗"
+  ],
+  "hiring": "verified",
+  "hiring_evidence": "Sr Staff SWE Conversational Intelligence（base $185-255K）；Bellevue backend/data-platform岗",
+  "hq": "Seattle, WA",
+  "name": "Outreach",
+  "policy": "hybrid",
+  "score": 341,
+  "tc_band": "191-211",
+  "tc_confidence": "levels.fyi",
+  "tc_mid_k": 201,
+  "wlb": 3.5,
+  "wlb_note": "Glassdoor",
+  "careers_url": "https://www.outreach.io/careers",
+  "domain": "sales AI",
+  "work_model": "hybrid",
+  "work_type": "hybrid",
+  "tc_mid_mid_k": 201,
+  "tags": [
+   "sales AI",
+   "AI/ML"
+  ],
+  "ats": null,
+  "slug": null
+ },
+ {
+  "ai_related": false,
+  "domains": [
+   "work mgmt SaaS"
+  ],
+  "flags": [
+   "其中一个标注On call"
+  ],
+  "hiring": "verified",
+  "hiring_evidence": "Bellevue/西雅图4个SWE岗（Indeed，base $125-245K不等）",
+  "hq": "Bellevue, WA",
+  "name": "Smartsheet",
+  "policy": "hybrid",
+  "score": 340,
+  "tc_band": "181-186",
+  "tc_confidence": "levels.fyi",
+  "tc_mid_k": 184,
+  "wlb": 3.9,
+  "wlb_note": "Glassdoor",
+  "careers_url": "https://www.smartsheet.com/careers",
+  "domain": "work mgmt SaaS",
+  "work_model": "hybrid",
+  "work_type": "hybrid",
+  "tc_mid_mid_k": 184,
+  "tags": [
+   "work mgmt SaaS"
+  ],
+  "ats": "greenhouse",
+  "slug": "smartsheet"
+ },
+ {
+  "ai_related": false,
+  "domains": [
+   "file/data storage"
+  ],
+  "flags": [],
+  "hiring": "verified",
+  "hiring_evidence": "Software Engineer（2天前，base $140-190K，2+ YOE）",
+  "hq": "Seattle, WA",
+  "name": "Qumulo",
+  "policy": "hybrid",
+  "score": 338,
+  "tc_band": "155-200",
+  "tc_confidence": "levels.fyi",
+  "tc_mid_k": 178,
+  "wlb": 4.0,
+  "wlb_note": "Glassdoor",
+  "careers_url": "https://qumulo.com/careers",
+  "domain": "file/data storage",
+  "work_model": "hybrid",
+  "work_type": "hybrid",
+  "tc_mid_mid_k": 178,
+  "tags": [
+   "file/data storage"
+  ],
+  "ats": "ashby",
+  "slug": "qumulo"
+ },
+ {
+  "ai_related": false,
+  "domains": [
+   "CI/CD devtools"
+  ],
+  "flags": [
+   "56%推荐率；有裁员讨论"
+  ],
+  "hiring": "verified",
+  "hiring_evidence": "Staff SWE remote（2天前，$245K）；EM remote（3天前）——mid岗未确认",
+  "hq": "San Francisco, CA",
+  "name": "CircleCI",
+  "policy": "remote-first",
+  "score": 332,
+  "tc_band": "146-159",
+  "tc_confidence": "levels.fyi",
+  "tc_mid_k": 152,
+  "wlb": 4.5,
+  "wlb_note": "Glassdoor",
+  "careers_url": "https://circleci.com/careers",
+  "domain": "CI/CD devtools",
+  "work_model": "remote-first",
+  "work_type": "remote",
+  "tc_mid_mid_k": 152,
+  "tags": [
+   "CI/CD devtools"
+  ],
+  "ats": "greenhouse",
+  "slug": "circleci"
+ },
+ {
+  "ai_related": false,
+  "domains": [
+   "voice security"
+  ],
+  "flags": [
+   "TC为估算值"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "近30天招聘动态待确认，请查看官网 careers 页",
+  "hq": "Seattle, WA",
+  "name": "Hiya",
+  "policy": "hybrid",
+  "score": 332,
+  "tc_band": "140-165",
+  "tc_confidence": "estimate",
+  "tc_mid_k": 152,
+  "wlb": 4.5,
+  "wlb_note": "Glassdoor（64条，94%推荐）",
+  "careers_url": "https://www.hiya.com/careers",
+  "domain": "voice security",
+  "work_model": "hybrid",
+  "work_type": "hybrid",
+  "tc_mid_mid_k": 152,
+  "tags": [
+   "voice security"
+  ],
+  "ats": "ashby",
+  "slug": "hiya"
+ },
+ {
+  "ai_related": false,
+  "domains": [
+   "tax compliance SaaS"
+  ],
+  "flags": [
+   "TC为估算值"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "近30天招聘动态待确认，请查看官网 careers 页",
+  "hq": "Seattle, WA",
+  "name": "Avalara",
+  "policy": "hybrid/remote",
+  "score": 323,
+  "tc_band": "160-190",
+  "tc_confidence": "estimate",
+  "tc_mid_k": 175,
+  "wlb": 3.7,
+  "wlb_note": "Glassdoor",
+  "careers_url": "https://careers.avalara.com/careers-home",
+  "domain": "tax compliance SaaS",
+  "work_model": "hybrid/remote",
+  "work_type": "remote",
+  "tc_mid_mid_k": 175,
+  "tags": [
+   "tax compliance SaaS"
+  ],
+  "ats": null,
+  "slug": null
+ },
+ {
+  "ai_related": false,
+  "domains": [
+   "real estate"
+  ],
+  "flags": [],
+  "hiring": "unverified",
+  "hiring_evidence": "近30天招聘动态待确认，请查看官网 careers 页",
+  "hq": "Seattle, WA",
+  "name": "Redfin",
+  "policy": "hybrid",
+  "score": 319,
+  "tc_band": "187-202",
+  "tc_confidence": "levels.fyi",
+  "tc_mid_k": 195,
+  "wlb": 3.1,
+  "wlb_note": "Glassdoor（样本多为房产经纪岗，非工程）",
+  "careers_url": "https://careers.redfin.com/hr",
+  "domain": "real estate",
+  "work_model": "hybrid",
+  "work_type": "hybrid",
+  "tc_mid_mid_k": 195,
+  "tags": [
+   "real estate"
+  ],
+  "ats": null,
+  "slug": null
+ },
+ {
+  "ai_related": false,
+  "domains": [
+   "travel"
+  ],
+  "flags": [],
+  "hiring": "verified",
+  "hiring_evidence": "Full-stack SWE, XE Checkout Experience, Seattle（1天前）",
+  "hq": "Seattle, WA",
+  "name": "Expedia Group",
+  "policy": "hybrid",
+  "score": 316,
+  "tc_band": "145-175",
+  "tc_confidence": "estimate",
+  "tc_mid_k": 160,
+  "wlb": 3.9,
+  "wlb_note": "Glassdoor",
+  "careers_url": "https://careers.expediagroup.com/jobs/",
+  "domain": "travel",
+  "work_model": "hybrid",
+  "work_type": "hybrid",
+  "tc_mid_mid_k": 160,
+  "tags": [
+   "travel"
+  ],
+  "ats": null,
+  "slug": null
+ },
+ {
+  "ai_related": false,
+  "domains": [
+   "marketplace"
+  ],
+  "flags": [
+   "38%推荐率；有裁员讨论"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "近30天招聘动态待确认，请查看官网 careers 页",
+  "hq": "Bellevue, WA",
+  "name": "OfferUp",
+  "policy": "hybrid",
+  "score": 314,
+  "tc_band": "160-190",
+  "tc_confidence": "levels.fyi",
+  "tc_mid_k": 174,
+  "wlb": 3.5,
+  "wlb_note": "Glassdoor",
+  "careers_url": "https://job-boards.greenhouse.io/offerup/jobs/8056317",
+  "domain": "marketplace",
+  "work_model": "hybrid",
+  "work_type": "hybrid",
+  "tc_mid_mid_k": 174,
+  "tags": [
+   "marketplace"
+  ],
+  "ats": "greenhouse",
+  "slug": "offerup"
+ },
+ {
+  "ai_related": false,
+  "domains": [
+   "networking/security"
+  ],
+  "flags": [],
+  "hiring": "borderline",
+  "hiring_evidence": "Sr SWE ADC Dataplane / WAF Seattle（Indeed，约7月中，边缘）",
+  "hq": "Seattle, WA",
+  "name": "F5",
+  "policy": "hybrid",
+  "score": 314,
+  "tc_band": "155-176",
+  "tc_confidence": "levels.fyi",
+  "tc_mid_k": 166,
+  "wlb": 3.7,
+  "wlb_note": "Glassdoor",
+  "careers_url": "https://www.f5.com/company/careers",
+  "domain": "networking/security",
+  "work_model": "hybrid",
+  "work_type": "hybrid",
+  "tc_mid_mid_k": 166,
+  "tags": [
+   "networking/security"
+  ],
+  "ats": null,
+  "slug": null
+ },
+ {
+  "ai_related": false,
+  "domains": [
+   "NDR security"
+  ],
+  "flags": [
+   "40%推荐率"
+  ],
+  "hiring": "verified",
+  "hiring_evidence": "3个remote SWE岗（2-8天前）：Cloud $150-180K base+bonus；AI/ML；Security",
+  "hq": "Seattle, WA",
+  "name": "ExtraHop",
+  "policy": "remote-friendly",
+  "score": 312,
+  "tc_band": "160-200",
+  "tc_confidence": "levels.fyi",
+  "tc_mid_k": 180,
+  "wlb": 3.3,
+  "wlb_note": "Glassdoor",
+  "careers_url": "https://www.extrahop.com/company/careers/",
+  "domain": "NDR security",
+  "work_model": "remote-friendly",
+  "work_type": "remote",
+  "tc_mid_mid_k": 180,
+  "tags": [
+   "NDR security"
+  ],
+  "ats": "greenhouse",
+  "slug": "extrahopnetworks"
+ },
+ {
+  "ai_related": true,
+  "domains": [
+   "contract lifecycle AI"
+  ],
+  "flags": [
+   "TC为估算值"
+  ],
+  "hiring": "verified",
+  "hiring_evidence": "Lead DevOps Engineer Cloud Ops（18小时前）",
+  "hq": "Bellevue, WA",
+  "name": "Icertis",
+  "policy": "hybrid",
+  "score": 300,
+  "tc_band": "150-185",
+  "tc_confidence": "estimate",
+  "tc_mid_k": 168,
+  "wlb": 3.3,
+  "wlb_note": "Glassdoor（多条“无WLB”评价）",
+  "careers_url": "https://icertis.com/company/careers/",
+  "domain": "contract lifecycle AI",
+  "work_model": "hybrid",
+  "work_type": "hybrid",
+  "tc_mid_mid_k": 168,
+  "tags": [
+   "contract lifecycle AI",
+   "AI/ML"
+  ],
+  "ats": null,
+  "slug": null
+ },
+ {
+  "ai_related": false,
+  "domains": [
+   "CDP",
+   "data platform"
+  ],
+  "flags": [
+   "有管理层/裁员讨论"
+  ],
+  "hiring": "stale",
+  "hiring_evidence": "SDE II remote（约2个月前，已过期）",
+  "hq": "Seattle, WA",
+  "name": "Amperity",
+  "policy": "hybrid",
+  "score": 298,
+  "tc_band": "160-180",
+  "tc_confidence": "levels.fyi",
+  "tc_mid_k": 170,
+  "wlb": 3.2,
+  "wlb_note": "Glassdoor",
+  "careers_url": "https://amperity.com/careers",
+  "domain": "CDP / data platform",
+  "work_model": "hybrid",
+  "work_type": "hybrid",
+  "tc_mid_mid_k": 170,
+  "tags": [
+   "CDP",
+   "data platform"
+  ],
+  "ats": "greenhouse",
+  "slug": "amperity"
+ },
+ {
+  "ai_related": false,
+  "domains": [
+   "API gateway"
+  ],
+  "flags": [
+   "TC为估算值",
+   "无WLB数据，未参与排名"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "近30天招聘动态待确认，请查看官网 careers 页",
+  "hq": "Seattle, WA",
+  "name": "Zuplo",
+  "policy": "hybrid/remote",
+  "score": null,
+  "tc_band": "150-185",
+  "tc_confidence": "estimate",
+  "tc_mid_k": 168,
+  "wlb": null,
+  "wlb_note": "无有效评价",
+  "careers_url": "https://zuplo.com/careers",
+  "domain": "API gateway",
+  "work_model": "hybrid/remote",
+  "work_type": "remote",
+  "tc_mid_mid_k": 168,
+  "tags": [
+   "API gateway"
+  ],
+  "ats": null,
+  "slug": null
+ }
+]
