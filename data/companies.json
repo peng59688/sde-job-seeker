@@ -2407,5 +2407,2759 @@
   ],
   "ats": null,
   "slug": null
+ },
+ {
+  "name": "Databricks",
+  "domain": "数据湖仓平台",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$230K-$270K | Senior: ~$410K-$490K",
+  "tc_mid_mid_k": 250,
+  "tc_senior_mid_k": 450,
+  "careers_url": "https://www.databricks.com/company/careers",
+  "tags": [
+   "Infra/数据",
+   "AI"
+  ],
+  "score": 370,
+  "tc_band": "Mid: ~$230K-$270K | Senior: ~$410K-$490K",
+  "hq": "San Francisco, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "Infra/数据",
+   "AI"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "greenhouse",
+  "slug": "databricks"
+ },
+ {
+  "name": "Nvidia",
+  "domain": "GPU / AI 芯片",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$240K-$280K | Senior: ~$440K-$520K",
+  "tc_mid_mid_k": 260,
+  "tc_senior_mid_k": 480,
+  "careers_url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+  "tags": [
+   "AI",
+   "芯片"
+  ],
+  "score": 380,
+  "tc_band": "Mid: ~$240K-$280K | Senior: ~$440K-$520K",
+  "hq": "Santa Clara, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "AI",
+   "芯片"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "xAI",
+  "domain": "AI 大模型 (Grok)",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 2,
+  "tc_raw": "Mid: ~$260K-$300K | Senior: ~$460K-$540K",
+  "tc_mid_mid_k": 280,
+  "tc_senior_mid_k": 500,
+  "careers_url": "https://x.ai/careers",
+  "tags": [
+   "AI"
+  ],
+  "score": 360,
+  "tc_band": "Mid: ~$260K-$300K | Senior: ~$460K-$540K",
+  "hq": "Burlingame, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "AI"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "greenhouse",
+  "slug": "xai"
+ },
+ {
+  "name": "Perplexity",
+  "domain": "AI 搜索",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$230K-$270K | Senior: ~$410K-$490K",
+  "tc_mid_mid_k": 250,
+  "tc_senior_mid_k": 450,
+  "careers_url": "https://www.perplexity.ai/careers",
+  "tags": [
+   "AI"
+  ],
+  "score": 370,
+  "tc_band": "Mid: ~$230K-$270K | Senior: ~$410K-$490K",
+  "hq": "San Francisco, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "AI"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "ashby",
+  "slug": "perplexity"
+ },
+ {
+  "name": "Scale AI",
+  "domain": "AI 数据与评测",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$210K-$250K | Senior: ~$360K-$440K",
+  "tc_mid_mid_k": 230,
+  "tc_senior_mid_k": 400,
+  "careers_url": "https://scale.com/careers",
+  "tags": [
+   "AI",
+   "Infra/数据"
+  ],
+  "score": 350,
+  "tc_band": "Mid: ~$210K-$250K | Senior: ~$360K-$440K",
+  "hq": "San Francisco, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "AI",
+   "Infra/数据"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "greenhouse",
+  "slug": "scaleai"
+ },
+ {
+  "name": "Hugging Face",
+  "domain": "AI 开源模型社区",
+  "work_model": "Remote US",
+  "work_type": "remote",
+  "wlb": 4,
+  "tc_raw": "Mid: ~$200K-$240K | Senior: ~$340K-$420K",
+  "tc_mid_mid_k": 220,
+  "tc_senior_mid_k": 380,
+  "careers_url": "https://huggingface.co/jobs",
+  "tags": [
+   "AI"
+  ],
+  "score": 380,
+  "tc_band": "Mid: ~$200K-$240K | Senior: ~$340K-$420K",
+  "hq": "New York City, NY",
+  "policy": "Remote US",
+  "domains": [
+   "AI"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "Cohere",
+  "domain": "企业大模型",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$210K-$250K | Senior: ~$360K-$440K",
+  "tc_mid_mid_k": 230,
+  "tc_senior_mid_k": 400,
+  "careers_url": "https://cohere.com/careers",
+  "tags": [
+   "AI"
+  ],
+  "score": 350,
+  "tc_band": "Mid: ~$210K-$250K | Senior: ~$360K-$440K",
+  "hq": "San Francisco, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "AI"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "ashby",
+  "slug": "cohere"
+ },
+ {
+  "name": "Mistral AI",
+  "domain": "开源大模型",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$180K-$220K | Senior: ~$310K-$390K",
+  "tc_mid_mid_k": 200,
+  "tc_senior_mid_k": 350,
+  "careers_url": "https://mistral.ai/careers",
+  "tags": [
+   "AI"
+  ],
+  "score": 320,
+  "tc_band": "Mid: ~$180K-$220K | Senior: ~$310K-$390K",
+  "hq": "Paris, France",
+  "policy": "Hybrid",
+  "domains": [
+   "AI"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "Character.AI",
+  "domain": "AI 角色对话",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$200K-$240K | Senior: ~$340K-$420K",
+  "tc_mid_mid_k": 220,
+  "tc_senior_mid_k": 380,
+  "careers_url": "https://character.ai/careers",
+  "tags": [
+   "AI"
+  ],
+  "score": 340,
+  "tc_band": "Mid: ~$200K-$240K | Senior: ~$340K-$420K",
+  "hq": "Palo Alto, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "AI"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "ashby",
+  "slug": "character"
+ },
+ {
+  "name": "ElevenLabs",
+  "domain": "AI 语音合成",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$190K-$230K | Senior: ~$330K-$410K",
+  "tc_mid_mid_k": 210,
+  "tc_senior_mid_k": 370,
+  "careers_url": "https://elevenlabs.io/careers",
+  "tags": [
+   "AI"
+  ],
+  "score": 330,
+  "tc_band": "Mid: ~$190K-$230K | Senior: ~$330K-$410K",
+  "hq": "New York City, NY",
+  "policy": "Hybrid",
+  "domains": [
+   "AI"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "ashby",
+  "slug": "elevenlabs"
+ },
+ {
+  "name": "Runway",
+  "domain": "AI 视频生成",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$200K-$240K | Senior: ~$340K-$420K",
+  "tc_mid_mid_k": 220,
+  "tc_senior_mid_k": 380,
+  "careers_url": "https://runwayml.com/careers",
+  "tags": [
+   "AI"
+  ],
+  "score": 340,
+  "tc_band": "Mid: ~$200K-$240K | Senior: ~$340K-$420K",
+  "hq": "New York City, NY",
+  "policy": "Hybrid",
+  "domains": [
+   "AI"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "ashby",
+  "slug": "runway"
+ },
+ {
+  "name": "Anysphere",
+  "domain": "AI 编程助手 Cursor",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$220K-$260K | Senior: ~$380K-$460K",
+  "tc_mid_mid_k": 240,
+  "tc_senior_mid_k": 420,
+  "careers_url": "https://www.anysphere.inc/careers",
+  "tags": [
+   "AI",
+   "开发者工具"
+  ],
+  "score": 360,
+  "tc_band": "Mid: ~$220K-$260K | Senior: ~$380K-$460K",
+  "hq": "San Francisco, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "AI",
+   "开发者工具"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "Cognition",
+  "domain": "AI 软件工程师 Devin",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 2,
+  "tc_raw": "Mid: ~$220K-$260K | Senior: ~$380K-$460K",
+  "tc_mid_mid_k": 240,
+  "tc_senior_mid_k": 420,
+  "careers_url": "https://cognition.ai/careers",
+  "tags": [
+   "AI"
+  ],
+  "score": 320,
+  "tc_band": "Mid: ~$220K-$260K | Senior: ~$380K-$460K",
+  "hq": "San Francisco, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "AI"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "ashby",
+  "slug": "cognition"
+ },
+ {
+  "name": "Glean",
+  "domain": "企业 AI 搜索",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$210K-$250K | Senior: ~$360K-$440K",
+  "tc_mid_mid_k": 230,
+  "tc_senior_mid_k": 400,
+  "careers_url": "https://www.glean.com/careers",
+  "tags": [
+   "AI",
+   "Infra/数据"
+  ],
+  "score": 350,
+  "tc_band": "Mid: ~$210K-$250K | Senior: ~$360K-$440K",
+  "hq": "Palo Alto, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "AI",
+   "Infra/数据"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "Harvey",
+  "domain": "法律 AI",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$210K-$250K | Senior: ~$360K-$440K",
+  "tc_mid_mid_k": 230,
+  "tc_senior_mid_k": 400,
+  "careers_url": "https://www.harvey.ai/careers",
+  "tags": [
+   "AI"
+  ],
+  "score": 350,
+  "tc_band": "Mid: ~$210K-$250K | Senior: ~$360K-$440K",
+  "hq": "San Francisco, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "AI"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "ashby",
+  "slug": "harvey"
+ },
+ {
+  "name": "Weights & Biases",
+  "domain": "ML 实验跟踪平台",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$190K-$230K | Senior: ~$320K-$400K",
+  "tc_mid_mid_k": 210,
+  "tc_senior_mid_k": 360,
+  "careers_url": "https://wandb.ai/careers",
+  "tags": [
+   "AI",
+   "Infra/数据"
+  ],
+  "score": 330,
+  "tc_band": "Mid: ~$190K-$230K | Senior: ~$320K-$400K",
+  "hq": "San Francisco, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "AI",
+   "Infra/数据"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "LangChain",
+  "domain": "LLM 应用框架",
+  "work_model": "Remote US",
+  "work_type": "remote",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$180K-$220K | Senior: ~$310K-$390K",
+  "tc_mid_mid_k": 200,
+  "tc_senior_mid_k": 350,
+  "careers_url": "https://www.langchain.com/careers",
+  "tags": [
+   "AI",
+   "开发者工具"
+  ],
+  "score": 320,
+  "tc_band": "Mid: ~$180K-$220K | Senior: ~$310K-$390K",
+  "hq": "San Francisco, CA",
+  "policy": "Remote US",
+  "domains": [
+   "AI",
+   "开发者工具"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "ashby",
+  "slug": "langchain"
+ },
+ {
+  "name": "Replit",
+  "domain": "在线 IDE",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$190K-$230K | Senior: ~$320K-$400K",
+  "tc_mid_mid_k": 210,
+  "tc_senior_mid_k": 360,
+  "careers_url": "https://replit.com/careers",
+  "tags": [
+   "开发者工具",
+   "AI"
+  ],
+  "score": 330,
+  "tc_band": "Mid: ~$190K-$230K | Senior: ~$320K-$400K",
+  "hq": "San Francisco, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "开发者工具",
+   "AI"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "ashby",
+  "slug": "replit"
+ },
+ {
+  "name": "Fivetran",
+  "domain": "数据集成 (ELT)",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$190K-$230K | Senior: ~$320K-$400K",
+  "tc_mid_mid_k": 210,
+  "tc_senior_mid_k": 360,
+  "careers_url": "https://www.fivetran.com/careers",
+  "tags": [
+   "Infra/数据"
+  ],
+  "score": 330,
+  "tc_band": "Mid: ~$190K-$230K | Senior: ~$320K-$400K",
+  "hq": "Oakland, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "Infra/数据"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "greenhouse",
+  "slug": "fivetran"
+ },
+ {
+  "name": "Airbyte",
+  "domain": "开源数据集成",
+  "work_model": "Remote US",
+  "work_type": "remote",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$170K-$210K | Senior: ~$280K-$360K",
+  "tc_mid_mid_k": 190,
+  "tc_senior_mid_k": 320,
+  "careers_url": "https://airbyte.com/careers",
+  "tags": [
+   "Infra/数据"
+  ],
+  "score": 310,
+  "tc_band": "Mid: ~$170K-$210K | Senior: ~$280K-$360K",
+  "hq": "San Francisco, CA",
+  "policy": "Remote US",
+  "domains": [
+   "Infra/数据"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "ashby",
+  "slug": "airbyte"
+ },
+ {
+  "name": "Astronomer",
+  "domain": "Airflow 数据编排",
+  "work_model": "Remote US",
+  "work_type": "remote",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$180K-$220K | Senior: ~$300K-$380K",
+  "tc_mid_mid_k": 200,
+  "tc_senior_mid_k": 340,
+  "careers_url": "https://www.astronomer.io/careers",
+  "tags": [
+   "Infra/数据"
+  ],
+  "score": 320,
+  "tc_band": "Mid: ~$180K-$220K | Senior: ~$300K-$380K",
+  "hq": "New York City, NY",
+  "policy": "Remote US",
+  "domains": [
+   "Infra/数据"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "ashby",
+  "slug": "astronomer"
+ },
+ {
+  "name": "Starburst",
+  "domain": "Trino 数据查询",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$180K-$220K | Senior: ~$300K-$380K",
+  "tc_mid_mid_k": 200,
+  "tc_senior_mid_k": 340,
+  "careers_url": "https://www.starburst.io/careers",
+  "tags": [
+   "Infra/数据"
+  ],
+  "score": 320,
+  "tc_band": "Mid: ~$180K-$220K | Senior: ~$300K-$380K",
+  "hq": "Boston, MA",
+  "policy": "Hybrid",
+  "domains": [
+   "Infra/数据"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "greenhouse",
+  "slug": "starburst"
+ },
+ {
+  "name": "Dremio",
+  "domain": "数据湖查询引擎",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$180K-$220K | Senior: ~$300K-$380K",
+  "tc_mid_mid_k": 200,
+  "tc_senior_mid_k": 340,
+  "careers_url": "https://www.dremio.com/careers",
+  "tags": [
+   "Infra/数据"
+  ],
+  "score": 320,
+  "tc_band": "Mid: ~$180K-$220K | Senior: ~$300K-$380K",
+  "hq": "Santa Clara, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "Infra/数据"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "greenhouse",
+  "slug": "dremio"
+ },
+ {
+  "name": "Monte Carlo",
+  "domain": "数据可观测性",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$180K-$220K | Senior: ~$300K-$380K",
+  "tc_mid_mid_k": 200,
+  "tc_senior_mid_k": 340,
+  "careers_url": "https://www.montecarlodata.com/careers",
+  "tags": [
+   "Infra/数据"
+  ],
+  "score": 320,
+  "tc_band": "Mid: ~$180K-$220K | Senior: ~$300K-$380K",
+  "hq": "San Francisco, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "Infra/数据"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "Yugabyte",
+  "domain": "分布式 SQL 数据库",
+  "work_model": "Remote US",
+  "work_type": "remote",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$180K-$220K | Senior: ~$300K-$380K",
+  "tc_mid_mid_k": 200,
+  "tc_senior_mid_k": 340,
+  "careers_url": "https://www.yugabyte.com/careers",
+  "tags": [
+   "Infra/数据"
+  ],
+  "score": 320,
+  "tc_band": "Mid: ~$180K-$220K | Senior: ~$300K-$380K",
+  "hq": "Sunnyvale, CA",
+  "policy": "Remote US",
+  "domains": [
+   "Infra/数据"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "greenhouse",
+  "slug": "yugabyte"
+ },
+ {
+  "name": "PlanetScale",
+  "domain": "Serverless MySQL",
+  "work_model": "Remote US",
+  "work_type": "remote",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$190K-$230K | Senior: ~$320K-$400K",
+  "tc_mid_mid_k": 210,
+  "tc_senior_mid_k": 360,
+  "careers_url": "https://planetscale.com/careers",
+  "tags": [
+   "Infra/数据"
+  ],
+  "score": 330,
+  "tc_band": "Mid: ~$190K-$230K | Senior: ~$320K-$400K",
+  "hq": "Mountain View, CA",
+  "policy": "Remote US",
+  "domains": [
+   "Infra/数据"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "greenhouse",
+  "slug": "planetscale"
+ },
+ {
+  "name": "Timescale",
+  "domain": "时序数据库",
+  "work_model": "Remote US",
+  "work_type": "remote",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$170K-$210K | Senior: ~$280K-$360K",
+  "tc_mid_mid_k": 190,
+  "tc_senior_mid_k": 320,
+  "careers_url": "https://www.timescale.com/careers",
+  "tags": [
+   "Infra/数据"
+  ],
+  "score": 310,
+  "tc_band": "Mid: ~$170K-$210K | Senior: ~$280K-$360K",
+  "hq": "New York City, NY",
+  "policy": "Remote US",
+  "domains": [
+   "Infra/数据"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "Firebolt",
+  "domain": "云数仓",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$180K-$220K | Senior: ~$300K-$380K",
+  "tc_mid_mid_k": 200,
+  "tc_senior_mid_k": 340,
+  "careers_url": "https://www.firebolt.io/careers",
+  "tags": [
+   "Infra/数据"
+  ],
+  "score": 320,
+  "tc_band": "Mid: ~$180K-$220K | Senior: ~$300K-$380K",
+  "hq": "New York City, NY",
+  "policy": "Hybrid",
+  "domains": [
+   "Infra/数据"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "Sierra",
+  "domain": "AI 客服 Agent",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$210K-$250K | Senior: ~$360K-$440K",
+  "tc_mid_mid_k": 230,
+  "tc_senior_mid_k": 400,
+  "careers_url": "https://sierra.ai/careers",
+  "tags": [
+   "AI"
+  ],
+  "score": 350,
+  "tc_band": "Mid: ~$210K-$250K | Senior: ~$360K-$440K",
+  "hq": "San Francisco, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "AI"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "ashby",
+  "slug": "sierra"
+ },
+ {
+  "name": "Netflix",
+  "domain": "流媒体",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 2,
+  "tc_raw": "Mid: ~$280K-$320K | Senior: ~$510K-$590K",
+  "tc_mid_mid_k": 300,
+  "tc_senior_mid_k": 550,
+  "careers_url": "https://jobs.netflix.net/",
+  "tags": [
+   "通用后端"
+  ],
+  "score": 380,
+  "tc_band": "Mid: ~$280K-$320K | Senior: ~$510K-$590K",
+  "hq": "Los Gatos, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "通用后端"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "Uber",
+  "domain": "出行 / 外卖平台",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 2,
+  "tc_raw": "Mid: ~$220K-$260K | Senior: ~$390K-$470K",
+  "tc_mid_mid_k": 240,
+  "tc_senior_mid_k": 430,
+  "careers_url": "https://www.uber.com/us/en/careers/",
+  "tags": [
+   "通用后端"
+  ],
+  "score": 320,
+  "tc_band": "Mid: ~$220K-$260K | Senior: ~$390K-$470K",
+  "hq": "San Francisco, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "通用后端"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "Spotify",
+  "domain": "音乐流媒体",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$180K-$220K | Senior: ~$320K-$400K",
+  "tc_mid_mid_k": 200,
+  "tc_senior_mid_k": 360,
+  "careers_url": "https://www.lifeatspotify.com/jobs",
+  "tags": [
+   "通用后端"
+  ],
+  "score": 320,
+  "tc_band": "Mid: ~$180K-$220K | Senior: ~$320K-$400K",
+  "hq": "Stockholm, Sweden",
+  "policy": "Hybrid",
+  "domains": [
+   "通用后端"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "lever",
+  "slug": "spotify"
+ },
+ {
+  "name": "Shopify",
+  "domain": "电商 SaaS",
+  "work_model": "Remote",
+  "work_type": "remote",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$180K-$220K | Senior: ~$320K-$400K",
+  "tc_mid_mid_k": 200,
+  "tc_senior_mid_k": 360,
+  "careers_url": "https://www.shopify.com/careers",
+  "tags": [
+   "通用后端",
+   "电商"
+  ],
+  "score": 320,
+  "tc_band": "Mid: ~$180K-$220K | Senior: ~$320K-$400K",
+  "hq": "Ottawa, Canada",
+  "policy": "Remote",
+  "domains": [
+   "通用后端",
+   "电商"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "Adobe",
+  "domain": "创意软件",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$200K-$240K | Senior: ~$360K-$440K",
+  "tc_mid_mid_k": 220,
+  "tc_senior_mid_k": 400,
+  "careers_url": "https://careers.adobe.com/",
+  "tags": [
+   "通用后端"
+  ],
+  "score": 340,
+  "tc_band": "Mid: ~$200K-$240K | Senior: ~$360K-$440K",
+  "hq": "San Jose, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "通用后端"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "Palantir",
+  "domain": "数据分析平台",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 2,
+  "tc_raw": "Mid: ~$220K-$260K | Senior: ~$390K-$470K",
+  "tc_mid_mid_k": 240,
+  "tc_senior_mid_k": 430,
+  "careers_url": "https://www.palantir.com/careers/",
+  "tags": [
+   "Infra/数据"
+  ],
+  "score": 320,
+  "tc_band": "Mid: ~$220K-$260K | Senior: ~$390K-$470K",
+  "hq": "Denver, CO",
+  "policy": "Hybrid",
+  "domains": [
+   "Infra/数据"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "lever",
+  "slug": "palantir"
+ },
+ {
+  "name": "ServiceNow",
+  "domain": "企业工作流",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$200K-$240K | Senior: ~$360K-$440K",
+  "tc_mid_mid_k": 220,
+  "tc_senior_mid_k": 400,
+  "careers_url": "https://careers.servicenow.com/",
+  "tags": [
+   "通用后端"
+  ],
+  "score": 340,
+  "tc_band": "Mid: ~$200K-$240K | Senior: ~$360K-$440K",
+  "hq": "Santa Clara, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "通用后端"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "Workday",
+  "domain": "HR / 财务 SaaS",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$190K-$230K | Senior: ~$340K-$420K",
+  "tc_mid_mid_k": 210,
+  "tc_senior_mid_k": 380,
+  "careers_url": "https://www.workday.com/en-us/company/careers.html",
+  "tags": [
+   "通用后端"
+  ],
+  "score": 330,
+  "tc_band": "Mid: ~$190K-$230K | Senior: ~$340K-$420K",
+  "hq": "Pleasanton, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "通用后端"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "Intuit",
+  "domain": "财税软件",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$190K-$230K | Senior: ~$340K-$420K",
+  "tc_mid_mid_k": 210,
+  "tc_senior_mid_k": 380,
+  "careers_url": "https://jobs.intuit.com/",
+  "tags": [
+   "通用后端"
+  ],
+  "score": 330,
+  "tc_band": "Mid: ~$190K-$230K | Senior: ~$340K-$420K",
+  "hq": "Mountain View, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "通用后端"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "PayPal",
+  "domain": "支付",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$190K-$230K | Senior: ~$340K-$420K",
+  "tc_mid_mid_k": 210,
+  "tc_senior_mid_k": 380,
+  "careers_url": "https://www.paypal.com/us/webapps/mpp/jobs",
+  "tags": [
+   "金融科技"
+  ],
+  "score": 330,
+  "tc_band": "Mid: ~$190K-$230K | Senior: ~$340K-$420K",
+  "hq": "San Jose, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "金融科技"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "CrowdStrike",
+  "domain": "终端安全",
+  "work_model": "Remote US",
+  "work_type": "remote",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$210K-$250K | Senior: ~$370K-$450K",
+  "tc_mid_mid_k": 230,
+  "tc_senior_mid_k": 410,
+  "careers_url": "https://www.crowdstrike.com/careers/",
+  "tags": [
+   "安全"
+  ],
+  "score": 350,
+  "tc_band": "Mid: ~$210K-$250K | Senior: ~$370K-$450K",
+  "hq": "Austin, TX",
+  "policy": "Remote US",
+  "domains": [
+   "安全"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "Zscaler",
+  "domain": "零信任安全",
+  "work_model": "Remote US",
+  "work_type": "remote",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$200K-$240K | Senior: ~$350K-$430K",
+  "tc_mid_mid_k": 220,
+  "tc_senior_mid_k": 390,
+  "careers_url": "https://www.zscaler.com/careers",
+  "tags": [
+   "安全"
+  ],
+  "score": 340,
+  "tc_band": "Mid: ~$200K-$240K | Senior: ~$350K-$430K",
+  "hq": "San Jose, CA",
+  "policy": "Remote US",
+  "domains": [
+   "安全"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "greenhouse",
+  "slug": "zscaler"
+ },
+ {
+  "name": "Okta",
+  "domain": "身份认证",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$190K-$230K | Senior: ~$340K-$420K",
+  "tc_mid_mid_k": 210,
+  "tc_senior_mid_k": 380,
+  "careers_url": "https://www.okta.com/company/careers/",
+  "tags": [
+   "安全"
+  ],
+  "score": 330,
+  "tc_band": "Mid: ~$190K-$230K | Senior: ~$340K-$420K",
+  "hq": "San Francisco, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "安全"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "greenhouse",
+  "slug": "okta"
+ },
+ {
+  "name": "HubSpot",
+  "domain": "营销 CRM",
+  "work_model": "Remote US",
+  "work_type": "remote",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$170K-$210K | Senior: ~$310K-$390K",
+  "tc_mid_mid_k": 190,
+  "tc_senior_mid_k": 350,
+  "careers_url": "https://www.hubspot.com/careers",
+  "tags": [
+   "通用后端"
+  ],
+  "score": 310,
+  "tc_band": "Mid: ~$170K-$210K | Senior: ~$310K-$390K",
+  "hq": "Cambridge, MA",
+  "policy": "Remote US",
+  "domains": [
+   "通用后端"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "Twilio",
+  "domain": "通信 API",
+  "work_model": "Remote US",
+  "work_type": "remote",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$180K-$220K | Senior: ~$330K-$410K",
+  "tc_mid_mid_k": 200,
+  "tc_senior_mid_k": 370,
+  "careers_url": "https://www.twilio.com/company/jobs",
+  "tags": [
+   "开发者工具",
+   "通用后端"
+  ],
+  "score": 320,
+  "tc_band": "Mid: ~$180K-$220K | Senior: ~$330K-$410K",
+  "hq": "San Francisco, CA",
+  "policy": "Remote US",
+  "domains": [
+   "开发者工具",
+   "通用后端"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "greenhouse",
+  "slug": "twilio"
+ },
+ {
+  "name": "Zoom",
+  "domain": "视频会议",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$180K-$220K | Senior: ~$330K-$410K",
+  "tc_mid_mid_k": 200,
+  "tc_senior_mid_k": 370,
+  "careers_url": "https://careers.zoom.us/",
+  "tags": [
+   "通用后端"
+  ],
+  "score": 320,
+  "tc_band": "Mid: ~$180K-$220K | Senior: ~$330K-$410K",
+  "hq": "San Jose, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "通用后端"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "DocuSign",
+  "domain": "电子签名",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$180K-$220K | Senior: ~$330K-$410K",
+  "tc_mid_mid_k": 200,
+  "tc_senior_mid_k": 370,
+  "careers_url": "https://www.docusign.com/company/careers",
+  "tags": [
+   "通用后端"
+  ],
+  "score": 320,
+  "tc_band": "Mid: ~$180K-$220K | Senior: ~$330K-$410K",
+  "hq": "San Francisco, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "通用后端"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "Asana",
+  "domain": "协作管理",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$180K-$220K | Senior: ~$320K-$400K",
+  "tc_mid_mid_k": 200,
+  "tc_senior_mid_k": 360,
+  "careers_url": "https://asana.com/jobs",
+  "tags": [
+   "通用后端"
+  ],
+  "score": 320,
+  "tc_band": "Mid: ~$180K-$220K | Senior: ~$320K-$400K",
+  "hq": "San Francisco, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "通用后端"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "greenhouse",
+  "slug": "asana"
+ },
+ {
+  "name": "PagerDuty",
+  "domain": "运维告警",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$180K-$220K | Senior: ~$320K-$400K",
+  "tc_mid_mid_k": 200,
+  "tc_senior_mid_k": 360,
+  "careers_url": "https://www.pagerduty.com/careers/",
+  "tags": [
+   "开发者工具",
+   "Infra/数据"
+  ],
+  "score": 320,
+  "tc_band": "Mid: ~$180K-$220K | Senior: ~$320K-$400K",
+  "hq": "San Francisco, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "开发者工具",
+   "Infra/数据"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "greenhouse",
+  "slug": "pagerduty"
+ },
+ {
+  "name": "Splunk",
+  "domain": "日志分析",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$190K-$230K | Senior: ~$340K-$420K",
+  "tc_mid_mid_k": 210,
+  "tc_senior_mid_k": 380,
+  "careers_url": "https://www.splunk.com/en_us/careers/",
+  "tags": [
+   "Infra/数据"
+  ],
+  "score": 330,
+  "tc_band": "Mid: ~$190K-$230K | Senior: ~$340K-$420K",
+  "hq": "San Francisco, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "Infra/数据"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "AMD",
+  "domain": "芯片",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$180K-$220K | Senior: ~$330K-$410K",
+  "tc_mid_mid_k": 200,
+  "tc_senior_mid_k": 370,
+  "careers_url": "https://careers.amd.com/",
+  "tags": [
+   "芯片"
+  ],
+  "score": 320,
+  "tc_band": "Mid: ~$180K-$220K | Senior: ~$330K-$410K",
+  "hq": "Santa Clara, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "芯片"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "Intel",
+  "domain": "芯片",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$170K-$210K | Senior: ~$310K-$390K",
+  "tc_mid_mid_k": 190,
+  "tc_senior_mid_k": 350,
+  "careers_url": "https://jobs.intel.com/",
+  "tags": [
+   "芯片"
+  ],
+  "score": 310,
+  "tc_band": "Mid: ~$170K-$210K | Senior: ~$310K-$390K",
+  "hq": "Santa Clara, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "芯片"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "Oracle",
+  "domain": "数据库 / 云",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 2,
+  "tc_raw": "Mid: ~$180K-$220K | Senior: ~$340K-$420K",
+  "tc_mid_mid_k": 200,
+  "tc_senior_mid_k": 380,
+  "careers_url": "https://www.oracle.com/corporate/careers/",
+  "tags": [
+   "Infra/数据"
+  ],
+  "score": 280,
+  "tc_band": "Mid: ~$180K-$220K | Senior: ~$340K-$420K",
+  "hq": "Austin, TX",
+  "policy": "Hybrid",
+  "domains": [
+   "Infra/数据"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "IBM",
+  "domain": "企业科技",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$160K-$200K | Senior: ~$290K-$370K",
+  "tc_mid_mid_k": 180,
+  "tc_senior_mid_k": 330,
+  "careers_url": "https://www.ibm.com/careers",
+  "tags": [
+   "通用后端"
+  ],
+  "score": 300,
+  "tc_band": "Mid: ~$160K-$200K | Senior: ~$290K-$370K",
+  "hq": "Armonk, NY",
+  "policy": "Hybrid",
+  "domains": [
+   "通用后端"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "TikTok",
+  "domain": "短视频",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 2,
+  "tc_raw": "Mid: ~$220K-$260K | Senior: ~$390K-$470K",
+  "tc_mid_mid_k": 240,
+  "tc_senior_mid_k": 430,
+  "careers_url": "https://careers.tiktok.com/",
+  "tags": [
+   "通用后端"
+  ],
+  "score": 320,
+  "tc_band": "Mid: ~$220K-$260K | Senior: ~$390K-$470K",
+  "hq": "Los Angeles, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "通用后端"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "Instacart",
+  "domain": "生鲜电商",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$190K-$230K | Senior: ~$340K-$420K",
+  "tc_mid_mid_k": 210,
+  "tc_senior_mid_k": 380,
+  "careers_url": "https://www.instacart.com/careers",
+  "tags": [
+   "通用后端",
+   "电商"
+  ],
+  "score": 330,
+  "tc_band": "Mid: ~$190K-$230K | Senior: ~$340K-$420K",
+  "hq": "San Francisco, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "通用后端",
+   "电商"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "greenhouse",
+  "slug": "instacart"
+ },
+ {
+  "name": "Roblox",
+  "domain": "游戏 UGC 平台",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$210K-$250K | Senior: ~$370K-$450K",
+  "tc_mid_mid_k": 230,
+  "tc_senior_mid_k": 410,
+  "careers_url": "https://corp.roblox.com/careers/",
+  "tags": [
+   "游戏",
+   "通用后端"
+  ],
+  "score": 350,
+  "tc_band": "Mid: ~$210K-$250K | Senior: ~$370K-$450K",
+  "hq": "San Mateo, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "游戏",
+   "通用后端"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "greenhouse",
+  "slug": "roblox"
+ },
+ {
+  "name": "Lyft",
+  "domain": "出行平台",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$190K-$230K | Senior: ~$340K-$420K",
+  "tc_mid_mid_k": 210,
+  "tc_senior_mid_k": 380,
+  "careers_url": "https://www.lyft.com/careers",
+  "tags": [
+   "通用后端"
+  ],
+  "score": 330,
+  "tc_band": "Mid: ~$190K-$230K | Senior: ~$340K-$420K",
+  "hq": "San Francisco, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "通用后端"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "greenhouse",
+  "slug": "lyft"
+ },
+ {
+  "name": "Etsy",
+  "domain": "手工艺电商",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$160K-$200K | Senior: ~$280K-$360K",
+  "tc_mid_mid_k": 180,
+  "tc_senior_mid_k": 320,
+  "careers_url": "https://www.etsy.com/careers",
+  "tags": [
+   "通用后端",
+   "电商"
+  ],
+  "score": 300,
+  "tc_band": "Mid: ~$160K-$200K | Senior: ~$280K-$360K",
+  "hq": "Brooklyn, NY",
+  "policy": "Hybrid",
+  "domains": [
+   "通用后端",
+   "电商"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "GitHub",
+  "domain": "代码托管与协作",
+  "work_model": "Remote US",
+  "work_type": "remote",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$210K-$250K | Senior: ~$360K-$440K",
+  "tc_mid_mid_k": 230,
+  "tc_senior_mid_k": 400,
+  "careers_url": "https://www.github.careers/careers-home",
+  "tags": [
+   "开发者工具"
+  ],
+  "score": 350,
+  "tc_band": "Mid: ~$210K-$250K | Senior: ~$360K-$440K",
+  "hq": "San Francisco, CA",
+  "policy": "Remote US",
+  "domains": [
+   "开发者工具"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "Harness",
+  "domain": "软件交付平台",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$190K-$230K | Senior: ~$320K-$400K",
+  "tc_mid_mid_k": 210,
+  "tc_senior_mid_k": 360,
+  "careers_url": "https://www.harness.io/company/careers",
+  "tags": [
+   "开发者工具"
+  ],
+  "score": 330,
+  "tc_band": "Mid: ~$190K-$230K | Senior: ~$320K-$400K",
+  "hq": "San Francisco, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "开发者工具"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "Render",
+  "domain": "云应用托管",
+  "work_model": "Remote US",
+  "work_type": "remote",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$170K-$210K | Senior: ~$280K-$360K",
+  "tc_mid_mid_k": 190,
+  "tc_senior_mid_k": 320,
+  "careers_url": "https://render.com/careers",
+  "tags": [
+   "开发者工具",
+   "Infra/数据"
+  ],
+  "score": 310,
+  "tc_band": "Mid: ~$170K-$210K | Senior: ~$280K-$360K",
+  "hq": "San Francisco, CA",
+  "policy": "Remote US",
+  "domains": [
+   "开发者工具",
+   "Infra/数据"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "ashby",
+  "slug": "render"
+ },
+ {
+  "name": "Netlify",
+  "domain": "前端部署平台",
+  "work_model": "Remote US",
+  "work_type": "remote",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$170K-$210K | Senior: ~$280K-$360K",
+  "tc_mid_mid_k": 190,
+  "tc_senior_mid_k": 320,
+  "careers_url": "https://www.netlify.com/careers/",
+  "tags": [
+   "开发者工具"
+  ],
+  "score": 310,
+  "tc_band": "Mid: ~$170K-$210K | Senior: ~$280K-$360K",
+  "hq": "San Francisco, CA",
+  "policy": "Remote US",
+  "domains": [
+   "开发者工具"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "greenhouse",
+  "slug": "netlify"
+ },
+ {
+  "name": "Fastly",
+  "domain": "边缘云 / CDN",
+  "work_model": "Remote US",
+  "work_type": "remote",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$180K-$220K | Senior: ~$310K-$390K",
+  "tc_mid_mid_k": 200,
+  "tc_senior_mid_k": 350,
+  "careers_url": "https://www.fastly.com/about/careers",
+  "tags": [
+   "Infra/数据"
+  ],
+  "score": 320,
+  "tc_band": "Mid: ~$180K-$220K | Senior: ~$310K-$390K",
+  "hq": "San Francisco, CA",
+  "policy": "Remote US",
+  "domains": [
+   "Infra/数据"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "greenhouse",
+  "slug": "fastly"
+ },
+ {
+  "name": "ngrok",
+  "domain": "内网穿透",
+  "work_model": "Remote US",
+  "work_type": "remote",
+  "wlb": 4,
+  "tc_raw": "Mid: ~$160K-$200K | Senior: ~$260K-$340K",
+  "tc_mid_mid_k": 180,
+  "tc_senior_mid_k": 300,
+  "careers_url": "https://ngrok.com/careers",
+  "tags": [
+   "开发者工具"
+  ],
+  "score": 340,
+  "tc_band": "Mid: ~$160K-$200K | Senior: ~$260K-$340K",
+  "hq": "San Francisco, CA",
+  "policy": "Remote US",
+  "domains": [
+   "开发者工具"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "Tailscale",
+  "domain": "零信任组网",
+  "work_model": "Remote US",
+  "work_type": "remote",
+  "wlb": 4,
+  "tc_raw": "Mid: ~$170K-$210K | Senior: ~$280K-$360K",
+  "tc_mid_mid_k": 190,
+  "tc_senior_mid_k": 320,
+  "careers_url": "https://tailscale.com/careers",
+  "tags": [
+   "Infra/数据",
+   "安全"
+  ],
+  "score": 350,
+  "tc_band": "Mid: ~$170K-$210K | Senior: ~$280K-$360K",
+  "hq": "Toronto, Canada",
+  "policy": "Remote US",
+  "domains": [
+   "Infra/数据",
+   "安全"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "greenhouse",
+  "slug": "tailscale"
+ },
+ {
+  "name": "Teleport",
+  "domain": "基础设施访问",
+  "work_model": "Remote US",
+  "work_type": "remote",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$180K-$220K | Senior: ~$300K-$380K",
+  "tc_mid_mid_k": 200,
+  "tc_senior_mid_k": 340,
+  "careers_url": "https://goteleport.com/careers/",
+  "tags": [
+   "安全",
+   "Infra/数据"
+  ],
+  "score": 320,
+  "tc_band": "Mid: ~$180K-$220K | Senior: ~$300K-$380K",
+  "hq": "Oakland, CA",
+  "policy": "Remote US",
+  "domains": [
+   "安全",
+   "Infra/数据"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "ashby",
+  "slug": "goteleport"
+ },
+ {
+  "name": "Pulumi",
+  "domain": "IaC 基础设施即代码",
+  "work_model": "Remote US",
+  "work_type": "remote",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$170K-$210K | Senior: ~$280K-$360K",
+  "tc_mid_mid_k": 190,
+  "tc_senior_mid_k": 320,
+  "careers_url": "https://www.pulumi.com/careers/",
+  "tags": [
+   "开发者工具"
+  ],
+  "score": 310,
+  "tc_band": "Mid: ~$170K-$210K | Senior: ~$280K-$360K",
+  "hq": "Seattle, WA",
+  "policy": "Remote US",
+  "domains": [
+   "开发者工具"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "SentinelOne",
+  "domain": "终端安全",
+  "work_model": "Remote US",
+  "work_type": "remote",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$190K-$230K | Senior: ~$330K-$410K",
+  "tc_mid_mid_k": 210,
+  "tc_senior_mid_k": 370,
+  "careers_url": "https://www.sentinelone.com/careers/",
+  "tags": [
+   "安全"
+  ],
+  "score": 330,
+  "tc_band": "Mid: ~$190K-$230K | Senior: ~$330K-$410K",
+  "hq": "Mountain View, CA",
+  "policy": "Remote US",
+  "domains": [
+   "安全"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "Wiz",
+  "domain": "云安全",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$210K-$250K | Senior: ~$360K-$440K",
+  "tc_mid_mid_k": 230,
+  "tc_senior_mid_k": 400,
+  "careers_url": "https://www.wiz.io/careers",
+  "tags": [
+   "安全"
+  ],
+  "score": 350,
+  "tc_band": "Mid: ~$210K-$250K | Senior: ~$360K-$440K",
+  "hq": "New York City, NY",
+  "policy": "Hybrid",
+  "domains": [
+   "安全"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "Snyk",
+  "domain": "应用安全",
+  "work_model": "Remote US",
+  "work_type": "remote",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$180K-$220K | Senior: ~$310K-$390K",
+  "tc_mid_mid_k": 200,
+  "tc_senior_mid_k": 350,
+  "careers_url": "https://snyk.io/careers/",
+  "tags": [
+   "安全",
+   "开发者工具"
+  ],
+  "score": 320,
+  "tc_band": "Mid: ~$180K-$220K | Senior: ~$310K-$390K",
+  "hq": "Boston, MA",
+  "policy": "Remote US",
+  "domains": [
+   "安全",
+   "开发者工具"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "1Password",
+  "domain": "密码管理",
+  "work_model": "Remote",
+  "work_type": "remote",
+  "wlb": 4,
+  "tc_raw": "Mid: ~$170K-$210K | Senior: ~$290K-$370K",
+  "tc_mid_mid_k": 190,
+  "tc_senior_mid_k": 330,
+  "careers_url": "https://1password.com/careers",
+  "tags": [
+   "安全"
+  ],
+  "score": 350,
+  "tc_band": "Mid: ~$170K-$210K | Senior: ~$290K-$370K",
+  "hq": "Toronto, Canada",
+  "policy": "Remote",
+  "domains": [
+   "安全"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "ashby",
+  "slug": "1password"
+ },
+ {
+  "name": "Abnormal Security",
+  "domain": "邮件安全 AI",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$190K-$230K | Senior: ~$330K-$410K",
+  "tc_mid_mid_k": 210,
+  "tc_senior_mid_k": 370,
+  "careers_url": "https://abnormalsecurity.com/careers/",
+  "tags": [
+   "安全",
+   "AI"
+  ],
+  "score": 330,
+  "tc_band": "Mid: ~$190K-$230K | Senior: ~$330K-$410K",
+  "hq": "San Francisco, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "安全",
+   "AI"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "greenhouse",
+  "slug": "abnormalsecurity"
+ },
+ {
+  "name": "Adyen",
+  "domain": "支付",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$180K-$220K | Senior: ~$330K-$410K",
+  "tc_mid_mid_k": 200,
+  "tc_senior_mid_k": 370,
+  "careers_url": "https://www.adyen.com/careers",
+  "tags": [
+   "金融科技"
+  ],
+  "score": 320,
+  "tc_band": "Mid: ~$180K-$220K | Senior: ~$330K-$410K",
+  "hq": "Amsterdam, Netherlands",
+  "policy": "Hybrid",
+  "domains": [
+   "金融科技"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "greenhouse",
+  "slug": "adyen"
+ },
+ {
+  "name": "Ramp",
+  "domain": "企业财务",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$190K-$230K | Senior: ~$330K-$410K",
+  "tc_mid_mid_k": 210,
+  "tc_senior_mid_k": 370,
+  "careers_url": "https://ramp.com/careers",
+  "tags": [
+   "金融科技"
+  ],
+  "score": 330,
+  "tc_band": "Mid: ~$190K-$230K | Senior: ~$330K-$410K",
+  "hq": "New York City, NY",
+  "policy": "Hybrid",
+  "domains": [
+   "金融科技"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "ashby",
+  "slug": "ramp"
+ },
+ {
+  "name": "Airwallex",
+  "domain": "跨境支付",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$170K-$210K | Senior: ~$300K-$380K",
+  "tc_mid_mid_k": 190,
+  "tc_senior_mid_k": 340,
+  "careers_url": "https://www.airwallex.com/careers",
+  "tags": [
+   "金融科技"
+  ],
+  "score": 310,
+  "tc_band": "Mid: ~$170K-$210K | Senior: ~$300K-$380K",
+  "hq": "San Francisco, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "金融科技"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "ashby",
+  "slug": "airwallex"
+ },
+ {
+  "name": "Wise",
+  "domain": "跨境汇款",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$160K-$200K | Senior: ~$290K-$370K",
+  "tc_mid_mid_k": 180,
+  "tc_senior_mid_k": 330,
+  "careers_url": "https://www.wise.com/careers",
+  "tags": [
+   "金融科技"
+  ],
+  "score": 300,
+  "tc_band": "Mid: ~$160K-$200K | Senior: ~$290K-$370K",
+  "hq": "London, UK",
+  "policy": "Hybrid",
+  "domains": [
+   "金融科技"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "greenhouse",
+  "slug": "wise"
+ },
+ {
+  "name": "Chime",
+  "domain": "数字银行",
+  "work_model": "Remote US",
+  "work_type": "remote",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$180K-$220K | Senior: ~$320K-$400K",
+  "tc_mid_mid_k": 200,
+  "tc_senior_mid_k": 360,
+  "careers_url": "https://www.chime.com/careers/",
+  "tags": [
+   "金融科技"
+  ],
+  "score": 320,
+  "tc_band": "Mid: ~$180K-$220K | Senior: ~$320K-$400K",
+  "hq": "San Francisco, CA",
+  "policy": "Remote US",
+  "domains": [
+   "金融科技"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "greenhouse",
+  "slug": "chime"
+ },
+ {
+  "name": "SoFi",
+  "domain": "数字金融",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$170K-$210K | Senior: ~$310K-$390K",
+  "tc_mid_mid_k": 190,
+  "tc_senior_mid_k": 350,
+  "careers_url": "https://www.sofi.com/careers/",
+  "tags": [
+   "金融科技"
+  ],
+  "score": 310,
+  "tc_band": "Mid: ~$170K-$210K | Senior: ~$310K-$390K",
+  "hq": "San Francisco, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "金融科技"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "greenhouse",
+  "slug": "sofi"
+ },
+ {
+  "name": "Alchemy",
+  "domain": "区块链开发平台",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$190K-$230K | Senior: ~$330K-$410K",
+  "tc_mid_mid_k": 210,
+  "tc_senior_mid_k": 370,
+  "careers_url": "https://www.alchemy.com/careers",
+  "tags": [
+   "区块链",
+   "开发者工具"
+  ],
+  "score": 330,
+  "tc_band": "Mid: ~$190K-$230K | Senior: ~$330K-$410K",
+  "hq": "San Francisco, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "区块链",
+   "开发者工具"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "ashby",
+  "slug": "alchemy"
+ },
+ {
+  "name": "Fireblocks",
+  "domain": "数字资产托管",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$180K-$220K | Senior: ~$320K-$400K",
+  "tc_mid_mid_k": 200,
+  "tc_senior_mid_k": 360,
+  "careers_url": "https://www.fireblocks.com/careers/",
+  "tags": [
+   "区块链",
+   "安全"
+  ],
+  "score": 320,
+  "tc_band": "Mid: ~$180K-$220K | Senior: ~$320K-$400K",
+  "hq": "New York City, NY",
+  "policy": "Hybrid",
+  "domains": [
+   "区块链",
+   "安全"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "greenhouse",
+  "slug": "fireblocks"
+ },
+ {
+  "name": "Chainalysis",
+  "domain": "区块链分析",
+  "work_model": "Remote US",
+  "work_type": "remote",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$180K-$220K | Senior: ~$320K-$400K",
+  "tc_mid_mid_k": 200,
+  "tc_senior_mid_k": 360,
+  "careers_url": "https://www.chainalysis.com/careers/",
+  "tags": [
+   "区块链",
+   "Infra/数据"
+  ],
+  "score": 320,
+  "tc_band": "Mid: ~$180K-$220K | Senior: ~$320K-$400K",
+  "hq": "New York City, NY",
+  "policy": "Remote US",
+  "domains": [
+   "区块链",
+   "Infra/数据"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "Kraken",
+  "domain": "加密货币交易所",
+  "work_model": "Remote",
+  "work_type": "remote",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$170K-$210K | Senior: ~$310K-$390K",
+  "tc_mid_mid_k": 190,
+  "tc_senior_mid_k": 350,
+  "careers_url": "https://www.kraken.com/careers",
+  "tags": [
+   "区块链",
+   "金融科技"
+  ],
+  "score": 310,
+  "tc_band": "Mid: ~$170K-$210K | Senior: ~$310K-$390K",
+  "hq": "San Francisco, CA",
+  "policy": "Remote",
+  "domains": [
+   "区块链",
+   "金融科技"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "Unity",
+  "domain": "游戏引擎",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$180K-$220K | Senior: ~$320K-$400K",
+  "tc_mid_mid_k": 200,
+  "tc_senior_mid_k": 360,
+  "careers_url": "https://www.unity.com/careers",
+  "tags": [
+   "游戏",
+   "开发者工具"
+  ],
+  "score": 320,
+  "tc_band": "Mid: ~$180K-$220K | Senior: ~$320K-$400K",
+  "hq": "San Francisco, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "游戏",
+   "开发者工具"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "Epic Games",
+  "domain": "游戏引擎 / 堡垒之夜",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 2,
+  "tc_raw": "Mid: ~$190K-$230K | Senior: ~$340K-$420K",
+  "tc_mid_mid_k": 210,
+  "tc_senior_mid_k": 380,
+  "careers_url": "https://www.epicgames.com/site/careers",
+  "tags": [
+   "游戏"
+  ],
+  "score": 290,
+  "tc_band": "Mid: ~$190K-$230K | Senior: ~$340K-$420K",
+  "hq": "Cary, NC",
+  "policy": "Hybrid",
+  "domains": [
+   "游戏"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "greenhouse",
+  "slug": "epicgames"
+ },
+ {
+  "name": "Broadcom",
+  "domain": "芯片",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 2,
+  "tc_raw": "Mid: ~$190K-$230K | Senior: ~$350K-$430K",
+  "tc_mid_mid_k": 210,
+  "tc_senior_mid_k": 390,
+  "careers_url": "https://www.broadcom.com/company/careers",
+  "tags": [
+   "芯片"
+  ],
+  "score": 290,
+  "tc_band": "Mid: ~$190K-$230K | Senior: ~$350K-$430K",
+  "hq": "Palo Alto, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "芯片"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "Marvell",
+  "domain": "芯片",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$180K-$220K | Senior: ~$330K-$410K",
+  "tc_mid_mid_k": 200,
+  "tc_senior_mid_k": 370,
+  "careers_url": "https://www.marvell.com/company/careers.html",
+  "tags": [
+   "芯片"
+  ],
+  "score": 320,
+  "tc_band": "Mid: ~$180K-$220K | Senior: ~$330K-$410K",
+  "hq": "Santa Clara, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "芯片"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "Tesla",
+  "domain": "电动车 / 能源",
+  "work_model": "Onsite",
+  "work_type": "onsite",
+  "wlb": 2,
+  "tc_raw": "Mid: ~$190K-$230K | Senior: ~$360K-$440K",
+  "tc_mid_mid_k": 210,
+  "tc_senior_mid_k": 400,
+  "careers_url": "https://www.tesla.com/careers",
+  "tags": [
+   "通用后端"
+  ],
+  "score": 290,
+  "tc_band": "Mid: ~$190K-$230K | Senior: ~$360K-$440K",
+  "hq": "Austin, TX",
+  "policy": "Onsite",
+  "domains": [
+   "通用后端"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "Rivian",
+  "domain": "电动汽车",
+  "work_model": "Onsite",
+  "work_type": "onsite",
+  "wlb": 2,
+  "tc_raw": "Mid: ~$180K-$220K | Senior: ~$330K-$410K",
+  "tc_mid_mid_k": 200,
+  "tc_senior_mid_k": 370,
+  "careers_url": "https://rivian.com/careers",
+  "tags": [
+   "通用后端"
+  ],
+  "score": 280,
+  "tc_band": "Mid: ~$180K-$220K | Senior: ~$330K-$410K",
+  "hq": "Irvine, CA",
+  "policy": "Onsite",
+  "domains": [
+   "通用后端"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "Zendesk",
+  "domain": "客服 SaaS",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$170K-$210K | Senior: ~$310K-$390K",
+  "tc_mid_mid_k": 190,
+  "tc_senior_mid_k": 350,
+  "careers_url": "https://www.zendesk.com/careers/",
+  "tags": [
+   "通用后端"
+  ],
+  "score": 310,
+  "tc_band": "Mid: ~$170K-$210K | Senior: ~$310K-$390K",
+  "hq": "San Francisco, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "通用后端"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "Intercom",
+  "domain": "客服消息",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$170K-$210K | Senior: ~$310K-$390K",
+  "tc_mid_mid_k": 190,
+  "tc_senior_mid_k": 350,
+  "careers_url": "https://www.intercom.com/careers",
+  "tags": [
+   "通用后端"
+  ],
+  "score": 310,
+  "tc_band": "Mid: ~$170K-$210K | Senior: ~$310K-$390K",
+  "hq": "San Francisco, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "通用后端"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "greenhouse",
+  "slug": "intercom"
+ },
+ {
+  "name": "Airtable",
+  "domain": "无代码数据库",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$180K-$220K | Senior: ~$320K-$400K",
+  "tc_mid_mid_k": 200,
+  "tc_senior_mid_k": 360,
+  "careers_url": "https://www.airtable.com/careers",
+  "tags": [
+   "通用后端"
+  ],
+  "score": 320,
+  "tc_band": "Mid: ~$180K-$220K | Senior: ~$320K-$400K",
+  "hq": "San Francisco, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "通用后端"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "greenhouse",
+  "slug": "airtable"
+ },
+ {
+  "name": "Miro",
+  "domain": "在线白板",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$170K-$210K | Senior: ~$310K-$390K",
+  "tc_mid_mid_k": 190,
+  "tc_senior_mid_k": 350,
+  "careers_url": "https://miro.com/careers/",
+  "tags": [
+   "通用后端"
+  ],
+  "score": 310,
+  "tc_band": "Mid: ~$170K-$210K | Senior: ~$310K-$390K",
+  "hq": "San Francisco, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "通用后端"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；公开招聘 API 已映射，每日自动刷新拉取中。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": "ashby",
+  "slug": "miro"
+ },
+ {
+  "name": "Canva",
+  "domain": "设计工具",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$170K-$210K | Senior: ~$310K-$390K",
+  "tc_mid_mid_k": 190,
+  "tc_senior_mid_k": 350,
+  "careers_url": "https://www.canva.com/careers/",
+  "tags": [
+   "通用后端"
+  ],
+  "score": 310,
+  "tc_band": "Mid: ~$170K-$210K | Senior: ~$310K-$390K",
+  "hq": "Sydney, Australia",
+  "policy": "Hybrid",
+  "domains": [
+   "通用后端"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "Loom",
+  "domain": "视频消息",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$170K-$210K | Senior: ~$310K-$390K",
+  "tc_mid_mid_k": 190,
+  "tc_senior_mid_k": 350,
+  "careers_url": "https://www.loom.com/careers",
+  "tags": [
+   "通用后端"
+  ],
+  "score": 310,
+  "tc_band": "Mid: ~$170K-$210K | Senior: ~$310K-$390K",
+  "hq": "San Francisco, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "通用后端"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "Monday.com",
+  "domain": "协作管理",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$160K-$200K | Senior: ~$290K-$370K",
+  "tc_mid_mid_k": 180,
+  "tc_senior_mid_k": 330,
+  "careers_url": "https://monday.com/careers",
+  "tags": [
+   "通用后端"
+  ],
+  "score": 300,
+  "tc_band": "Mid: ~$160K-$200K | Senior: ~$290K-$370K",
+  "hq": "Tel Aviv, Israel",
+  "policy": "Hybrid",
+  "domains": [
+   "通用后端"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "Walmart",
+  "domain": "零售科技",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$160K-$200K | Senior: ~$290K-$370K",
+  "tc_mid_mid_k": 180,
+  "tc_senior_mid_k": 330,
+  "careers_url": "https://careers.walmart.com/",
+  "tags": [
+   "通用后端",
+   "电商"
+  ],
+  "score": 300,
+  "tc_band": "Mid: ~$160K-$200K | Senior: ~$290K-$370K",
+  "hq": "Bentonville, AR",
+  "policy": "Hybrid",
+  "domains": [
+   "通用后端",
+   "电商"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "Target",
+  "domain": "零售科技",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$160K-$200K | Senior: ~$280K-$360K",
+  "tc_mid_mid_k": 180,
+  "tc_senior_mid_k": 320,
+  "careers_url": "https://jobs.target.com/",
+  "tags": [
+   "通用后端"
+  ],
+  "score": 300,
+  "tc_band": "Mid: ~$160K-$200K | Senior: ~$280K-$360K",
+  "hq": "Minneapolis, MN",
+  "policy": "Hybrid",
+  "domains": [
+   "通用后端"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "Wayfair",
+  "domain": "家居电商",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$170K-$210K | Senior: ~$300K-$380K",
+  "tc_mid_mid_k": 190,
+  "tc_senior_mid_k": 340,
+  "careers_url": "https://www.wayfair.com/careers/",
+  "tags": [
+   "通用后端",
+   "电商"
+  ],
+  "score": 310,
+  "tc_band": "Mid: ~$170K-$210K | Senior: ~$300K-$380K",
+  "hq": "Boston, MA",
+  "policy": "Hybrid",
+  "domains": [
+   "通用后端",
+   "电商"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "Chewy",
+  "domain": "宠物电商",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$160K-$200K | Senior: ~$280K-$360K",
+  "tc_mid_mid_k": 180,
+  "tc_senior_mid_k": 320,
+  "careers_url": "https://www.chewy.com/careers/",
+  "tags": [
+   "通用后端",
+   "电商"
+  ],
+  "score": 300,
+  "tc_band": "Mid: ~$160K-$200K | Senior: ~$280K-$360K",
+  "hq": "Boston, MA",
+  "policy": "Hybrid",
+  "domains": [
+   "通用后端",
+   "电商"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
+ },
+ {
+  "name": "Palo Alto Networks",
+  "domain": "网络安全",
+  "work_model": "Hybrid",
+  "work_type": "hybrid",
+  "wlb": 3,
+  "tc_raw": "Mid: ~$200K-$240K | Senior: ~$360K-$440K",
+  "tc_mid_mid_k": 220,
+  "tc_senior_mid_k": 400,
+  "careers_url": "https://www.paloaltonetworks.com/careers",
+  "tags": [
+   "安全"
+  ],
+  "score": 340,
+  "tc_band": "Mid: ~$200K-$240K | Senior: ~$360K-$440K",
+  "hq": "Santa Clara, CA",
+  "policy": "Hybrid",
+  "domains": [
+   "安全"
+  ],
+  "hiring": "unverified",
+  "hiring_evidence": "2026-09-28 新增（levels.fyi 知名科技公司）；暂无公开 Greenhouse/Lever/Ashby 招聘 API，每日刷新暂不覆盖。",
+  "flags": [],
+  "tc_confidence": "原始名单估算",
+  "ats": null,
+  "slug": null
  }
 ]
