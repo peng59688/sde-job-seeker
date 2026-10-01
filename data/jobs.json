@@ -140,59 +140,25 @@
   "jd_note": "5008 chars"
  },
  {
-  "company": "Abnormal Security",
-  "title": "Software Engineer II - Dev Accelerator",
+  "company": "Affirm",
+  "title": "Analyst II, Full Stack",
   "location": "Remote",
   "tag": "通用后端",
   "level": "SDE2/mid",
-  "url": "https://abnormal.ai/careers/jobs/7976390003?gh_jid=7976390003",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/8010489003",
   "jd_fetched": true,
   "jd_keywords": [
    "ai",
-   "aws",
-   "ci/cd",
-   "github actions",
-   "go",
-   "golang",
-   "grpc",
-   "http",
+   "code review",
+   "dbt",
+   "git",
    "https",
-   "kubernetes",
-   "prompt",
+   "pipelines",
    "python",
-   "sre",
-   "yaml"
+   "snowflake",
+   "sql"
   ],
-  "jd_note": "4713 chars"
- },
- {
-  "company": "Abnormal Security",
-  "title": "Software Engineer II - Full Stack",
-  "location": "Remote",
-  "tag": "通用后端",
-  "level": "SDE2/mid",
-  "url": "https://abnormal.ai/careers/jobs/7786309003?gh_jid=7786309003",
-  "jd_fetched": true,
-  "jd_keywords": [
-   "ai",
-   "airflow",
-   "apis",
-   "databricks",
-   "django",
-   "genai",
-   "https",
-   "incident response",
-   "kafka",
-   "llm",
-   "observability",
-   "postgres",
-   "prompt",
-   "python",
-   "react",
-   "spark",
-   "typescript"
-  ],
-  "jd_note": "6869 chars"
+  "jd_note": "6102 chars"
  },
  {
   "company": "Affirm",
@@ -200,7 +166,7 @@
   "location": "Remote",
   "tag": "通用后端",
   "level": "SDE2/mid",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7916080003",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7813362003",
   "jd_fetched": true,
   "jd_keywords": [
    "ai",
@@ -213,7 +179,7 @@
    "snowflake",
    "sql"
   ],
-  "jd_note": "6747 chars"
+  "jd_note": "7788 chars"
  },
  {
   "company": "Affirm",
@@ -221,7 +187,7 @@
   "location": "Remote",
   "tag": "通用后端",
   "level": "SDE2/mid",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/8003170003",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7799329003",
   "jd_fetched": true,
   "jd_keywords": [
    "ai",
@@ -229,7 +195,7 @@
    "https",
    "sql"
   ],
-  "jd_note": "7443 chars"
+  "jd_note": "7513 chars"
  },
  {
   "company": "Affirm",
@@ -449,7 +415,7 @@
   "location": "Remote",
   "tag": "通用后端",
   "level": "Senior",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7820448003",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7820446003",
   "jd_fetched": true,
   "jd_keywords": [
    "aws",
@@ -460,7 +426,7 @@
    "on-call",
    "python"
   ],
-  "jd_note": "8382 chars"
+  "jd_note": "6375 chars"
  },
  {
   "company": "Affirm",
@@ -517,7 +483,7 @@
   "location": "Remote",
   "tag": "数据/AI",
   "level": "Senior",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7799633003",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7799631003",
   "jd_fetched": true,
   "jd_keywords": [
    "agentic",
@@ -546,7 +512,7 @@
    "sql",
    "streaming"
   ],
-  "jd_note": "8860 chars"
+  "jd_note": "8857 chars"
  },
  {
   "company": "Affirm",
@@ -593,11 +559,43 @@
  },
  {
   "company": "Affirm",
+  "title": "Senior Software Engineer, backend (Online Storage)",
+  "location": "Remote",
+  "tag": "通用后端",
+  "level": "Senior",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/8009368003",
+  "jd_fetched": true,
+  "jd_keywords": [
+   "agentic",
+   "aws",
+   "cockroachdb",
+   "code review",
+   "dynamodb",
+   "event-driven",
+   "https",
+   "kotlin",
+   "kubernetes",
+   "mysql",
+   "olap",
+   "oltp",
+   "on-call",
+   "postgres",
+   "python",
+   "redis",
+   "sql",
+   "streaming",
+   "terraform",
+   "tls"
+  ],
+  "jd_note": "9144 chars"
+ },
+ {
+  "company": "Affirm",
   "title": "Senior Software Engineer, Backend (Partner Merchant Interface)",
   "location": "Remote",
   "tag": "通用后端",
   "level": "Senior",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7832324003",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7832326003",
   "jd_fetched": true,
   "jd_keywords": [
    "apis",
@@ -607,7 +605,7 @@
    "mysql",
    "python"
   ],
-  "jd_note": "5111 chars"
+  "jd_note": "5043 chars"
  },
  {
   "company": "Affirm",
@@ -635,7 +633,7 @@
   "location": "Remote",
   "tag": "通用后端",
   "level": "Senior",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7808384003",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7808386003",
   "jd_fetched": true,
   "jd_keywords": [
    "apis",
@@ -647,7 +645,7 @@
    "on-call",
    "python"
   ],
-  "jd_note": "5839 chars"
+  "jd_note": "6183 chars"
  },
  {
   "company": "Affirm",
@@ -673,34 +671,11 @@
  },
  {
   "company": "Affirm",
-  "title": "Senior Software Engineer, Fullstack (Card Acquisition)",
-  "location": "Remote",
-  "tag": "通用后端",
-  "level": "Senior",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7819656003",
-  "jd_fetched": true,
-  "jd_keywords": [
-   "aws",
-   "ci/cd",
-   "code review",
-   "https",
-   "javascript",
-   "kotlin",
-   "mysql",
-   "on-call",
-   "python",
-   "react",
-   "swift"
-  ],
-  "jd_note": "6994 chars"
- },
- {
-  "company": "Affirm",
   "title": "Senior Software Engineer, Fullstack (Consumer Engineering)",
   "location": "Remote",
   "tag": "通用后端",
   "level": "Senior",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7663436003",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7663434003",
   "jd_fetched": true,
   "jd_keywords": [
    "aws",
@@ -716,7 +691,7 @@
    "react",
    "swift"
   ],
-  "jd_note": "8757 chars"
+  "jd_note": "8787 chars"
  },
  {
   "company": "Affirm",
@@ -818,7 +793,7 @@
   "location": "Remote",
   "tag": "通用后端",
   "level": "SDE2/mid",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7985860003",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7985862003",
   "jd_fetched": true,
   "jd_keywords": [
    "aws",
@@ -828,7 +803,7 @@
    "on-call",
    "python"
   ],
-  "jd_note": "6418 chars"
+  "jd_note": "6269 chars"
  },
  {
   "company": "Affirm",
@@ -847,6 +822,27 @@
    "python"
   ],
   "jd_note": "6626 chars"
+ },
+ {
+  "company": "Affirm",
+  "title": "Software Engineer II, Backend (Streaming)",
+  "location": "Remote",
+  "tag": "数据/AI",
+  "level": "SDE2/mid",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/8003022003",
+  "jd_fetched": true,
+  "jd_keywords": [
+   "aws",
+   "distributed systems",
+   "flink",
+   "https",
+   "kafka",
+   "on-call",
+   "python",
+   "stream processing",
+   "streaming"
+  ],
+  "jd_note": "6290 chars"
  },
  {
   "company": "Affirm",
@@ -886,6 +882,29 @@
   "jd_note": "5912 chars"
  },
  {
+  "company": "Affirm",
+  "title": "Software Engineer II, Fullstack (Card Acquisition)",
+  "location": "Remote",
+  "tag": "通用后端",
+  "level": "SDE2/mid",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7819656003",
+  "jd_fetched": true,
+  "jd_keywords": [
+   "aws",
+   "ci/cd",
+   "code review",
+   "https",
+   "javascript",
+   "kotlin",
+   "mysql",
+   "on-call",
+   "python",
+   "react",
+   "swift"
+  ],
+  "jd_note": "6987 chars"
+ },
+ {
   "company": "Airbnb",
   "title": "Senior Systems Engineer, Tech Foundations",
   "location": "Remote",
@@ -908,24 +927,6 @@
    "sql"
   ],
   "jd_note": "10151 chars"
- },
- {
-  "company": "Airbnb",
-  "title": "Software Engineer, Passport & Commerce, Web",
-  "location": "Remote",
-  "tag": "通用后端",
-  "level": "SDE2/mid",
-  "url": "https://careers.airbnb.com/positions/8239930?gh_jid=8239930",
-  "jd_fetched": true,
-  "jd_keywords": [
-   "apis",
-   "graphql",
-   "http",
-   "https",
-   "react",
-   "typescript"
-  ],
-  "jd_note": "9105 chars"
  },
  {
   "company": "Airbyte",
@@ -980,7 +981,7 @@
    "terraform",
    "typescript"
   ],
-  "jd_note": "8211 chars"
+  "jd_note": "8214 chars"
  },
  {
   "company": "Airwallex",
@@ -1854,6 +1855,24 @@
  },
  {
   "company": "Brex",
+  "title": "Senior Software Engineer - Identity & Access Management",
+  "location": "Seattle",
+  "tag": "通用后端",
+  "level": "Senior",
+  "url": "https://www.brex.com/careers/8859393002?gh_jid=8859393002",
+  "jd_fetched": true,
+  "jd_keywords": [
+   "ai",
+   "api",
+   "api design",
+   "apis",
+   "http",
+   "oauth"
+  ],
+  "jd_note": "6649 chars"
+ },
+ {
+  "company": "Brex",
   "title": "Senior Software Engineer, Backend (Product Engineering)",
   "location": "Seattle",
   "tag": "通用后端",
@@ -2076,7 +2095,7 @@
    "ruby",
    "sql"
   ],
-  "jd_note": "11540 chars"
+  "jd_note": "11802 chars"
  },
  {
   "company": "CircleCI",
@@ -2674,29 +2693,6 @@
    "system design"
   ],
   "jd_note": "4709 chars"
- },
- {
-  "company": "Cohere",
-  "title": "Forward Deployed Engineer, Infrastructure Specialist",
-  "location": "Remote",
-  "tag": "数据/AI",
-  "level": "SDE2/mid",
-  "url": "https://jobs.ashbyhq.com/cohere/38f75a48-199c-4325-a7f8-2af6ed6a1b3b",
-  "jd_fetched": true,
-  "jd_keywords": [
-   "agentic",
-   "ai",
-   "aws",
-   "azure",
-   "ci/cd",
-   "devops",
-   "gcp",
-   "git",
-   "helm",
-   "kubernetes",
-   "pipelines"
-  ],
-  "jd_note": "5292 chars"
  },
  {
   "company": "Cohere",
@@ -3340,6 +3336,27 @@
  },
  {
   "company": "Coinbase",
+  "title": "Senior Software Engineer, Backend (Retail DEX)",
+  "location": "Remote",
+  "tag": "通用后端",
+  "level": "Senior",
+  "url": "https://www.coinbase.com/careers/positions/8243517?gh_jid=8243517",
+  "jd_fetched": true,
+  "jd_keywords": [
+   "agentic",
+   "ai",
+   "clickhouse",
+   "generative ai",
+   "http",
+   "https",
+   "kafka",
+   "pipelines",
+   "redis"
+  ],
+  "jd_note": "6083 chars"
+ },
+ {
+  "company": "Coinbase",
   "title": "Senior Software Engineer, Backend - Overseer (Platform)",
   "location": "Remote",
   "tag": "数据/AI",
@@ -3364,6 +3381,29 @@
    "streaming"
   ],
   "jd_note": "6376 chars"
+ },
+ {
+  "company": "Coinbase",
+  "title": "Senior Software Engineer, Backend - Payments Platform",
+  "location": "Remote",
+  "tag": "数据/AI",
+  "level": "Senior",
+  "url": "https://www.coinbase.com/careers/positions/8247401?gh_jid=8247401",
+  "jd_fetched": true,
+  "jd_keywords": [
+   "ai",
+   "api",
+   "apis",
+   "distributed systems",
+   "generative ai",
+   "go",
+   "http",
+   "https",
+   "microservices",
+   "observability",
+   "rails"
+  ],
+  "jd_note": "6488 chars"
  },
  {
   "company": "Coinbase",
@@ -3526,27 +3566,6 @@
  },
  {
   "company": "Coinbase",
-  "title": "Senior Software Engineer, Retail DEX",
-  "location": "Remote",
-  "tag": "通用后端",
-  "level": "Senior",
-  "url": "https://www.coinbase.com/careers/positions/8243517?gh_jid=8243517",
-  "jd_fetched": true,
-  "jd_keywords": [
-   "agentic",
-   "ai",
-   "clickhouse",
-   "generative ai",
-   "http",
-   "https",
-   "kafka",
-   "pipelines",
-   "redis"
-  ],
-  "jd_note": "6026 chars"
- },
- {
-  "company": "Coinbase",
   "title": "Senior Software Engineer, Simple Trade Experience",
   "location": "Remote",
   "tag": "通用后端",
@@ -3650,6 +3669,28 @@
  },
  {
   "company": "Coinbase",
+  "title": "Software Engineer, Backend - Payments Platform",
+  "location": "Remote",
+  "tag": "数据/AI",
+  "level": "SDE2/mid",
+  "url": "https://www.coinbase.com/careers/positions/8247397?gh_jid=8247397",
+  "jd_fetched": true,
+  "jd_keywords": [
+   "ai",
+   "distributed systems",
+   "generative ai",
+   "go",
+   "http",
+   "https",
+   "java",
+   "postgres",
+   "python",
+   "rails"
+  ],
+  "jd_note": "5830 chars"
+ },
+ {
+  "company": "Coinbase",
   "title": "Software Engineer, Blockchain Platform Nodes",
   "location": "Remote",
   "tag": "数据/AI",
@@ -3718,6 +3759,26 @@
    "typescript"
   ],
   "jd_note": "6884 chars"
+ },
+ {
+  "company": "Coinbase",
+  "title": "Software Engineer, CDP - Stablecoin",
+  "location": "Remote",
+  "tag": "通用后端",
+  "level": "SDE2/mid",
+  "url": "https://www.coinbase.com/careers/positions/8234278?gh_jid=8234278",
+  "jd_fetched": true,
+  "jd_keywords": [
+   "ai",
+   "apis",
+   "distributed systems",
+   "generative ai",
+   "go",
+   "http",
+   "https",
+   "observability"
+  ],
+  "jd_note": "6072 chars"
  },
  {
   "company": "Coinbase",
@@ -4750,13 +4811,42 @@
  },
  {
   "company": "GitLab",
-  "title": "Backend Engineer (Ruby), AI Engineering: Agent Observability",
+  "title": "Backend Engineer (Python),AI Engineering: Agent Foundations",
+  "location": "Remote",
+  "tag": "数据/AI",
+  "level": "SDE2/mid",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8704363002",
+  "jd_fetched": true,
+  "jd_keywords": [
+   "agentic",
+   "ai",
+   "apis",
+   "gitlab",
+   "go",
+   "graphql",
+   "grpc",
+   "https",
+   "javascript",
+   "langchain",
+   "llm",
+   "observability",
+   "on-call",
+   "python",
+   "rails",
+   "ruby"
+  ],
+  "jd_note": "9321 chars"
+ },
+ {
+  "company": "GitLab",
+  "title": "Backend Engineer (Ruby), AI Engineering: Agent Foundations",
   "location": "Remote",
   "tag": "数据/AI",
   "level": "SDE2/mid",
   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8620720002",
   "jd_fetched": true,
   "jd_keywords": [
+   "agentic",
    "ai",
    "apis",
    "gitlab",
@@ -4771,7 +4861,7 @@
    "ruby",
    "sql"
   ],
-  "jd_note": "9127 chars"
+  "jd_note": "8946 chars"
  },
  {
   "company": "GitLab",
@@ -5000,56 +5090,6 @@
    "site reliability"
   ],
   "jd_note": "9813 chars"
- },
- {
-  "company": "GitLab",
-  "title": "Senior Backend Engineer (Python), Agent Developer: Flow Components",
-  "location": "Remote",
-  "tag": "通用后端",
-  "level": "Senior",
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8704363002",
-  "jd_fetched": true,
-  "jd_keywords": [
-   "agentic",
-   "ai",
-   "gitlab",
-   "graphql",
-   "https",
-   "javascript",
-   "langchain",
-   "ml",
-   "observability",
-   "on-call",
-   "postgresql",
-   "python",
-   "sql"
-  ],
-  "jd_note": "9089 chars"
- },
- {
-  "company": "GitLab",
-  "title": "Senior Backend Engineer (Ruby), AI Catalog: External Agents",
-  "location": "Remote",
-  "tag": "数据/AI",
-  "level": "Senior",
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8759577002",
-  "jd_fetched": true,
-  "jd_keywords": [
-   "agentic",
-   "ai",
-   "apis",
-   "gitlab",
-   "graphql",
-   "https",
-   "observability",
-   "on-call",
-   "postgresql",
-   "python",
-   "rails",
-   "ruby",
-   "sql"
-  ],
-  "jd_note": "8760 chars"
  },
  {
   "company": "GitLab",
@@ -5348,7 +5388,7 @@
   "location": "Remote",
   "tag": "数据/AI",
   "level": "Senior",
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8749952002",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8693103002",
   "jd_fetched": true,
   "jd_keywords": [
    "ai",
@@ -5359,7 +5399,7 @@
    "sdk",
    "typescript"
   ],
-  "jd_note": "10448 chars"
+  "jd_note": "9732 chars"
  },
  {
   "company": "Grafana Labs",
@@ -6039,7 +6079,7 @@
   "location": "Remote",
   "tag": "通用后端",
   "level": "Senior",
-  "url": "https://job-boards.greenhouse.io/honeycomb/jobs/5373987008",
+  "url": "https://job-boards.greenhouse.io/honeycomb/jobs/5373989008",
   "jd_fetched": true,
   "jd_keywords": [
    "agentic",
@@ -6055,7 +6095,7 @@
    "prompt",
    "rag"
   ],
-  "jd_note": "12922 chars"
+  "jd_note": "12608 chars"
  },
  {
   "company": "Honeycomb",
@@ -6063,7 +6103,7 @@
   "location": "Remote",
   "tag": "数据/AI",
   "level": "Senior",
-  "url": "https://job-boards.greenhouse.io/honeycomb/jobs/5366557008",
+  "url": "https://job-boards.greenhouse.io/honeycomb/jobs/5366559008",
   "jd_fetched": true,
   "jd_keywords": [
    "ai",
@@ -6079,7 +6119,7 @@
    "react",
    "typescript"
   ],
-  "jd_note": "11948 chars"
+  "jd_note": "11832 chars"
  },
  {
   "company": "Honeycomb",
@@ -6087,7 +6127,7 @@
   "location": "Remote",
   "tag": "通用后端",
   "level": "Senior",
-  "url": "https://job-boards.greenhouse.io/honeycomb/jobs/5389580008",
+  "url": "https://job-boards.greenhouse.io/honeycomb/jobs/5389582008",
   "jd_fetched": true,
   "jd_keywords": [
    "go",
@@ -6095,7 +6135,7 @@
    "observability",
    "on-call"
   ],
-  "jd_note": "10646 chars"
+  "jd_note": "10402 chars"
  },
  {
   "company": "Icertis",
@@ -6171,7 +6211,7 @@
   "location": "Remote",
   "tag": "数据/AI",
   "level": "Senior",
-  "url": "https://instacart.careers/job/?gh_jid=7951938",
+  "url": "https://instacart.careers/job/?gh_jid=8246054",
   "jd_fetched": true,
   "jd_keywords": [
    "ai",
@@ -6197,7 +6237,7 @@
    "spark",
    "sql"
   ],
-  "jd_note": "9108 chars"
+  "jd_note": "9879 chars"
  },
  {
   "company": "Instacart",
@@ -6267,7 +6307,7 @@
   "location": "Remote",
   "tag": "通用后端",
   "level": "Senior",
-  "url": "https://instacart.careers/job/?gh_jid=8141533",
+  "url": "https://instacart.careers/job/?gh_jid=8141535",
   "jd_fetched": true,
   "jd_keywords": [
    "ai",
@@ -6278,7 +6318,7 @@
    "pipelines",
    "python"
   ],
-  "jd_note": "7336 chars"
+  "jd_note": "6565 chars"
  },
  {
   "company": "Instacart",
@@ -6419,6 +6459,42 @@
    "sql"
   ],
   "jd_note": "6085 chars"
+ },
+ {
+  "company": "Instacart",
+  "title": "Software Engineer II, CRM & SEO",
+  "location": "Remote",
+  "tag": "通用后端",
+  "level": "SDE2/mid",
+  "url": "https://instacart.careers/job/?gh_jid=8244914",
+  "jd_fetched": true,
+  "jd_keywords": [
+   "ai",
+   "airflow",
+   "api",
+   "apis",
+   "distributed systems",
+   "hadoop",
+   "https",
+   "json",
+   "llm",
+   "next.js",
+   "nosql",
+   "observability",
+   "pipeline",
+   "pipelines",
+   "postgresql",
+   "python",
+   "react",
+   "redshift",
+   "rest api",
+   "ruby",
+   "snowflake",
+   "spark",
+   "typescript",
+   "yaml"
+  ],
+  "jd_note": "8815 chars"
  },
  {
   "company": "LaunchDarkly",
@@ -7713,27 +7789,6 @@
    "openai"
   ],
   "jd_note": "8680 chars"
- },
- {
-  "company": "OpenAI",
-  "title": "IT Controls Data Engineer",
-  "location": "Remote",
-  "tag": "数据/AI",
-  "level": "SDE2/mid",
-  "url": "https://jobs.ashbyhq.com/openai/5bc79fde-2f1d-4bb2-8186-4a700ecff37c",
-  "jd_fetched": true,
-  "jd_keywords": [
-   "ai",
-   "aws",
-   "azure",
-   "databricks",
-   "go",
-   "observability",
-   "openai",
-   "pipelines",
-   "sql"
-  ],
-  "jd_note": "7064 chars"
  },
  {
   "company": "OpenAI",
@@ -9310,6 +9365,28 @@
  },
  {
   "company": "Pinterest",
+  "title": "Sr. Security Software Engineer, Security Operations",
+  "location": "Remote",
+  "tag": "通用后端",
+  "level": "Senior",
+  "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8230778",
+  "jd_fetched": true,
+  "jd_keywords": [
+   "ai",
+   "apis",
+   "aws",
+   "ci/cd",
+   "https",
+   "observability",
+   "platform engineering",
+   "system design",
+   "terraform",
+   "vulnerability"
+  ],
+  "jd_note": "7667 chars"
+ },
+ {
+  "company": "Pinterest",
   "title": "Sr. Software Engineer, Web",
   "location": "Remote",
   "tag": "通用后端",
@@ -9323,6 +9400,27 @@
    "spark"
   ],
   "jd_note": "7263 chars"
+ },
+ {
+  "company": "Pinterest",
+  "title": "University Grad Software Engineer 2027 (USA)",
+  "location": "Remote",
+  "tag": "通用后端",
+  "level": "SDE2/mid",
+  "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838591",
+  "jd_fetched": true,
+  "jd_keywords": [
+   "ai",
+   "c++",
+   "go",
+   "https",
+   "java",
+   "javascript",
+   "python",
+   "react",
+   "typescript"
+  ],
+  "jd_note": "7210 chars"
  },
  {
   "company": "Plaid",
@@ -9444,19 +9542,6 @@
    "system design"
   ],
   "jd_note": "5253 chars"
- },
- {
-  "company": "Plaid",
-  "title": "Software Engineer - Security Engineering",
-  "location": "Seattle",
-  "tag": "通用后端",
-  "level": "SDE2/mid",
-  "url": "https://jobs.ashbyhq.com/plaid/f214bf6c-2008-4eab-8943-03f5d03088c2",
-  "jd_fetched": true,
-  "jd_keywords": [
-   "incident response"
-  ],
-  "jd_note": "5276 chars"
  },
  {
   "company": "Plaid",
@@ -9712,53 +9797,6 @@
    "streaming"
   ],
   "jd_note": "4829 chars"
- },
- {
-  "company": "Qumulo",
-  "title": "Software Engineer, Core Data Services",
-  "location": "Remote / Seattle",
-  "tag": "数据/AI",
-  "level": "SDE2/mid",
-  "url": "https://jobs.ashbyhq.com/qumulo/b6c6c48f-09b2-4f3e-8a2c-010b4440b694",
-  "jd_fetched": true,
-  "jd_keywords": [
-   "ai",
-   "apis",
-   "c#",
-   "c++",
-   "go",
-   "https",
-   "java",
-   "linux",
-   "observability",
-   "performance tuning",
-   "rust",
-   "splunk"
-  ],
-  "jd_note": "4089 chars"
- },
- {
-  "company": "Quora (Poe)",
-  "title": "Senior Software Engineer - Infrastructure Security (Remote)",
-  "location": "Remote",
-  "tag": "数据/AI",
-  "level": "Senior",
-  "url": "https://jobs.ashbyhq.com/quora/dce88e1a-d30f-44e6-a471-cf810fc9a449",
-  "jd_fetched": true,
-  "jd_keywords": [
-   "ai",
-   "apis",
-   "aws",
-   "ci/cd",
-   "https",
-   "incident response",
-   "kubernetes",
-   "linux",
-   "pipelines",
-   "sql",
-   "terraform"
-  ],
-  "jd_note": "7131 chars"
  },
  {
   "company": "Ramp",
@@ -10499,7 +10537,7 @@
   "location": "Remote",
   "tag": "通用后端",
   "level": "SDE2/mid",
-  "url": "https://job-boards.greenhouse.io/reddit/jobs/6469397",
+  "url": "https://job-boards.greenhouse.io/reddit/jobs/6512458",
   "jd_fetched": true,
   "jd_keywords": [
    "ai",
@@ -10514,14 +10552,17 @@
    "java",
    "kafka",
    "kubernetes",
+   "machine learning",
    "microservices",
+   "ml",
+   "observability",
    "postgres",
    "python",
    "redis",
    "scala",
    "spark"
   ],
-  "jd_note": "7555 chars"
+  "jd_note": "9893 chars"
  },
  {
   "company": "Reddit",
@@ -11343,26 +11384,6 @@
    "pipeline"
   ],
   "jd_note": "4584 chars"
- },
- {
-  "company": "Sentry",
-  "title": "Senior Software Engineer, Events Analytics Platform",
-  "location": "Remote",
-  "tag": "数据/AI",
-  "level": "Senior",
-  "url": "https://jobs.ashbyhq.com/sentry/f9e12841-4efe-4742-81ae-e9c75e93d8a7",
-  "jd_fetched": true,
-  "jd_keywords": [
-   "ai",
-   "clickhouse",
-   "kafka",
-   "postgresql",
-   "python",
-   "rabbitmq",
-   "redis",
-   "streaming"
-  ],
-  "jd_note": "4587 chars"
  },
  {
   "company": "Sentry",
@@ -12228,7 +12249,7 @@
   "location": "Remote",
   "tag": "数据/AI",
   "level": "SDE2/mid",
-  "url": "https://jobs.ashbyhq.com/snowflake/04559598-b320-4bcd-ace8-fb9cc551a02c",
+  "url": "https://jobs.ashbyhq.com/snowflake/9003f845-850a-4786-a422-ec9632fe0141",
   "jd_fetched": true,
   "jd_keywords": [
    "agentic",
@@ -12605,30 +12626,6 @@
  },
  {
   "company": "Supabase",
-  "title": "AI Platform Engineer",
-  "location": "Remote",
-  "tag": "数据/AI",
-  "level": "SDE2/mid",
-  "url": "https://jobs.ashbyhq.com/supabase/3b5d54ca-741b-45ac-bd3f-31605a0d3541",
-  "jd_fetched": true,
-  "jd_keywords": [
-   "agentic",
-   "ai",
-   "api",
-   "apis",
-   "gcp",
-   "llm",
-   "observability",
-   "pipeline",
-   "postgres",
-   "prompt",
-   "prompt engineering",
-   "python"
-  ],
-  "jd_note": "10656 chars"
- },
- {
-  "company": "Supabase",
   "title": "Platform Engineer - Compute Capacity",
   "location": "Remote",
   "tag": "数据/AI",
@@ -12765,7 +12762,7 @@
   "location": "Remote",
   "tag": "通用后端",
   "level": "SDE2/mid",
-  "url": "https://job-boards.greenhouse.io/tailscale/jobs/4734570005",
+  "url": "https://job-boards.greenhouse.io/tailscale/jobs/4733177005",
   "jd_fetched": true,
   "jd_keywords": [
    "ai",
@@ -12776,7 +12773,7 @@
    "observability",
    "sql"
   ],
-  "jd_note": "7253 chars"
+  "jd_note": "7254 chars"
  },
  {
   "company": "Tailscale",
@@ -12894,24 +12891,6 @@
    "rust"
   ],
   "jd_note": "3644 chars"
- },
- {
-  "company": "Teleport",
-  "title": "Senior Backend Engineer , Distributed Systems",
-  "location": "Remote",
-  "tag": "数据/AI",
-  "level": "Senior",
-  "url": "https://jobs.ashbyhq.com/goteleport/5fc09c78-7237-4135-9c53-783badeea0e7",
-  "jd_fetched": true,
-  "jd_keywords": [
-   "ai",
-   "distributed systems",
-   "go",
-   "linux",
-   "observability",
-   "rust"
-  ],
-  "jd_note": "3755 chars"
  },
  {
   "company": "Teleport",
@@ -13306,34 +13285,6 @@
  },
  {
   "company": "Twilio",
-  "title": "Software Engineer (L2)",
-  "location": "Remote",
-  "tag": "通用后端",
-  "level": "SDE2/mid",
-  "url": "https://job-boards.greenhouse.io/twilio/jobs/8100236",
-  "jd_fetched": true,
-  "jd_keywords": [
-   "ai",
-   "aws",
-   "azure",
-   "c#",
-   "c++",
-   "docker",
-   "gcp",
-   "go",
-   "http",
-   "https",
-   "java",
-   "kafka",
-   "kubernetes",
-   "mysql",
-   "rust",
-   "terraform"
-  ],
-  "jd_note": "9852 chars"
- },
- {
-  "company": "Twilio",
   "title": "Software Engineer (L2), Identity",
   "location": "Remote",
   "tag": "通用后端",
@@ -13423,66 +13374,6 @@
    "terraform"
   ],
   "jd_note": "9240 chars"
- },
- {
-  "company": "Twilio",
-  "title": "Software Engineer L2-Messaging API",
-  "location": "Remote",
-  "tag": "通用后端",
-  "level": "SDE2/mid",
-  "url": "https://job-boards.greenhouse.io/twilio/jobs/7816159",
-  "jd_fetched": true,
-  "jd_keywords": [
-   "ai",
-   "apis",
-   "aws",
-   "docker",
-   "dynamodb",
-   "go",
-   "http",
-   "https",
-   "java",
-   "kubernetes",
-   "nosql",
-   "on-call"
-  ],
-  "jd_note": "8308 chars"
- },
- {
-  "company": "Twilio",
-  "title": "Software Engineer L3",
-  "location": "Remote",
-  "tag": "通用后端",
-  "level": "SDE2/mid",
-  "url": "https://job-boards.greenhouse.io/twilio/jobs/8009057",
-  "jd_fetched": true,
-  "jd_keywords": [
-   "ai",
-   "aws",
-   "azure",
-   "caching",
-   "distributed systems",
-   "distributed tracing",
-   "docker",
-   "dynamodb",
-   "ec2",
-   "go",
-   "golang",
-   "http",
-   "https",
-   "infrastructure as code",
-   "java",
-   "kafka",
-   "kubernetes",
-   "microservices",
-   "observability",
-   "python",
-   "s3",
-   "sql",
-   "streaming",
-   "terraform"
-  ],
-  "jd_note": "11057 chars"
  },
  {
   "company": "Twilio",
