@@ -209,7 +209,7 @@
   "location": "Remote",
   "tag": "通用后端",
   "level": "SDE2/mid",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7916080003",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7813362003",
   "jd_fetched": true,
   "jd_keywords": [
    "ai",
@@ -222,7 +222,7 @@
    "snowflake",
    "sql"
   ],
-  "jd_note": "6747 chars"
+  "jd_note": "7788 chars"
  },
  {
   "company": "Affirm",
@@ -230,7 +230,7 @@
   "location": "Remote",
   "tag": "通用后端",
   "level": "SDE2/mid",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7799329003",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/8003170003",
   "jd_fetched": true,
   "jd_keywords": [
    "ai",
@@ -238,7 +238,7 @@
    "https",
    "sql"
   ],
-  "jd_note": "7513 chars"
+  "jd_note": "7443 chars"
  },
  {
   "company": "Affirm",
@@ -261,7 +261,7 @@
   "location": "Remote",
   "tag": "通用后端",
   "level": "SDE2/mid",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7871458003",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7871456003",
   "jd_fetched": true,
   "jd_keywords": [
    "ai",
@@ -270,7 +270,7 @@
    "python",
    "sql"
   ],
-  "jd_note": "7766 chars"
+  "jd_note": "7718 chars"
  },
  {
   "company": "Affirm",
@@ -278,36 +278,27 @@
   "location": "Remote",
   "tag": "通用后端",
   "level": "Senior",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7799631003",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/8005077003",
   "jd_fetched": true,
   "jd_keywords": [
-   "agentic",
-   "ai",
+   "api",
    "apis",
-   "bigquery",
-   "ci/cd",
-   "code review",
-   "data pipeline",
-   "databricks",
+   "aws",
+   "azure",
+   "distributed systems",
    "docker",
    "event-driven",
-   "github actions",
+   "google cloud",
    "https",
-   "incident response",
-   "llm",
-   "oauth",
-   "observability",
-   "olap",
-   "oltp",
-   "on-call",
-   "pipeline",
-   "pipelines",
+   "kotlin",
+   "kubernetes",
+   "nosql",
    "python",
-   "snowflake",
+   "restful",
    "sql",
-   "streaming"
+   "system design"
   ],
-  "jd_note": "8857 chars"
+  "jd_note": "5900 chars"
  },
  {
   "company": "Affirm",
@@ -337,7 +328,7 @@
   "location": "Remote",
   "tag": "通用后端",
   "level": "Senior",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7806681003",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7806679003",
   "jd_fetched": true,
   "jd_keywords": [
    "ai",
@@ -359,7 +350,7 @@
    "sql",
    "system design"
   ],
-  "jd_note": "9864 chars"
+  "jd_note": "8549 chars"
  },
  {
   "company": "Affirm",
@@ -496,7 +487,7 @@
   "location": "Remote",
   "tag": "通用后端",
   "level": "Senior",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7820446003",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7820448003",
   "jd_fetched": true,
   "jd_keywords": [
    "aws",
@@ -507,7 +498,7 @@
    "on-call",
    "python"
   ],
-  "jd_note": "6375 chars"
+  "jd_note": "8382 chars"
  },
  {
   "company": "Affirm",
@@ -642,7 +633,7 @@
   "location": "Remote",
   "tag": "通用后端",
   "level": "Senior",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7832326003",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7832324003",
   "jd_fetched": true,
   "jd_keywords": [
    "apis",
@@ -652,7 +643,7 @@
    "mysql",
    "python"
   ],
-  "jd_note": "5043 chars"
+  "jd_note": "5111 chars"
  },
  {
   "company": "Affirm",
@@ -743,7 +734,7 @@
   "location": "Remote",
   "tag": "通用后端",
   "level": "SDE2/mid",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
   "jd_fetched": true,
   "jd_keywords": [
    "aws",
@@ -751,10 +742,9 @@
    "high availability",
    "https",
    "mysql",
-   "on-call",
    "python"
   ],
-  "jd_note": "6672 chars"
+  "jd_note": "6404 chars"
  },
  {
   "company": "Affirm",
@@ -799,7 +789,7 @@
   "location": "Remote",
   "tag": "通用后端",
   "level": "SDE2/mid",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/8003028003",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/8003030003",
   "jd_fetched": true,
   "jd_keywords": [
    "aws",
@@ -809,7 +799,7 @@
    "on-call",
    "python"
   ],
-  "jd_note": "6021 chars"
+  "jd_note": "6633 chars"
  },
  {
   "company": "Affirm",
@@ -856,7 +846,7 @@
   "location": "Remote",
   "tag": "通用后端",
   "level": "SDE2/mid",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7985860003",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7985862003",
   "jd_fetched": true,
   "jd_keywords": [
    "aws",
@@ -866,7 +856,7 @@
    "on-call",
    "python"
   ],
-  "jd_note": "6418 chars"
+  "jd_note": "6269 chars"
  },
  {
   "company": "Affirm",
@@ -940,7 +930,7 @@
   "location": "Remote",
   "tag": "数据/AI",
   "level": "SDE2/mid",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/8003020003",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/8003022003",
   "jd_fetched": true,
   "jd_keywords": [
    "aws",
@@ -953,7 +943,7 @@
    "stream processing",
    "streaming"
   ],
-  "jd_note": "6663 chars"
+  "jd_note": "6290 chars"
  },
  {
   "company": "Affirm",
@@ -998,7 +988,7 @@
   "location": "Remote",
   "tag": "通用后端",
   "level": "SDE2/mid",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7819445003",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7819447003",
   "jd_fetched": true,
   "jd_keywords": [
    "apis",
@@ -1007,7 +997,7 @@
    "on-call",
    "react"
   ],
-  "jd_note": "5547 chars"
+  "jd_note": "5912 chars"
  },
  {
   "company": "Airbnb",
@@ -3827,31 +3817,16 @@
   "location": "Remote",
   "tag": "通用后端",
   "level": "SDE2/mid",
-  "url": "https://www.coinbase.com/careers/positions/8003605?gh_jid=8003605",
+  "url": "https://www.coinbase.com/careers/positions/8207374?gh_jid=8207374",
   "jd_fetched": true,
   "jd_keywords": [
    "ai",
-   "angular",
-   "api",
-   "aws",
-   "azure",
-   "caching",
-   "distributed systems",
-   "docker",
-   "event-driven",
-   "gcp",
    "generative ai",
-   "golang",
    "http",
    "https",
-   "java",
-   "kubernetes",
-   "load balancing",
-   "observability",
-   "python",
    "react"
   ],
-  "jd_note": "6258 chars"
+  "jd_note": "6211 chars"
  },
  {
   "company": "Coinbase",
@@ -5143,7 +5118,7 @@
   "location": "Remote",
   "tag": "通用后端",
   "level": "Senior",
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8682860002",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8749950002",
   "jd_fetched": true,
   "jd_keywords": [
    "agentic",
@@ -5157,7 +5132,7 @@
    "rails",
    "ruby"
   ],
-  "jd_note": "9417 chars"
+  "jd_note": "10117 chars"
  },
  {
   "company": "GitLab",
@@ -6409,7 +6384,7 @@
   "location": "Remote",
   "tag": "通用后端",
   "level": "Senior",
-  "url": "https://job-boards.greenhouse.io/honeycomb/jobs/5389580008",
+  "url": "https://job-boards.greenhouse.io/honeycomb/jobs/5389582008",
   "jd_fetched": true,
   "jd_keywords": [
    "go",
@@ -6466,7 +6441,7 @@
   "location": "Remote",
   "tag": "数据/AI",
   "level": "Senior",
-  "url": "https://instacart.careers/job/?gh_jid=7951938",
+  "url": "https://instacart.careers/job/?gh_jid=8246054",
   "jd_fetched": true,
   "jd_keywords": [
    "ai",
@@ -6492,7 +6467,7 @@
    "spark",
    "sql"
   ],
-  "jd_note": "9108 chars"
+  "jd_note": "9879 chars"
  },
  {
   "company": "Instacart",
@@ -10356,7 +10331,7 @@
   "location": "Remote",
   "tag": "通用后端",
   "level": "Senior",
-  "url": "https://job-boards.greenhouse.io/reddit/jobs/6909091",
+  "url": "https://job-boards.greenhouse.io/reddit/jobs/6909093",
   "jd_fetched": true,
   "jd_keywords": [
    "ai",
@@ -10378,7 +10353,7 @@
    "scala",
    "spark"
   ],
-  "jd_note": "6923 chars"
+  "jd_note": "8633 chars"
  },
  {
   "company": "Reddit",
@@ -10526,7 +10501,7 @@
   "location": "Remote",
   "tag": "通用后端",
   "level": "SDE2/mid",
-  "url": "https://job-boards.greenhouse.io/reddit/jobs/6469397",
+  "url": "https://job-boards.greenhouse.io/reddit/jobs/6512458",
   "jd_fetched": true,
   "jd_keywords": [
    "ai",
@@ -10541,14 +10516,17 @@
    "java",
    "kafka",
    "kubernetes",
+   "machine learning",
    "microservices",
+   "ml",
+   "observability",
    "postgres",
    "python",
    "redis",
    "scala",
    "spark"
   ],
-  "jd_note": "7555 chars"
+  "jd_note": "9893 chars"
  },
  {
   "company": "Reddit",
@@ -12095,32 +12073,6 @@
  },
  {
   "company": "Snowflake",
-  "title": "Senior Software Engineer, Trust & Platform Security",
-  "location": "Remote",
-  "tag": "数据/AI",
-  "level": "Senior",
-  "url": "https://jobs.ashbyhq.com/snowflake/59fb145c-1a98-4fbb-897c-22b9b4d5a97d",
-  "jd_fetched": true,
-  "jd_keywords": [
-   "agentic",
-   "ai",
-   "aws",
-   "azure",
-   "c++",
-   "distributed systems",
-   "dns",
-   "gcp",
-   "go",
-   "http",
-   "java",
-   "snowflake",
-   "ssl",
-   "tls"
-  ],
-  "jd_note": "3601 chars"
- },
- {
-  "company": "Snowflake",
   "title": "Software Engineer",
   "location": "Remote",
   "tag": "通用后端",
@@ -12865,7 +12817,7 @@
   "location": "Remote",
   "tag": "数据/AI",
   "level": "SDE2/mid",
-  "url": "https://job-boards.greenhouse.io/tailscale/jobs/4726152005",
+  "url": "https://job-boards.greenhouse.io/tailscale/jobs/4726153005",
   "jd_fetched": true,
   "jd_keywords": [
    "ai",
@@ -12880,7 +12832,7 @@
    "terraform",
    "tls"
   ],
-  "jd_note": "7842 chars"
+  "jd_note": "7841 chars"
  },
  {
   "company": "Tailscale",
@@ -12888,7 +12840,7 @@
   "location": "Remote",
   "tag": "数据/AI",
   "level": "SDE2/mid",
-  "url": "https://job-boards.greenhouse.io/tailscale/jobs/4710755005",
+  "url": "https://job-boards.greenhouse.io/tailscale/jobs/4718557005",
   "jd_fetched": true,
   "jd_keywords": [
    "ai",
@@ -12924,7 +12876,7 @@
   "location": "Remote",
   "tag": "通用后端",
   "level": "SDE2/mid",
-  "url": "https://job-boards.greenhouse.io/tailscale/jobs/4739666005",
+  "url": "https://job-boards.greenhouse.io/tailscale/jobs/4739667005",
   "jd_fetched": true,
   "jd_keywords": [
    "ai",
@@ -12938,7 +12890,7 @@
    "postgresql",
    "sql"
   ],
-  "jd_note": "7799 chars"
+  "jd_note": "7798 chars"
  },
  {
   "company": "Tailscale",
@@ -13387,34 +13339,25 @@
   "location": "Remote",
   "tag": "通用后端",
   "level": "Senior",
-  "url": "https://job-boards.greenhouse.io/twilio/jobs/8015771",
+  "url": "https://job-boards.greenhouse.io/twilio/jobs/8065028",
   "jd_fetched": true,
   "jd_keywords": [
    "ai",
-   "apis",
-   "aws",
-   "ci/cd",
-   "datadog",
+   "bash",
+   "clickhouse",
    "distributed systems",
-   "eks",
-   "grafana",
-   "grpc",
+   "go",
    "http",
    "https",
    "java",
+   "k8s",
    "kafka",
    "kubernetes",
-   "linux",
-   "microservices",
-   "observability",
-   "on-call",
-   "pipelines",
    "python",
-   "react",
-   "sql",
-   "typescript"
+   "spark",
+   "terraform"
   ],
-  "jd_note": "10012 chars"
+  "jd_note": "10394 chars"
  },
  {
   "company": "Twilio",
