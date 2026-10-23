@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-22",
- "jobs": 634,
+ "updated_at": "2026-10-23",
+ "jobs": 638,
  "companies": 181,
- "companies_with_jobs": 74,
+ "companies_with_jobs": 76,
  "carried_over": 5,
  "errors": [
   "LinkedIn: HTTPError HTTP Error 404: Not Found",
