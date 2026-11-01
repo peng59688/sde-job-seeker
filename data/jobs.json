@@ -3250,29 +3250,6 @@
  },
  {
   "company": "Cohere",
-  "title": "Senior ML Systems Engineer, Frameworks & Tooling",
-  "location": "Remote",
-  "tag": "数据/AI",
-  "level": "Senior",
-  "url": "https://jobs.ashbyhq.com/cohere/c99e61c9-ed92-426d-9711-188dfc0f729f",
-  "jd_fetched": true,
-  "jd_keywords": [
-   "ai",
-   "caching",
-   "data pipeline",
-   "distributed systems",
-   "docker",
-   "kubernetes",
-   "llm",
-   "ml",
-   "model training",
-   "pipeline",
-   "pytorch"
-  ],
-  "jd_note": "6373 chars"
- },
- {
-  "company": "Cohere",
   "title": "Software Engineer, Data Infrastructure",
   "location": "Remote",
   "tag": "数据/AI",
@@ -4657,40 +4634,6 @@
    "websockets"
   ],
   "jd_note": "5626 chars"
- },
- {
-  "company": "ElevenLabs",
-  "title": "Full-Stack Engineer (Backend Leaning) - Payments Engineering",
-  "location": "Remote",
-  "tag": "通用后端",
-  "level": "SDE2/mid",
-  "url": "https://jobs.ashbyhq.com/elevenlabs/e4e0450f-d139-4f8e-b210-2f326a680d90",
-  "jd_fetched": true,
-  "jd_keywords": [
-   "ai",
-   "apis",
-   "stream processing",
-   "system design"
-  ],
-  "jd_note": "5308 chars"
- },
- {
-  "company": "ElevenLabs",
-  "title": "Full-Stack Engineer (Backend Leaning) - Platform Engineering",
-  "location": "Remote",
-  "tag": "数据/AI",
-  "level": "SDE2/mid",
-  "url": "https://jobs.ashbyhq.com/elevenlabs/ce3d5a59-fb8c-482b-bc3f-60e44576c5e0",
-  "jd_fetched": true,
-  "jd_keywords": [
-   "ai",
-   "api",
-   "apis",
-   "go",
-   "oauth",
-   "system design"
-  ],
-  "jd_note": "5989 chars"
  },
  {
   "company": "ElevenLabs",
@@ -7410,7 +7353,7 @@
   "location": "Seattle",
   "tag": "通用后端",
   "level": "Senior",
-  "url": "https://www.okta.com/company/careers/opportunity/8243981?gh_jid=8243981",
+  "url": "https://www.okta.com/company/careers/opportunity/8243128?gh_jid=8243128",
   "jd_fetched": true,
   "jd_keywords": [
    "ai",
@@ -7431,7 +7374,7 @@
    "observability",
    "site reliability"
   ],
-  "jd_note": "7898 chars"
+  "jd_note": "7911 chars"
  },
  {
   "company": "Okta",
@@ -12654,19 +12597,22 @@
   "location": "Seattle",
   "tag": "通用后端",
   "level": "SDE2/mid",
-  "url": "https://stripe.com/jobs/search?gh_jid=8267736",
+  "url": "https://stripe.com/jobs/search?gh_jid=8249901",
   "jd_fetched": true,
   "jd_keywords": [
    "aws",
+   "azure",
    "distributed systems",
+   "ec2",
    "go",
+   "java",
    "linux",
+   "nosql",
    "on-call",
-   "python",
-   "ruby",
-   "terraform"
+   "pipelines",
+   "python"
   ],
-  "jd_note": "3191 chars"
+  "jd_note": "2804 chars"
  },
  {
   "company": "Stripe",
