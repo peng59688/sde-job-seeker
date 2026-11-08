@@ -13892,6 +13892,23 @@
  },
  {
   "company": "xAI",
+  "title": "Lead Engineer, AI Infrastructure (C++, C)",
+  "location": "Seattle",
+  "tag": "数据/AI",
+  "level": "Senior",
+  "url": "https://job-boards.greenhouse.io/xai/jobs/5288098007",
+  "jd_fetched": true,
+  "jd_keywords": [
+   "ai",
+   "c++",
+   "fault tolerance",
+   "https",
+   "unit testing"
+  ],
+  "jd_note": "3769 chars"
+ },
+ {
+  "company": "xAI",
   "title": "Software Engineer, Kernels/CUDA (C++)",
   "location": "Seattle",
   "tag": "通用后端",
