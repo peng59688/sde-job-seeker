@@ -235,17 +235,15 @@
   "location": "Remote",
   "tag": "通用后端",
   "level": "SDE2/mid",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/8011132003",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/8003170003",
   "jd_fetched": true,
   "jd_keywords": [
    "ai",
-   "dbt",
+   "go",
    "https",
-   "pipelines",
-   "python",
    "sql"
   ],
-  "jd_note": "7189 chars"
+  "jd_note": "7443 chars"
  },
  {
   "company": "Affirm",
@@ -338,7 +336,7 @@
   "location": "Remote",
   "tag": "通用后端",
   "level": "Senior",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7820448003",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7820446003",
   "jd_fetched": true,
   "jd_keywords": [
    "aws",
@@ -349,7 +347,7 @@
    "on-call",
    "python"
   ],
-  "jd_note": "8382 chars"
+  "jd_note": "6375 chars"
  },
  {
   "company": "Affirm",
@@ -357,7 +355,7 @@
   "location": "Remote",
   "tag": "通用后端",
   "level": "Senior",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/8034649003",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/8034651003",
   "jd_fetched": true,
   "jd_keywords": [
    "ai",
@@ -374,7 +372,7 @@
    "python",
    "system design"
   ],
-  "jd_note": "7592 chars"
+  "jd_note": "9711 chars"
  },
  {
   "company": "Affirm",
@@ -382,7 +380,7 @@
   "location": "Remote",
   "tag": "通用后端",
   "level": "Senior",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/8197327003",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/8197325003",
   "jd_fetched": true,
   "jd_keywords": [
    "aws",
@@ -393,7 +391,7 @@
    "on-call",
    "python"
   ],
-  "jd_note": "5752 chars"
+  "jd_note": "6384 chars"
  },
  {
   "company": "Affirm",
@@ -455,7 +453,7 @@
   "location": "Remote",
   "tag": "数据/AI",
   "level": "Senior",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/8201463003",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/8201465003",
   "jd_fetched": true,
   "jd_keywords": [
    "aws",
@@ -468,7 +466,7 @@
    "on-call",
    "python"
   ],
-  "jd_note": "6401 chars"
+  "jd_note": "6540 chars"
  },
  {
   "company": "Affirm",
@@ -508,7 +506,7 @@
   "location": "Remote",
   "tag": "通用后端",
   "level": "Senior",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7808384003",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7808386003",
   "jd_fetched": true,
   "jd_keywords": [
    "apis",
@@ -520,7 +518,7 @@
    "on-call",
    "python"
   ],
-  "jd_note": "5839 chars"
+  "jd_note": "6183 chars"
  },
  {
   "company": "Affirm",
@@ -528,7 +526,7 @@
   "location": "Remote",
   "tag": "通用后端",
   "level": "Senior",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/8197336003",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/8197334003",
   "jd_fetched": true,
   "jd_keywords": [
    "aws",
@@ -539,7 +537,7 @@
    "on-call",
    "python"
   ],
-  "jd_note": "5688 chars"
+  "jd_note": "6320 chars"
  },
  {
   "company": "Affirm",
@@ -547,7 +545,7 @@
   "location": "Remote",
   "tag": "通用后端",
   "level": "Senior",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/8017286003",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/8017284003",
   "jd_fetched": true,
   "jd_keywords": [
    "api",
@@ -630,7 +628,7 @@
   "location": "Remote",
   "tag": "通用后端",
   "level": "SDE2/mid",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/8181185003",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/8181183003",
   "jd_fetched": true,
   "jd_keywords": [
    "ai",
@@ -643,7 +641,7 @@
    "python",
    "test automation"
   ],
-  "jd_note": "6166 chars"
+  "jd_note": "5987 chars"
  },
  {
   "company": "Affirm",
@@ -682,7 +680,7 @@
   "location": "Remote",
   "tag": "通用后端",
   "level": "SDE2/mid",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/8196114003",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/8196112003",
   "jd_fetched": true,
   "jd_keywords": [
    "aws",
@@ -692,28 +690,7 @@
    "on-call",
    "python"
   ],
-  "jd_note": "6005 chars"
- },
- {
-  "company": "Affirm",
-  "title": "Software Engineer II, Backend (Streaming)",
-  "location": "Remote",
-  "tag": "数据/AI",
-  "level": "SDE2/mid",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/8003020003",
-  "jd_fetched": true,
-  "jd_keywords": [
-   "aws",
-   "distributed systems",
-   "flink",
-   "https",
-   "kafka",
-   "on-call",
-   "python",
-   "stream processing",
-   "streaming"
-  ],
-  "jd_note": "6663 chars"
+  "jd_note": "6779 chars"
  },
  {
   "company": "Affirm",
@@ -721,7 +698,7 @@
   "location": "Remote",
   "tag": "通用后端",
   "level": "SDE2/mid",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7727322003",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7727320003",
   "jd_fetched": true,
   "jd_keywords": [
    "ai",
@@ -733,7 +710,7 @@
    "test automation",
    "typescript"
   ],
-  "jd_note": "7361 chars"
+  "jd_note": "8111 chars"
  },
  {
   "company": "Affirm",
@@ -778,7 +755,7 @@
   "location": "Remote",
   "tag": "数据/AI",
   "level": "SDE2/mid",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/8016868003",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/8016866003",
   "jd_fetched": true,
   "jd_keywords": [
    "apis",
@@ -787,7 +764,7 @@
    "on-call",
    "python"
   ],
-  "jd_note": "5676 chars"
+  "jd_note": "5372 chars"
  },
  {
   "company": "Affirm",
@@ -853,7 +830,7 @@
   "location": "Remote",
   "tag": "通用后端",
   "level": "SDE2/mid",
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/8040394003",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/8040392003",
   "jd_fetched": true,
   "jd_keywords": [
    "agile",
@@ -862,7 +839,7 @@
    "python",
    "react"
   ],
-  "jd_note": "6686 chars"
+  "jd_note": "7887 chars"
  },
  {
   "company": "Airbnb",
@@ -1683,28 +1660,6 @@
  },
  {
   "company": "Anthropic",
-  "title": "Data Engineer, GTM Systems",
-  "location": "Seattle",
-  "tag": "数据/AI",
-  "level": "SDE2/mid",
-  "url": "https://job-boards.greenhouse.io/anthropic/jobs/5464234008",
-  "jd_fetched": true,
-  "jd_keywords": [
-   "ai",
-   "data warehouse",
-   "go",
-   "http",
-   "https",
-   "observability",
-   "pipeline",
-   "pipelines",
-   "python",
-   "sql"
-  ],
-  "jd_note": "9920 chars"
- },
- {
-  "company": "Anthropic",
   "title": "Data Engineer, Product",
   "location": "Seattle",
   "tag": "数据/AI",
@@ -2353,6 +2308,32 @@
    "clickhouse"
   ],
   "jd_note": "4506 chars"
+ },
+ {
+  "company": "ClickHouse",
+  "title": "Data Platform Engineer",
+  "location": "Remote",
+  "tag": "数据/AI",
+  "level": "SDE2/mid",
+  "url": "https://jobs.ashbyhq.com/clickhouse/6d2d05da-c1f4-4ff6-9d02-a30306940857",
+  "jd_fetched": true,
+  "jd_keywords": [
+   "ai",
+   "airflow",
+   "aws",
+   "ci/cd",
+   "clickhouse",
+   "data warehouse",
+   "dbt",
+   "elt",
+   "etl",
+   "github actions",
+   "pipelines",
+   "python",
+   "s3",
+   "sql"
+  ],
+  "jd_note": "4311 chars"
  },
  {
   "company": "ClickHouse",
@@ -4221,7 +4202,7 @@
   "location": "Remote",
   "tag": "通用后端",
   "level": "SDE2/mid",
-  "url": "https://jobs.dropbox.com/listing/7172839?gh_jid=7172839",
+  "url": "https://jobs.dropbox.com/listing/6449729?gh_jid=6449729",
   "jd_fetched": true,
   "jd_keywords": [
    "ai",
@@ -4233,7 +4214,7 @@
    "python",
    "react"
   ],
-  "jd_note": "6917 chars"
+  "jd_note": "7399 chars"
  },
  {
   "company": "Dropbox",
@@ -4241,7 +4222,7 @@
   "location": "Remote",
   "tag": "数据/AI",
   "level": "SDE2/mid",
-  "url": "https://jobs.dropbox.com/listing/7172713?gh_jid=7172713",
+  "url": "https://jobs.dropbox.com/listing/6330377?gh_jid=6330377",
   "jd_fetched": true,
   "jd_keywords": [
    "c++",
@@ -4251,7 +4232,7 @@
    "on-call",
    "python"
   ],
-  "jd_note": "9899 chars"
+  "jd_note": "10168 chars"
  },
  {
   "company": "Dropbox",
@@ -4282,7 +4263,7 @@
   "location": "Remote",
   "tag": "数据/AI",
   "level": "Senior",
-  "url": "https://jobs.dropbox.com/listing/8280094?gh_jid=8280094",
+  "url": "https://jobs.dropbox.com/listing/8280093?gh_jid=8280093",
   "jd_fetched": true,
   "jd_keywords": [
    "ai",
@@ -4293,7 +4274,7 @@
    "python",
    "sql"
   ],
-  "jd_note": "15476 chars"
+  "jd_note": "15810 chars"
  },
  {
   "company": "ElevenLabs",
@@ -4719,7 +4700,7 @@
   "location": "Remote",
   "tag": "通用后端",
   "level": "SDE2/mid",
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8682860002",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8749950002",
   "jd_fetched": true,
   "jd_keywords": [
    "agentic",
@@ -4734,7 +4715,7 @@
    "rails",
    "ruby"
   ],
-  "jd_note": "9551 chars"
+  "jd_note": "10251 chars"
  },
  {
   "company": "GitLab",
@@ -4895,7 +4876,7 @@
   "location": "Remote",
   "tag": "通用后端",
   "level": "SDE2/mid",
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8911684002",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8891836002",
   "jd_fetched": true,
   "jd_keywords": [
    "ai",
@@ -4908,7 +4889,7 @@
    "rails",
    "ruby"
   ],
-  "jd_note": "10237 chars"
+  "jd_note": "9510 chars"
  },
  {
   "company": "GitLab",
@@ -6621,7 +6602,7 @@
   "location": "Remote",
   "tag": "通用后端",
   "level": "Senior",
-  "url": "https://instacart.careers/job/?gh_jid=8141533",
+  "url": "https://instacart.careers/job/?gh_jid=8141535",
   "jd_fetched": true,
   "jd_keywords": [
    "ai",
@@ -6632,7 +6613,7 @@
    "pipelines",
    "python"
   ],
-  "jd_note": "7336 chars"
+  "jd_note": "6565 chars"
  },
  {
   "company": "Instacart",
@@ -7362,7 +7343,7 @@
   "location": "Seattle",
   "tag": "通用后端",
   "level": "Senior",
-  "url": "https://www.okta.com/company/careers/opportunity/8243128?gh_jid=8243128",
+  "url": "https://www.okta.com/company/careers/opportunity/8243981?gh_jid=8243981",
   "jd_fetched": true,
   "jd_keywords": [
    "ai",
@@ -7383,7 +7364,7 @@
    "observability",
    "site reliability"
   ],
-  "jd_note": "7911 chars"
+  "jd_note": "7898 chars"
  },
  {
   "company": "Okta",
@@ -9741,27 +9722,6 @@
  },
  {
   "company": "Pinterest",
-  "title": "Security Software Engineer II, Detection and Response",
-  "location": "Remote",
-  "tag": "通用后端",
-  "level": "SDE2/mid",
-  "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8015547",
-  "jd_fetched": true,
-  "jd_keywords": [
-   "ai",
-   "go",
-   "https",
-   "incident response",
-   "linux",
-   "on-call",
-   "pipelines",
-   "python",
-   "ruby"
-  ],
-  "jd_note": "7126 chars"
- },
- {
-  "company": "Pinterest",
   "title": "Software Engineer II, Data Analytics & Engineering",
   "location": "Remote",
   "tag": "数据/AI",
@@ -10489,6 +10449,19 @@
   "jd_fetched": true,
   "jd_keywords": [],
   "jd_note": "4358 chars"
+ },
+ {
+  "company": "Ramp",
+  "title": "Software Engineer, Fullstack, Spend Controls",
+  "location": "Remote",
+  "tag": "通用后端",
+  "level": "SDE2/mid",
+  "url": "https://jobs.ashbyhq.com/ramp/6e717b06-6613-42ad-a1ee-f852a305fa37",
+  "jd_fetched": true,
+  "jd_keywords": [
+   "on-call"
+  ],
+  "jd_note": "4771 chars"
  },
  {
   "company": "Ramp",
@@ -11328,27 +11301,6 @@
    "typescript"
   ],
   "jd_note": "3875 chars"
- },
- {
-  "company": "Replit",
-  "title": "Software Engineer, Enterprise",
-  "location": "Remote",
-  "tag": "通用后端",
-  "level": "SDE2/mid",
-  "url": "https://jobs.ashbyhq.com/replit/b7f12834-78d2-424d-bf83-0c942815fbf7",
-  "jd_fetched": true,
-  "jd_keywords": [
-   "agentic",
-   "ai",
-   "apis",
-   "graphql",
-   "llm",
-   "node.js",
-   "postgres",
-   "react",
-   "typescript"
-  ],
-  "jd_note": "4474 chars"
  },
  {
   "company": "Replit",
@@ -13587,6 +13539,38 @@
    "linux"
   ],
   "jd_note": "4908 chars"
+ },
+ {
+  "company": "Teleport",
+  "title": "Senior Backend Engineer - Performance - Ireland",
+  "location": "Remote",
+  "tag": "通用后端",
+  "level": "Senior",
+  "url": "https://jobs.ashbyhq.com/goteleport/6c57ad7d-f27b-43f9-9172-0197b7d1526e",
+  "jd_fetched": true,
+  "jd_keywords": [
+   "ai",
+   "distributed systems",
+   "go",
+   "linux"
+  ],
+  "jd_note": "4688 chars"
+ },
+ {
+  "company": "Teleport",
+  "title": "Senior Backend Engineer - Performance - UK",
+  "location": "Remote",
+  "tag": "通用后端",
+  "level": "Senior",
+  "url": "https://jobs.ashbyhq.com/goteleport/98a1b0c7-5b52-4283-931f-6a874664d561",
+  "jd_fetched": true,
+  "jd_keywords": [
+   "ai",
+   "distributed systems",
+   "go",
+   "linux"
+  ],
+  "jd_note": "4690 chars"
  },
  {
   "company": "Teleport",
